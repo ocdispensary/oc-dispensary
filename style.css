@@ -325,6 +325,60 @@ html {
   background-color: #243954;
   color: black;
 }
+  /* ---------- Button ---------- */
+.button-container {
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 20px;
+    padding: 20px;
+  }
+  .button {
+    align-items: center;
+    background-clip: padding-box;
+    background-color: #0e4f9a;
+    border: 1px solid transparent;
+    border-radius: 2rem;
+    box-sizing: border-box;
+    color: #f7e8cc;
+    cursor: pointer;
+    display: inline-flex;
+    font-family: system-ui,-apple-system,system-ui,"Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-size: 16px;
+    font-weight: 600;
+    justify-content: center;
+    line-height: 1.25;
+    margin: 0;
+    min-height: 3rem;
+    padding: calc(.875rem - 1px) calc(1.5rem - 1px);
+    position: absolute;
+    text-decoration: none;
+    transition: all 250ms;
+    user-select: none;
+    -webkit-user-select: none;
+    touch-action: manipulation;
+    vertical-align: baseline;
+    width: auto;
+  }
+  
+  .button:hover,
+  .button:focus {
+    background-color: #5195e1;
+    box-shadow: #46381e 0 4px 12px;
+  }
+  
+  .button:hover {
+    transform: translateY(-1px);
+    color: #efd09a;
+  }
+  
+  .button:active {
+    background-color: #243954;
+    box-shadow: rgba(0, 0, 0, .06) 0 2px 4px;
+    transform: translateY(0);
+  }
+
   /* ---------- UTILITIES ---------- */
   .tm-mb-20 {
     margin-bottom: 20px;
