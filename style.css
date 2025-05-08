@@ -325,6 +325,48 @@ html {
   background-color: #243954;
   color: black;
 }
+
+.navbar-btm {
+  overflow: hidden;
+  background-color: #031428;
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+  z-index: 999;
+  display: flex;
+  justify-content: center;
+  flex-direction: row;
+}
+
+.navbar-btm button{
+  background-color:  #031428;
+  border: none;
+}
+
+.navbar-btm button i{
+  display: flex;
+  color: #243954;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+  z-index: 9999;
+  transition: all 0.3s ease;
+}
+
+
+
+.navbar-btm button i:hover {
+  color: #fff;
+  z-index: 9999;
+}
+
+.navbar-btm button i.active {
+  background-color: #04AA6D;
+  color: white;
+  z-index: 9999;
+}
+
   /* ---------- Button ---------- */
 .button-container {
     position: relative;
