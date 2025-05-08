@@ -308,6 +308,7 @@ html {
   width: 100%;
   display: block;
   transition: top 0.3s;
+  z-index: 999;
 }
 
 #navbar a {
