@@ -11,23 +11,23 @@ fetch('top_sellers.json')
         'https://ocdispensary.github.io/oc-dispensary/'
       );
 
+
       const slide = document.createElement('div');
       slide.className = 'swiper-slide';
       slide.innerHTML = `
-        <div class="tm-special-img-container tm-special-item">
-          <a href="${link}" aria-label="${item.name}">
-            <img src="${item.img}" alt="${item.name}">
-            <div class="tm-special-item-description">
-              <h2 class="tm-text-primary tm-special-item-title">
-                ${item.name}
-              </h2>
-              <p class="tm-special-item-text">
-                <small>${item.brand}</small><br>
-                <span class="tm-list-item-price">${item.price}</span>
-              </p>
-            </div>
-          </a>
-        </div>`;
+      <div class="tm-special-img-container tm-special-item">
+        <a href="${item.link}" target="_blank" aria-label="${item.name}">
+          <img src="${item.img}" alt="${item.name}"></div>
+          <div class="tm-special-item-description">
+            <h2 class="tm-text-primary tm-special-item-title">
+              ${item.name}
+            </h2>
+            <p class="tm-special-item-text">
+              <small>${item.brand}</small><br>
+              <span class="tm-list-item-price">${item.price}</span>
+            </p>
+          </div>
+        </a>`;
       wrap.appendChild(slide);
     });
 
