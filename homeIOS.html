@@ -63,86 +63,16 @@
 
 </head>
 <!-- load the 'header_auto_hide' on the body -->
-<body>
-
-  <div class="tm-container">
+<body>       
+          <li class="tm-page-nav-item">
+            <button id="installApp" class="tm-page-link">to Install OC Dispensary App </button> 
+          </li>
+  
     <div class="tm-row">
       <div class="tm-site-header">
         <img src="https://iili.io/3GNEMBt.png" style="height: 200px">
-      </div>
-      <nav class="tm-site-nav">
-        <ul class="tm-site-nav-ul">
-          <div class="col">            
-          <li class="tm-page-nav-item">
-            <a href="https://ocdispensary.co/about/" class="tm-page-link">
-              <i class="fas fa-users tm-page-link-icon"></i>
-              <span>About Us</span>
-            </a>
-          </li>
-          <li class="tm-page-nav-item">
-            <a href="#featured" class="tm-page-link">
-              <i class="fas fa-star tm-page-link-icon"></i>
-              <span>Featured</span>
-            </a>
-          </li>          
-        </div>
-        <div class="col">   
-          <li class="tm-page-nav-item">
-            <a href="https://ocdispensary.co/contact-us/" class="tm-page-link">
-              <i class="fas fa-comments tm-page-link-icon"></i>
-              <span>Contact</span>
-            </a>
-          </li>
-          <li class="tm-page-nav-item">
-            <a href="https://ocdispensary.co/brooklyn-menu/" class="tm-page-link">
-              <i class="fas fa-store tm-page-link-icon"></i>
-              <span>Shop</span>
-            </a>
-          </li>
-        </div>
-        </ul>
-      </nav>
-      <!-- ── Left sidebar ─────────────────────────────────────────────── -->
-      <div class="tm-left">
-        <div class="tm-left-inner"></div>
-      </div>
-      <!-- ============ FEATURED (Top‑Sellers Carousel) ============ -->
-      <h3 class="tm-text-primary">Top Sellers </h3>
-      <section id="featured" class="tm-page-content">
-        <div class="swiper tm-special-carousel">
-          <div class="swiper-wrapper" id="featured-wrapper">
-            <!-- Slides injected here from top_sellers.json -->
-          </div>
-          <!-- Swiper controls (remove if you don’t want them) -->
-          <div class="swiper-button-prev"></div>
-          <div class="swiper-button-next"></div>
-          <div class="swiper-pagination"></div>
-        </div>
-      </section>
-      <!-- /#featured -->
-      <!-- ── Right (content) column ───────────────────────────────────── -->
-      <div class="tm-right">
-        <main class="tm-main">
-          <!-- ============ SHOP BY CATEGORY CAROUSEL ============ -->
-          <section id="shop" class="tm-page-content">
-            <h2 class="tm-text-primary tm-mb-20">Shop by Category</h2>
-            <!-- Swiper root -->
-            <div class="swiper categories-carousel">
-              <div class="swiper-wrapper" id="categories-wrapper">
-                <!-- Slides injected by categories.js -->
-              </div>
-              <!-- Optional controls -->
-              <div class="swiper-button-prev"></div>
-              <div class="swiper-button-next"></div>
-              <div class="swiper-pagination"></div>
-            </div>
-          </section>
-
-        </main>
-      </div>
-      <!-- /.tm-right -->
+    </div>  
     </div>
-
 </main>
 
 <!-- The footer with toolbar buttons -->
@@ -153,10 +83,15 @@
         </p>
       </footer>
 
-<script defer src="swiper-bundle.min.js"></script>
+<!-- The DrawerLayout for side menu panel -->
+<div data-ui-load="@lib/controllers/drawer_layout"
+     data-ui-options="options.drawerLayout"
+     class="drawer"
+     draggable="false">
+  <!-- Add Navigation Drawer content -->
+  <div data-ui-include="shared/main_menu"></div>
+</div>
 
 <script src="jquery-3.4.1.min.js"></script>
-<script src="top_sellers.js" defer></script>
-<script src="categories.js" defer></script>
 </body>
 </html>
