@@ -85,7 +85,7 @@ if (isCI) {
           const match = href.match(/\/product\/([^/?#]+)/);
           if (match) {
             const slug = encodeURIComponent(match[1]);
-            ocLink = `https://ocdispensary.co/brooklyn-menu/?dtche%5Bproduct%5D=${slug}`;
+            ocLink = `https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=${slug}`;
           }
         }
 
