@@ -2,7 +2,7 @@
   "name": "OC Dispensary App",
   "short_name": "OC Dispensary",
   "description": "NYC Legal & Licensed Recreational Cannabis Dispensary in Brooklyn, NY",
-  "theme_color": "#b08842",
+  "theme_color": "#031428",
   "background_color": "#040c17",
   "display": "standalone",
   "Scope": "./",

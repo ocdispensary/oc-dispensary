@@ -57,7 +57,16 @@ html {
     max-width: 720px;
     width: 100%;
   }
-  
+    .site-instuct {
+    background: #031428;
+    color: #d5aa5f;
+    width: 100%;
+    height: 65px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 10px;
+  }
   /* ---------- HEADER ---------- */
   .tm-site-header {
     background: #031428;
@@ -69,6 +78,7 @@ html {
     justify-content: center;
     margin-bottom: 20px;
   }
+
   .tm-site-logo {
     margin-right: 30px;
   }

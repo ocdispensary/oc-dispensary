@@ -13,7 +13,7 @@
   <meta name="msapplication-tap-highlight" content="no">
 
   <!-- Progressive Web App -->
-  <meta name="theme-color" content="#b08842">
+  <meta name="theme-color" content="#031428">
   <link rel="manifest" href="manifest.json">
 
   <!-- Add to homescreen for Chrome on Android -->
@@ -49,6 +49,7 @@
   <link rel="stylesheet" href="swiper.css">
   <script defer src="swiper-bundle.min.js"></script>
 <link rel="stylesheet" href="style.css"/>
+
 <link rel="stylesheet" href="fontawesome/css/all.min.css">
   <!-- preload zuix.js library -->
   <link rel="preload" as="script" href="js/zuix.js">
@@ -63,10 +64,16 @@
 
 </head>
 <!-- load the 'header_auto_hide' on the body -->
-<body>       
-          <li class="tm-page-nav-item">
-            <button id="installApp" class="tm-page-link">to Install OC Dispensary App </button> 
-          </li>
+<body> 
+    <div class="site-instuct">
+      <div class="tm-text-primary tm-mt-10">To Install OC Dispensary App For IOS</div>
+    </div> 
+      <div class="site-instuct">
+        <div class="tm-text-primary tm-mt-10">Tap The Share Button <i class="fa-solid fa-arrow-up-from-bracket"></i></div>
+      </div>    
+        <div class="site-instuct">
+          <div class="tm-text-primary tm-mt-10">Then Select "Add To Home Screen" From The options</div>
+        </div>    
   
     <div class="tm-row">
       <div class="tm-site-header">
@@ -82,15 +89,6 @@
           *For use only by adults 21 years of age and older. Keep out of reach of children and pets. In case of accidental ingestion or overconsumption, contact the National Poison Control Center hotline 1-800-222-1222 or call 9-1-1. Please consume responsibly. Cannabis is not recommended for use by persons who are pregnant or nursing. Concerned about your cannabis use? Text HOPENY, call 1-877-8-HOPENY, or visit <a href="oasas.ny.govHOPELine" class="tm-page-link" rel="sponsored">http://oasas.ny.gov/HOPELine</a>
         </p>
       </footer>
-
-<!-- The DrawerLayout for side menu panel -->
-<div data-ui-load="@lib/controllers/drawer_layout"
-     data-ui-options="options.drawerLayout"
-     class="drawer"
-     draggable="false">
-  <!-- Add Navigation Drawer content -->
-  <div data-ui-include="shared/main_menu"></div>
-</div>
 
 <script src="jquery-3.4.1.min.js"></script>
 </body>
