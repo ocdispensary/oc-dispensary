@@ -304,7 +304,7 @@ html {
 #navbar {
   background-color: #031428;
   position: fixed;
-  top: -50px;
+  top: -100px;
   width: 100%;
   display: block;
   transition: top 0.3s;
