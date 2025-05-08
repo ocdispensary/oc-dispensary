@@ -1,17 +1,10 @@
-// top_sellers.js  — rewritten 2025‑05‑08
+//top_sellers.js
 fetch('top_sellers.json')
   .then(r => r.json())
   .then(products => {
     const wrap = document.getElementById('featured-wrapper');
 
     products.forEach(item => {
-      /* rewrite to GitHub‑Pages + keep inside the current window */
-      const link = item.link.replace(
-        'https://ocdispensary.co/',
-        'https://ocdispensary.github.io/oc-dispensary/'
-      );
-
-
       const slide = document.createElement('div');
       slide.className = 'swiper-slide';
       slide.innerHTML = `
@@ -34,12 +27,12 @@ fetch('top_sellers.json')
     /* Initialise Swiper once slides exist */
     new Swiper('.tm-special-carousel', {
       loop: true,
-      autoplay: { delay: 10000 },
+      autoplay: { delay: 10000 },      /* 5‑second auto‑advance */
       slidesPerView: 2,
       spaceBetween: 20,
       pagination: { el: '.swiper-pagination', clickable: true },
       navigation: { nextEl: '.swiper-button-next', prevEl: '.swiper-button-prev' },
-      breakpoints: {
+      breakpoints: {                 /* responsive rows */
         600:  { slidesPerView: 3 },
         992:  { slidesPerView: 3 },
         1200: { slidesPerView: 4 }
