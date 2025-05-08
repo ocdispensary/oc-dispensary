@@ -1,9 +1,9 @@
 // TODO: increase `version` number to force cache update when publishing a new release
-const version = 'v1';
+const version = 'v2';
 
 const config = {
     cacheRemote: true,
-    version: version+'::',
+    version: version + '::',
     preCachingItems: [
         'app.bundle.js',
         'index.html',
@@ -16,7 +16,12 @@ const config = {
         'index.html',
         'service-worker.js'
     ],
-    offlineImage: '<svg role="img" aria-labelledby="offline-title"' + ' viewBox="0 0 400 300" xmlns="http://www.w3.org/2000/svg">' + '<title id="offline-title">Offline</title>' + '<g fill="none" fill-rule="evenodd"><path fill="#aaa" d="M0 0h400v300H0z"/>' + '<text fill="#222" font-family="monospace" font-size="32" font-weight="bold">' + '<tspan x="136" y="156">offline</tspan></text></g></svg>',
+    offlineImage:
+        '<svg role="img" aria-labelledby="offline-title" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300">' +
+        '<title id="offline-title">Offline</title>' +
+        '<rect width="400" height="300" fill="#f2f2f2"/>' +
+        '<text fill="#222" font-family="monospace" font-size="26" font-weight="700">' +
+        '<tspan x="136" y="156">offline</tspan></text></g></svg>',
     offlinePage: 'offline.html',
     notFoundPage: '404.html'
 };
@@ -41,8 +46,9 @@ function fetchFromCache(event) {
             throw Error(`${event.request.url} not found in cache`);
         } else if (response.status === 404) {
             return caches.match(config.notFoundPage);
+        } else {
+            return response;
         }
-        return response;
     });
 }
 
@@ -59,13 +65,13 @@ function offlineResponse(resourceType, opts) {
 }
 
 self.addEventListener('install', event => {
-    event.waitUntil(caches.open(
-        cacheName('static', config)
-        )
+    event.waitUntil(
+        caches.open(cacheName('static', config))
             .then(cache => cache.addAll(config.preCachingItems))
             .then(() => self.skipWaiting())
     );
 });
+
 self.addEventListener('activate', event => {
     function clearCacheIfDifferent(event, opts) {
         return caches.keys().then(cacheKeys => {
@@ -79,15 +85,28 @@ self.addEventListener('activate', event => {
             .then(() => self.clients.claim())
     );
 });
+
 self.addEventListener('fetch', event => {
     const request = event.request;
     const url = new URL(request.url);
-    if (request.method !== 'GET'
-        || (config.cacheRemote !== true && url.origin !== self.location.origin)
-        || (config.blacklistCacheItems.length > 0 && config.blacklistCacheItems.indexOf(url.pathname) !== -1)) {
+
+    // Redirect any request for ocdispensary.co to the GitHub‑Pages mirror
+    if (url.origin === 'https://ocdispensary.co') {
+        const proxy = url.href.replace(
+            'https://ocdispensary.co/',
+            'https://ocdispensary.github.io/oc-dispensary/'
+        );
+        event.respondWith(fetch(proxy));
+        return;
+    }
+
+    if (request.method !== 'GET' ||
+        (config.cacheRemote !== true && url.origin !== self.location.origin) ||
+        (config.blacklistCacheItems.length > 0 && config.blacklistCacheItems.indexOf(url.pathname) !== -1)) {
         // default browser behavior
         return;
     }
+
     let cacheKey;
     let resourceType = 'content';
     if (/(.jpg|.jpeg|.webp|.png|.svg|.gif)$/.test(url.pathname)) {
@@ -96,6 +115,7 @@ self.addEventListener('fetch', event => {
         resourceType = 'font';
     }
     cacheKey = cacheName(resourceType, config);
+
     if (resourceType === 'content') {
         // Network First Strategy
         event.respondWith(

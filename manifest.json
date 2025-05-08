@@ -5,8 +5,10 @@
   "theme_color": "#031428",
   "background_color": "#040c17",
   "display": "standalone",
+  "orientation": "portrait", 
   "Scope": "./",
   "start_url": "index.html",
+  
   "icons": [
     {
       "src": "images/icons/icon-72x72.png",
