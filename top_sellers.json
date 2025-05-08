@@ -14,25 +14,18 @@
     "price": "$44.00"
   },
   {
-    "name": "Flower | Our Creation | Sour Diesel",
-    "img": "https://images.dutchie.com/flower-stock-9-v1.jpg?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
-    "brand": "Our Creation",
-    "link": "https://ocdispensary.co/brooklyn-menu/?dtche%5Bproduct%5D=flower-our-creation-sour-diesel",
-    "price": "$44.00"
-  },
-  {
-    "name": "Flower | The Plug Pack | PB&J",
-    "img": "https://images.dutchie.com/d97324cbab4f7b65a0f301e3b03c9770?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
-    "brand": "The Plug Pack",
-    "link": "https://ocdispensary.co/brooklyn-menu/?dtche%5Bproduct%5D=flower-the-plug-pack-pb-j",
-    "price": "$24.00"
-  },
-  {
     "name": "Ayrloom | Mood Bliss | AIO | 1g  | THC : CBC",
     "img": "https://images.dutchie.com/33f375ac8c3f930ed4e41d430b904554?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
     "brand": "ayrloom",
     "link": "https://ocdispensary.co/brooklyn-menu/?dtche%5Bproduct%5D=ayrloom-mood-bliss-aio-1g-thc-cbc-45471",
     "price": "$40.00"
+  },
+  {
+    "name": "Flower | Our Creation | Sour Diesel",
+    "img": "https://images.dutchie.com/flower-stock-9-v1.jpg?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
+    "brand": "Our Creation",
+    "link": "https://ocdispensary.co/brooklyn-menu/?dtche%5Bproduct%5D=flower-our-creation-sour-diesel",
+    "price": "$44.00"
   },
   {
     "name": "Ayrloom | Mood Focus | AIO | 1g | THC : THCV",
@@ -77,6 +70,13 @@
     "price": "$130.00"
   },
   {
+    "name": "Vape Cart | Cookies | Cereal Milk",
+    "img": "https://images.dutchie.com/9c61ba45ed71b99779736408c95ac767?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
+    "brand": "Cookies",
+    "link": "https://ocdispensary.co/brooklyn-menu/?dtche%5Bproduct%5D=vape-cart-cookies-cereal-milk",
+    "price": "$64.00"
+  },
+  {
     "name": "Ayrloom | Mood Energy | AIO | 1g | THC : THCV : CBG",
     "img": "https://images.dutchie.com/e7c5dfcad6c2de84f434f83279704083?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
     "brand": "ayrloom",
@@ -89,6 +89,13 @@
     "brand": "Cookies",
     "link": "https://ocdispensary.co/brooklyn-menu/?dtche%5Bproduct%5D=infused-pre-rolls-cookies-triple-scoop-5pk",
     "price": "$60.00"
+  },
+  {
+    "name": "Vape Pod | Rove | RELOAD 2pk - Pineapple Express",
+    "img": "https://images.dutchie.com/6af319cb6faea3f5873dbc7b28f5a4f9?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
+    "brand": "Rove",
+    "link": "https://ocdispensary.co/brooklyn-menu/?dtche%5Bproduct%5D=vape-pod-rove-reload-2pk-pineapple-express",
+    "price": "$114.00"
   },
   {
     "name": "Flower | High Scale | Pink Certz",
@@ -116,13 +123,6 @@
     "img": "https://images.dutchie.com/70dd7cf7932adea9380ed90d93c6e5eb?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
     "brand": "High Scale",
     "link": "https://ocdispensary.co/brooklyn-menu/?dtche%5Bproduct%5D=flower-high-scale-sour-power",
-    "price": "$50.00"
-  },
-  {
-    "name": "NYC SOUR DIESEL | Packs Mini Bursts - 5 Pack Infused Mini Joints | 2.5G",
-    "img": "https://images.dutchie.com/7682052db1f5337361889e52a3c81d26?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
-    "brand": "PACKS LA",
-    "link": "https://ocdispensary.co/brooklyn-menu/?dtche%5Bproduct%5D=nyc-sour-diesel-packs-mini-bursts-5-pack-infused-mini-joints-2-5g-4917",
     "price": "$50.00"
   },
   {
