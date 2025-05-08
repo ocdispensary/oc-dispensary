@@ -1,0 +1,336 @@
+html {
+    scroll-behavior: smooth;
+  }
+  
+  body {
+    margin: 0;
+    padding: 0;
+    font-family: "Open Sans", Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    overflow-x: hidden;
+    background-color: #040c17;
+  }
+  
+  ul {
+    padding: 0;
+    margin: 0;
+  }
+  nav > ul > li {
+    list-style: none;
+  }
+  
+  a {
+    color: #b08842;
+    text-decoration: none;
+    transition: all 0.3s ease;
+  }
+  
+  p {
+    line-height: 1.8;
+    margin-top: 0;
+    color: #fff;
+  }
+  h2 {
+    margin-top: 0;
+  }
+  
+  .tm-container {
+    padding: 30px;
+  }
+  
+  /* -------------------------------------------------- */
+  /*  UNIVERSAL 550‑PX LAYOUT — FLUID / FILL‑SPACE      */
+  /* -------------------------------------------------- */
+  
+  .tm-row {
+    display: block;
+  }
+  .tm-left,
+  .tm-right {
+    width: 100%;
+  }
+  .tm-left {
+    margin-bottom: 10px;
+  }
+  .tm-left-inner {
+    position: static;
+    max-width: 720px;
+    width: 100%;
+  }
+  
+  /* ---------- HEADER ---------- */
+  .tm-site-header {
+    background: #031428;
+    color: #d5aa5f;
+    width: 100%;
+    height: 160px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 20px;
+  }
+  .tm-site-logo {
+    margin-right: 30px;
+  }
+  .tm-site-name {
+    font-size: 2.2rem;
+    font-style: italic;
+  }
+  
+  /* ---------- PRIMARY NAV ---------- */
+  .tm-site-nav-ul {
+    display: flex;
+    flex-wrap: wrap;
+    margin: -10px;
+  }
+  .tm-page-nav-item {
+    padding: 10px;
+    display: block;
+  }
+  .tm-page-link {
+    width: 100%;
+    height: 65px;
+    background: #031428;
+    color: #a3c1e6;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 1rem;
+    text-decoration: none;
+  }
+  .tm-page-link:hover,
+  .tm-page-link.active {
+    background: #243954;
+    color: #ffdea5;
+  }
+  .tm-page-link-icon {
+    margin: 12px;
+    font-size: 1.4rem;
+    fill: #a3c1e6;
+  }
+  .col {
+    display: flex;
+    flex-direction: column;
+    width: 50%;
+  }
+  /* ---------- GENERIC BLACK BOX ---------- */
+  .tm-black-bg {
+    background: rgba(0, 0, 0, 0.6);
+    color: #fff;
+  }
+  /* Simple sizing control */
+.category-card img {
+  width: 70%;
+  height: auto;
+  display: block;
+  margin: auto;
+}
+.category-card {
+  text-align: center;
+  padding: 12px;
+}
+
+  /* ---------- SHOP TABS ---------- */
+  .tm-drinks-nav {
+    height: 80px;
+  }
+  .tm-drinks-nav > ul {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    height: 100%;
+  }
+  .tm-drinks-nav > ul > li {
+    display: inline-block;
+  }
+  .tm-drinks-nav > ul > li > a {
+    color: #fff;
+    font-size: 1.2rem;
+    padding: 15px 0 5px;
+    border-bottom: 3px solid transparent;
+  }
+  .tm-drinks-nav > ul > li > a.active,
+  .tm-drinks-nav > ul > li > a:hover {
+    color: #96feff;
+    border-bottom: 4px solid #040c17;
+  }
+  
+  .tm-main {
+    width: 100%;
+  }
+  
+  /* ---------- GRID OF FEATURED / SPECIAL ITEMS ---------- */
+/* === Featured / Special Items ======================================= */
+
+/* Frame that wraps each product image */
+.tm-special-img-container{
+  width:75%;              /* keep your ¾‑width frame */
+  height:75%;         /* fixed display window  */
+  margin:0 auto 15px;     /* ⬅ centres the frame horizontally in .swiper‑slide */
+  background:#fff;
+  display:flex;           /* ‑‑ enable flexbox centering for the img‑tag ‑‑ */
+  align-items:center;     /* vertical centre */
+  justify-content:center; /* horizontal centre */
+}
+
+/* The product image */
+.tm-special-item img{
+  height:auto;           /* EVERY image exactly 220 px tall              */
+  width:auto;             /* preserve aspect ratio                         */
+  max-width:100%;         /* don’t overflow the frame                      */
+  display:block;          /* removes default inline gap                    */
+}
+
+/* Optional: ensure every slide centres its content (safety net) */
+.swiper-slide{
+  display:flex;
+  flex-flow: column;
+  justify-content:center;
+}
+
+  .tm-special-item-title {
+    font-size: 1rem;
+  }
+  .tm-special-item-description {
+    padding: 20px 25px;
+  }
+  
+  /* ---------- PRODUCT LISTS (SHOP) ---------- */
+  .tm-list-item {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    margin-top: 20px;
+  }
+  .tm-list-item-img,
+  .tm-list-item-spec-img,
+  .tm-list-item-img-big {
+    flex: 0 0 100%;
+    max-width: 100%;
+    margin: 0 20px 20px 0;
+    background: #031428;
+  }
+  .tm-list-item-img > img,
+  .tm-list-item-spec-img > img,
+  .tm-list-item-img-big > img {
+    width: 100%;
+    height: auto;
+  }
+  .tm-list-item-text {
+    flex: 1 1 70%;
+    padding: 20px 25px;
+  }
+  .tm-list-item-text-2 {
+    flex: 1;
+  }
+  .tm-list-item-name {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 0;
+  }
+  .tm-list-item-price {
+    color: #d5aa5f;
+  }
+  
+  /* ---------- ABOUT SECTION ---------- */
+  .tm-about-box-1 {
+    padding: 40px 30px 30px 0;
+  }
+  .tm-about-box-2 {
+    padding: 50px 40px 30px;
+  }
+  .tm-about-header {
+    margin-left: 180px;
+  }
+  
+  /* ---------- CONTACT ---------- */
+  .tm-contact-text-container {
+    padding: 45px 50px;
+    margin-bottom: 20px;
+  }
+  .tm-contact-form-container {
+    max-width: 460px;
+    padding: 40px 50px;
+    box-sizing: border-box;
+  }
+  .tm-form-group {
+    margin-bottom: 25px;
+  }
+  .tm-form-control {
+    display: block;
+    box-sizing: border-box;
+    width: 100%;
+    padding: 15px;
+    font-family: "Open Sans", Arial, Helvetica, sans-serif;
+    font-size: 1rem;
+    line-height: 1.5;
+    color: #fff;
+    background: transparent;
+    border: 0;
+    border-bottom: 1px solid #fff;
+  }
+  .tm-form-control::placeholder {
+    color: #fff;
+  }
+  .tm-btn-primary {
+    color: #d5aa5f;
+    background: #fff;
+    border: 0;
+    padding: 12px 40px;
+    font-size: 1.4rem;
+    cursor: pointer;
+    transition: all 0.3s ease;
+  }
+  .tm-btn-primary:hover {
+    color: #fff;
+    background: #d5aa5f;
+  }
+  .tm-align-right {
+    display: block;
+    margin-left: auto;
+    margin-right: 0;
+  }
+  
+  /* ---------- UTILITIES ---------- */
+  .tm-mb-20 {
+    margin-bottom: 20px;
+  }
+  .tm-mb-30 {
+    margin-bottom: 30px;
+  }
+  .tm-text-primary {
+    color: #d5aa5f;
+  }
+  .tm-tab-content,
+  .tm-page-content {
+    animation: fadeEffect 1s;
+  }
+  
+  @keyframes fadeEffect {
+    from {
+      opacity: 0.3;
+    }
+    to {
+      opacity: 1;
+    }
+  }
+  
+  /* ---------- FOOTER ---------- */
+  .tm-site-footer {
+    margin-top: 15px;
+  }
+  .tm-footer-text {
+    padding: 10px 65px 10px 20px;
+    display: inline-block;
+  }
+  .tm-footer-link {
+    color: #fff;
+  }
+  
+  @media (min-width: 833px) {
+    .tm-special-items {
+      display: grid;
+      grid-template-columns: repeat(4, 1fr);
+      gap: 20px;
+  }
+  }

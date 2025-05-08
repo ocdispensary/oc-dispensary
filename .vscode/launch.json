@@ -1,0 +1,10 @@
+{
+    "configurations": [
+        {
+            "type": "chrome",
+            "name": "http://http://127.0.0.1:5500/",
+            "request": "launch",
+            "url": "http://http://127.0.0.1:5500/"
+        }
+    ]
+}

@@ -1,0 +1,177 @@
+[
+  {
+    "name": "Flower | The Plug Pack | Bomb Pop",
+    "img": "https://images.dutchie.com/3910017341f7cca71769a7db44334336?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
+    "brand": "The Plug Pack",
+    "link": "https://ocdispensary.co/brooklyn-menu/?dtche%5Bproduct%5D=flower-the-plug-pack-bomb-pop",
+    "price": "$24.00"
+  },
+  {
+    "name": "Flower | Nanticoke | Durban Poison",
+    "img": "https://images.dutchie.com/da0ec44e8512912c5150e67b0ba11e87?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
+    "brand": "Nanticoke",
+    "link": "https://ocdispensary.co/brooklyn-menu/?dtche%5Bproduct%5D=flower-nanticoke-durban-poison-61059",
+    "price": "$44.00"
+  },
+  {
+    "name": "Flower | Our Creation | Sour Diesel",
+    "img": "https://images.dutchie.com/flower-stock-9-v1.jpg?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
+    "brand": "Our Creation",
+    "link": "https://ocdispensary.co/brooklyn-menu/?dtche%5Bproduct%5D=flower-our-creation-sour-diesel",
+    "price": "$44.00"
+  },
+  {
+    "name": "Flower | The Plug Pack | PB&J",
+    "img": "https://images.dutchie.com/d97324cbab4f7b65a0f301e3b03c9770?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
+    "brand": "The Plug Pack",
+    "link": "https://ocdispensary.co/brooklyn-menu/?dtche%5Bproduct%5D=flower-the-plug-pack-pb-j",
+    "price": "$24.00"
+  },
+  {
+    "name": "Ayrloom | Mood Bliss | AIO | 1g  | THC : CBC",
+    "img": "https://images.dutchie.com/33f375ac8c3f930ed4e41d430b904554?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
+    "brand": "ayrloom",
+    "link": "https://ocdispensary.co/brooklyn-menu/?dtche%5Bproduct%5D=ayrloom-mood-bliss-aio-1g-thc-cbc-45471",
+    "price": "$40.00"
+  },
+  {
+    "name": "Ayrloom | Mood Focus | AIO | 1g | THC : THCV",
+    "img": "https://images.dutchie.com/3d01f30c99e9ebdf1a801cb0badc0c88?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
+    "brand": "ayrloom",
+    "link": "https://ocdispensary.co/brooklyn-menu/?dtche%5Bproduct%5D=ayrloom-mood-focus-aio-1g-thc-thcv-71184",
+    "price": "$40.00"
+  },
+  {
+    "name": "MIAMI HAZE | Packs Mini Bursts - 5 Pack Infused Mini Joints | 2.5G",
+    "img": "https://images.dutchie.com/0c9dfedf046eca5a3e6a6b2509be59fe?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
+    "brand": "PACKS LA",
+    "link": "https://ocdispensary.co/brooklyn-menu/?dtche%5Bproduct%5D=miami-haze-packs-mini-bursts-5-pack-infused-mini-joints-2-5g-53162",
+    "price": "$50.00"
+  },
+  {
+    "name": "PINEAPPLE HAZE | Packs Mini Bursts - 5 Pack Infused Mini Joints | 2.5G",
+    "img": "https://images.dutchie.com/35bd528172f48458c8e70a9fd29e25ae?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
+    "brand": "PACKS LA",
+    "link": "https://ocdispensary.co/brooklyn-menu/?dtche%5Bproduct%5D=pineapple-haze-packs-mini-bursts-5-pack-infused-mini-joints-2-5g-87521",
+    "price": "$50.00"
+  },
+  {
+    "name": "Infused Pre-Rolls | Dank | Mimosa - 5pk | 2.75G",
+    "img": "https://images.dutchie.com/9c298e473b6d1e454df94d015f187dd8?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
+    "brand": "Dank By Definition.",
+    "link": "https://ocdispensary.co/brooklyn-menu/?dtche%5Bproduct%5D=infused-pre-rolls-dank-mimosa-5pk-2-75g",
+    "price": "$50.00"
+  },
+  {
+    "name": "CAM: Lemon Cherry Gelato - NY Diamond Infused Pre-Rolls | 2.5G 5-Pack",
+    "img": "https://images.dutchie.com/745ec4bbf16c59175babafa58920791b?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
+    "brand": "Heavy Hitters",
+    "link": "https://ocdispensary.co/brooklyn-menu/?dtche%5Bproduct%5D=cam-lemon-cherry-gelato-ny-diamond-infused-pre-rolls-2-5g-5-pack-82114",
+    "price": "$75.00"
+  },
+  {
+    "name": "Vape Cart | Heavy Hitters | Peach Crescendo",
+    "img": "https://images.dutchie.com/a6505b4a76ef4d83148cc404b49f0976?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
+    "brand": "Heavy Hitters",
+    "link": "https://ocdispensary.co/brooklyn-menu/?dtche%5Bproduct%5D=vape-cart-heavy-hitters-peach-crescendo",
+    "price": "$130.00"
+  },
+  {
+    "name": "Ayrloom | Mood Energy | AIO | 1g | THC : THCV : CBG",
+    "img": "https://images.dutchie.com/e7c5dfcad6c2de84f434f83279704083?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
+    "brand": "ayrloom",
+    "link": "https://ocdispensary.co/brooklyn-menu/?dtche%5Bproduct%5D=ayrloom-mood-energy-aio-1g-thc-thcv-cbg-80470",
+    "price": "$40.00"
+  },
+  {
+    "name": "Infused Pre-Rolls | Cookies | Triple Scoop - 5pk",
+    "img": "https://images.dutchie.com/c846190eb35a9766ce8be5d6b1f4de69?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
+    "brand": "Cookies",
+    "link": "https://ocdispensary.co/brooklyn-menu/?dtche%5Bproduct%5D=infused-pre-rolls-cookies-triple-scoop-5pk",
+    "price": "$60.00"
+  },
+  {
+    "name": "Flower | High Scale | Pink Certz",
+    "img": "https://images.dutchie.com/4410135e1aad09502b928a62da61299e?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
+    "brand": "High Scale",
+    "link": "https://ocdispensary.co/brooklyn-menu/?dtche%5Bproduct%5D=flower-high-scale-pink-certz",
+    "price": "$36.70"
+  },
+  {
+    "name": "Northern Lights | Indica - Ultra Extract High Potency Oil - 0.5G All-In-One Vape",
+    "img": "https://images.dutchie.com/52fbd0cb061ba0e2e59c91091ca8ae53?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
+    "brand": "Heavy Hitters",
+    "link": "https://ocdispensary.co/brooklyn-menu/?dtche%5Bproduct%5D=northern-lights-indica-ultra-extract-high-potency-oil-0-5g-all-in-one-vape-47155",
+    "price": "$55.00"
+  },
+  {
+    "name": "Flower | Good Green | Gelonade",
+    "img": "https://images.dutchie.com/335b734b8c7bcd83c984712595acfe3a?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
+    "brand": "Good Green",
+    "link": "https://ocdispensary.co/brooklyn-menu/?dtche%5Bproduct%5D=flower-good-green-gelonade",
+    "price": "$36.00"
+  },
+  {
+    "name": "Flower | High Scale | Sour Power",
+    "img": "https://images.dutchie.com/70dd7cf7932adea9380ed90d93c6e5eb?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
+    "brand": "High Scale",
+    "link": "https://ocdispensary.co/brooklyn-menu/?dtche%5Bproduct%5D=flower-high-scale-sour-power",
+    "price": "$50.00"
+  },
+  {
+    "name": "NYC SOUR DIESEL | Packs Mini Bursts - 5 Pack Infused Mini Joints | 2.5G",
+    "img": "https://images.dutchie.com/7682052db1f5337361889e52a3c81d26?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
+    "brand": "PACKS LA",
+    "link": "https://ocdispensary.co/brooklyn-menu/?dtche%5Bproduct%5D=nyc-sour-diesel-packs-mini-bursts-5-pack-infused-mini-joints-2-5g-4917",
+    "price": "$50.00"
+  },
+  {
+    "name": "VAPE AIO | Ghost | Ghost Train Haze",
+    "img": "https://images.dutchie.com/d2fec620ac2863b9fcc159108b81625f?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
+    "brand": "ghost.",
+    "link": "https://ocdispensary.co/brooklyn-menu/?dtche%5Bproduct%5D=vape-aio-ghost-ghost-train-haze",
+    "price": "$100.00"
+  },
+  {
+    "name": "VAPE AIO | Ghost | Apple Jacks",
+    "img": "https://images.dutchie.com/f1b76babf232339970bbadffae4111b2?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
+    "brand": "ghost.",
+    "link": "https://ocdispensary.co/brooklyn-menu/?dtche%5Bproduct%5D=vape-aio-ghost-apple-jacks",
+    "price": "$100.00"
+  },
+  {
+    "name": "Infused Flower | Her Highness | Pre-Ground - Rainbow Chip",
+    "img": "https://images.dutchie.com/2653926586b1eee8633e4c0ddd96ac07?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
+    "brand": "HER Highness",
+    "link": "https://ocdispensary.co/brooklyn-menu/?dtche%5Bproduct%5D=infused-flower-her-highness-pre-ground-rainbow-chip",
+    "price": "$50.00"
+  },
+  {
+    "name": "Pre Rolls | Ruby Farms | | Ghost Train Haze #2- 7pk",
+    "img": "https://images.dutchie.com/7b24b8b99bd3215ed4ed7e3300a88806?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
+    "brand": "Ruby Farms",
+    "link": "https://ocdispensary.co/brooklyn-menu/?dtche%5Bproduct%5D=pre-rolls-ruby-farms-ghost-train-haze-2-7pk",
+    "price": "$50.00"
+  },
+  {
+    "name": "Flower | 1937 | Biker Kush",
+    "img": "https://images.dutchie.com/06dd802231f4934e1075099eabcb3727?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
+    "brand": "1937",
+    "link": "https://ocdispensary.co/brooklyn-menu/?dtche%5Bproduct%5D=flower-1937-biker-kush",
+    "price": "$50.00"
+  },
+  {
+    "name": "Flower | Platinum Reserve | Titan OG",
+    "img": "https://images.dutchie.com/73d4a987f22f6c1c43196a0cb32e55e3?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
+    "brand": "Platinum Reserve",
+    "link": "https://ocdispensary.co/brooklyn-menu/?dtche%5Bproduct%5D=flower-platinum-reserve-titan-og",
+    "price": "$46.00"
+  },
+  {
+    "name": "VAPE AIO | Cannabals | Live Diamonds Vape - Apple Burst",
+    "img": "https://images.dutchie.com/bb8c91ee66d814470e24755b9a7b427c?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
+    "brand": "Cannabals",
+    "link": "https://ocdispensary.co/brooklyn-menu/?dtche%5Bproduct%5D=vape-aio-cannabals-live-diamonds-vape-apple-burst",
+    "price": "$90.00"
+  }
+]
