@@ -1,7 +1,7 @@
 /*  OC‑Dispensary PWA  ▸  sw.js
  *  Increment BUILD_VERSION (or inject a timestamp/SHA) on every deploy.
  */
-const BUILD_VERSION = '2025‑05‑09‑04';
+const BUILD_VERSION = '2025‑05‑09‑03';
 const CACHE_PREFIX  = `v${BUILD_VERSION}::`;
 
 const CONFIG = {
