@@ -1,40 +1,51 @@
-import data from './top_sellers.json'  assert { type: 'json' };
+/*  top_sellers.js  (no build step, works with a plain <script defer>)  */
 
-const wrapper = document.getElementById('featured-wrapper');
+(async () => {
+  const wrapper = document.getElementById('featured-wrapper');
+  if (!wrapper) return;                   // safety‑net
 
-data.forEach((item) => {
-  const url = new URL(item.link);
+  // 1.  Load JSON – adjust the path only if you move the file
+  const response = await fetch('top_sellers.json', { cache: 'reload' });
+  const products = await response.json();
 
-  const slide = document.createElement('div');
-  slide.className = 'swiper-slide';
-      slide.innerHTML = `
-      <div class="tm-special-img-container tm-special-item">
-        <a href="${item.link}" target="_blank" aria-label="${item.name}">
-          <img src="${item.img}" alt="${item.name}"></div>
-          <div class="tm-special-item-description">
-            <h2 class="tm-text-primary tm-special-item-title">
-              ${item.name}
-            </h2>
-            <p class="tm-special-item-text">
-              <small>${item.brand}</small><br>
-              <span class="tm-list-item-price">${item.price}</span>
-            </p>
-          </div>
-        </a>`;
-      wrap.appendChild(slide);
-    });
+  // 2.  Build one <div class="swiper‑slide"> per product
+  for (const p of products) {
+    const url = new URL(p.link);
 
-    /* Initialise Swiper once slides exist */
-    new Swiper('.tm-special-carousel', {
-      loop: true,
-      autoplay: { delay: 10000 },      /* 5‑second auto‑advance */
+    wrapper.insertAdjacentHTML('beforeend', `
+      <div class="swiper-slide">
+        <a
+          href="${url.pathname + url.search}"  <!-- /oc-dispensary/menu?dtche… -->
+          data-internal
+          target="_self"
+          rel="noopener"
+          class="product-card"
+        >
+          <img src="${p.img}" alt="">
+          <h4>${p.title}</h4>
+          <p>${p.price}</p>
+        </a>
+      </div>
+    `);
+  }
+
+  /* 3.  (Re)initialise Swiper only after slides exist.
+         If you already create it somewhere else, just call .update() instead. */
+  if (window.featuredSwiper) {
+    window.featuredSwiper.update();        // Swiper was created earlier
+  } else {
+    window.featuredSwiper = new Swiper('.tm-special-carousel', {
       slidesPerView: 2,
-      spaceBetween: 20,
-      pagination: { el: '.swiper-pagination', clickable: true },
-      navigation: { nextEl: '.swiper-button-next', prevEl: '.swiper-button-prev' },
-      breakpoints: {                 /* responsive rows */
-        600:  { slidesPerView: 3 },
-        992:  { slidesPerView: 3 },
-        1200: { slidesPerView: 4 }
-      }
+      spaceBetween: 16,
+      navigation: {
+        nextEl: '.swiper-button-next',
+        prevEl: '.swiper-button-prev'
+      },
+      pagination: {
+        el: '.swiper-pagination',
+        clickable: true
+      },
+      breakpoints: { 640: { slidesPerView: 3 } }
     });
+  }
+})();
