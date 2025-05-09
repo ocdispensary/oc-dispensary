@@ -1,59 +1,52 @@
-/*  top_sellers.js  (no build step, works with a plain <script defer>)  */
+/*  top_sellers.js  –  classic script, no build step required
+ *  – Re‑creates the original OC Dispensary “Top Sellers” slide markup
+ *  – Converts any absolute product URL to a relative in‑scope link
+ *  – Adds target="_self" + data‑internal so our click‑interceptor keeps it inside the PWA
+ */
 
 (async () => {
-  const wrapper = document.getElementById('featured-wrapper');
-  if (!wrapper) return;                   // safety‑net
+  const wrap = document.getElementById('featured-wrapper');
+  if (!wrap) return;                     // safety‑net for pages without the carousel
 
-  // 1.  Load JSON – adjust the path only if you move the file
-  const response = await fetch('top_sellers.json', { cache: 'reload' });
-  const products = await response.json();
+  // 1.  Load the JSON feed
+  const res      = await fetch('top_sellers.json', { cache: 'reload' });
+  const products = await res.json();
 
-  // 2.  Build one <div class="swiper‑slide"> per product
-  for (const p of products) {
-    const url = new URL(p.link);
+  // 2.  Build the slides
+  products.forEach(item => {
+    const slide  = document.createElement('div');
+    slide.className = 'swiper-slide';
 
-    wrapper.insertAdjacentHTML('beforeend', `
-      <div class="swiper-slide">
-        <a
-          href="${url.pathname + url.search}"  <!-- /oc-dispensary/menu?dtche… -->
-          data-internal
-          target="_self"
-          rel="noopener"
-          class="product-card"
-        >
-          <img src="${p.img}" alt="">
-          <h4>${p.name}</h4>
-          <p>${p.price}</p>
-        </a>
-      </div>
-    `);
-  }
+    // Convert absolute URL → relative path + query so it’s always “in scope”
+    const u         = new URL(item.link);
+    const relative  = u.pathname + u.search;   //  /oc-dispensary/menu?dtche[product]=…
 
+    slide.innerHTML = `
+      <a
+        href="${relative}"
+        data-internal
+        target="_self"
+        aria-label="${item.name}"
+        class="tm-special-item"
+      >
+        <div class="tm-special-img-container">
+          <img src="${item.img}" alt="${item.name}">
+        </div>
 
+        <div class="tm-special-item-description">
+          <h2 class="tm-text-primary tm-special-item-title">${item.name}</h2>
+          <p class="tm-special-item-text">
+            <small>${item.brand}</small><br>
+            <span class="tm-list-item-price">${item.price}</span>
+          </p>
+        </div>
+      </a>`;
+    wrap.appendChild(slide);
+  });
 
-      <div class="tm-special-img-container tm-special-item">
-        <a href="${item.link}" target="_blank" aria-label="${item.name}">
-          <img src="${item.img}" alt="${item.name}"></div>
-          <div class="tm-special-item-description">
-            <h2 class="tm-text-primary tm-special-item-title">
-              ${item.name}
-            </h2>
-            <p class="tm-special-item-text">
-              <small>${item.brand}</small><br>
-              <span class="tm-list-item-price">${item.price}</span>
-            </p>
-          </div>
-        </a>`;
-
-
-
-
-
-
-  /* 3.  (Re)initialise Swiper only after slides exist.
-         If you already create it somewhere else, just call .update() instead. */
+  // 3.  Initialise (or refresh) Swiper after the slides exist
   if (window.featuredSwiper) {
-    window.featuredSwiper.update();        // Swiper was created earlier
+    window.featuredSwiper.update();        // If Swiper was created earlier
   } else {
     window.featuredSwiper = new Swiper('.tm-special-carousel', {
       slidesPerView: 2,
