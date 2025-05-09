@@ -19,7 +19,7 @@ const CONFIG = {
 
   /* NEW ► single‑page‑app options */
   spaRoot:  '/index.html',                                        // what we serve for in‑scope navigations
-  inScopePrefix: 'https://ocdispensary.github.io/oc-dispensary/', // links that must stay in‑app
+  inScopePrefix: 'https://ocdispensary.github.io/', // links that must stay in‑app
 
   /* misc */
   blacklist: ['service-worker.js'],
