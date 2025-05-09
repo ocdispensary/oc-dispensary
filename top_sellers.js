@@ -1,12 +1,12 @@
-//top_sellers.js
-fetch('top_sellers.json')
-  .then(r => r.json())
-  .then(products => {
-    const wrap = document.getElementById('featured-wrapper');
+import data from './top_sellers.json'  assert { type: 'json' };
 
-    products.forEach(item => {
-      const slide = document.createElement('div');
-      slide.className = 'swiper-slide';
+const wrapper = document.getElementById('featured-wrapper');
+
+data.forEach((item) => {
+  const url = new URL(item.link);
+
+  const slide = document.createElement('div');
+  slide.className = 'swiper-slide';
       slide.innerHTML = `
       <div class="tm-special-img-container tm-special-item">
         <a href="${item.link}" target="_blank" aria-label="${item.name}">
@@ -38,5 +38,3 @@ fetch('top_sellers.json')
         1200: { slidesPerView: 4 }
       }
     });
-  })
-  .catch(err => console.error('🚨 Could not load top_sellers.json', err));
