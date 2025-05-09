@@ -7,8 +7,6 @@ const CACHE_PREFIX  = `v${BUILD_VERSION}::`;
 const CONFIG = {
   version:      CACHE_PREFIX,
   cacheRemote:  true,
-  spaRoot:  '/oc-dispensary/index.html',
-  inScopePrefix: self.location.origin + '/oc-dispensary/',
   precache: [
     '/',
     '/index.html',

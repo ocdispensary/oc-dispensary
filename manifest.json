@@ -6,7 +6,7 @@
   "background_color": "#040c17",
   "display": "standalone",
   "orientation": "portrait", 
-  "start_url": "/oc-dispensary/index.html",
+  "start_url": "https://ocdispensary.github.io/oc-dispensary/index.html",
   "scope":      "/oc-dispensary/", 
   
   "icons": [
