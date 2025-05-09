@@ -365,7 +365,7 @@ html {
 }
 
   /* ---------- Button ---------- */
-.button-container-std {
+.button-container {
     position: relative;
     display: flex;
     justify-content: center;
@@ -373,7 +373,7 @@ html {
     margin: 20px;
     padding: 20px;
   }
-  .button-std {
+  .button {
     align-items: center;
     background-clip: padding-box;
     background-color: #0e4f9a;
@@ -401,42 +401,22 @@ html {
     width: auto;
   }
   
-  .button-std:hover,
-  .button-std:focus {
+  .button:hover,
+  .button:focus {
     background-color: #5195e1;
     box-shadow: #46381e 0 4px 12px;
   }
   
-  .button-std:hover {
+  .button:hover {
     transform: translateY(-1px);
     color: #efd09a;
   }
   
-  .button-std:active {
+  .button:active {
     background-color: #243954;
     box-shadow: rgba(0, 0, 0, .06) 0 2px 4px;
     transform: translateY(0);
   }
-/* CSS styling for this feature */
-
-/* fix for a temporary bug with layering */
-.fa-layers svg.svg-inline--fa {
-  background: transparent;
-}
-
-
-/* demo styling - you don't need these styles for your power tranforms */
-.sample {
-  margin: var(--spacing-xl);
-  padding: var(--spacing-xl);
-  border: 2px solid var(--fa-navy);
-  border-radius: var(--border-radius-md);
-  background-color: var(--white);
-}
-
-.sample .svg-inline--fa { 
-  background-color: MistyRose; 
-}
 
   /* ---------- UTILITIES ---------- */
   .tm-mb-20 {
