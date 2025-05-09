@@ -347,28 +347,25 @@ html {
   display: flex;
   color: #243954;
   text-align: center;
-  padding: 14px 16px;
+  padding: 16px;
   text-decoration: none;
   font-size: 17px;
   z-index: 9999;
   transition: all 0.3s ease;
 }
 
-
-
 .navbar-btm button i:hover {
-  color: #fff;
+  color: #f2f2f2;
   z-index: 9999;
 }
 
 .navbar-btm button i.active {
-  background-color: #04AA6D;
-  color: white;
+  color: #f2f2f2;
   z-index: 9999;
 }
 
   /* ---------- Button ---------- */
-.button-container {
+.button-container-std {
     position: relative;
     display: flex;
     justify-content: center;
@@ -376,7 +373,7 @@ html {
     margin: 20px;
     padding: 20px;
   }
-  .button {
+  .button-std {
     align-items: center;
     background-clip: padding-box;
     background-color: #0e4f9a;
@@ -404,22 +401,42 @@ html {
     width: auto;
   }
   
-  .button:hover,
-  .button:focus {
+  .button-std:hover,
+  .button-std:focus {
     background-color: #5195e1;
     box-shadow: #46381e 0 4px 12px;
   }
   
-  .button:hover {
+  .button-std:hover {
     transform: translateY(-1px);
     color: #efd09a;
   }
   
-  .button:active {
+  .button-std:active {
     background-color: #243954;
     box-shadow: rgba(0, 0, 0, .06) 0 2px 4px;
     transform: translateY(0);
   }
+/* CSS styling for this feature */
+
+/* fix for a temporary bug with layering */
+.fa-layers svg.svg-inline--fa {
+  background: transparent;
+}
+
+
+/* demo styling - you don't need these styles for your power tranforms */
+.sample {
+  margin: var(--spacing-xl);
+  padding: var(--spacing-xl);
+  border: 2px solid var(--fa-navy);
+  border-radius: var(--border-radius-md);
+  background-color: var(--white);
+}
+
+.sample .svg-inline--fa { 
+  background-color: MistyRose; 
+}
 
   /* ---------- UTILITIES ---------- */
   .tm-mb-20 {
@@ -448,15 +465,28 @@ html {
   /* ---------- FOOTER ---------- */
   .tm-site-footer {
     margin-top: 15px;
+    margin-bottom: 30px;
   }
   .tm-footer-text {
-    padding: 10px 65px 10px 20px;
+    padding: 0px 10px 10px 20px;
     display: inline-block;
+    text-align: justify;
+    text-justify: inter-word;
+    color: #a3c1e6;
+  }
+  .tm-footer-header {
+    padding: 10px 10px 0px 20px;
+    font-style: italic;
+    display: inline-block;
+    font-weight: bold;
+    color: #a3c1e6;
   }
   .tm-footer-link {
     color: #fff;
   }
   
+
+
   @media (min-width: 833px) {
     .tm-special-items {
       display: grid;

@@ -1,28 +1,19 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
+    <link rel="stylesheet" href="style.css"/>
+    <link rel="stylesheet" href="fontawesome/css/all.min.css">
     <title>Offline</title>
-    <style>
-        body {
-            color: darkslategrey;
-            background: white;
-            width: 100vw;
-            height: 100vh;
-            overflow: hidden;
-        }
-        .message h1 {
-            font-family: monospace;
-            font-size: 300%;
-            line-height: 100vh;
-            vertical-align: middle;
-        }
-    </style>
 </head>
 <body>
 
-    <div class="message" align="center">
-        <h1>Offline =/</h1>
-    </div>
+<div class="message" style="align-items: center; display: flex; justify-content: center; height: 100vh; color: #efefef;">
+    <h1>Offline<i style="transform: translateX(12px);" class="fa-solid fa-wifi"></i><i style="transform: translateX(-36px); color: #c44343;" class="fa-solid fa-slash"></i></h1>
+</div>
 
 </body>
+<div class="navbar-btm">
+  <button onclick="history.back()"><i class="fa-solid fa-circle-left navbar-btm-icon"></i></button>
+  <button onclick="history.forward()"><i class="fa-solid fa-circle-right navbar-btm-icon"></i></button>
+</div>
 </html>
