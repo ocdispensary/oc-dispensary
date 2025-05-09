@@ -22,12 +22,33 @@
           class="product-card"
         >
           <img src="${p.img}" alt="">
-          <h4>${p.title}</h4>
+          <h4>${p.name}</h4>
           <p>${p.price}</p>
         </a>
       </div>
     `);
   }
+
+
+
+      <div class="tm-special-img-container tm-special-item">
+        <a href="${item.link}" target="_blank" aria-label="${item.name}">
+          <img src="${item.img}" alt="${item.name}"></div>
+          <div class="tm-special-item-description">
+            <h2 class="tm-text-primary tm-special-item-title">
+              ${item.name}
+            </h2>
+            <p class="tm-special-item-text">
+              <small>${item.brand}</small><br>
+              <span class="tm-list-item-price">${item.price}</span>
+            </p>
+          </div>
+        </a>`;
+
+
+
+
+
 
   /* 3.  (Re)initialise Swiper only after slides exist.
          If you already create it somewhere else, just call .update() instead. */
