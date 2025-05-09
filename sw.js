@@ -1,27 +1,23 @@
-/*  OC‑Dispensary PWA  ▸  sw.js  (BUILD_VERSION must change on every deploy) */
-const BUILD_VERSION = '2025‑05‑08‑02';          // ← bump each release
+/*  OC‑Dispensary PWA  ▸  sw.js
+ *  Increment BUILD_VERSION (or inject a timestamp/SHA) on every deploy.
+ */
+const BUILD_VERSION = '2025‑05‑09‑01';
 const CACHE_PREFIX  = `v${BUILD_VERSION}::`;
 
 const CONFIG = {
   version:      CACHE_PREFIX,
   cacheRemote:  true,
-
-  /* pre‑cached core shell — keep this short and stable */
+  spaRoot:  '/oc-dispensary/index.html',
+  inScopePrefix: self.location.origin + '/oc-dispensary/',
   precache: [
-    '/',                  // root request
-    '/index.html',        // SPA entry‑point
+    '/',
+    '/index.html',
     '/offline.html',
     '/404.html',
     '/app.bundle.js',
     '/manifest.json',
     '/sw.js'
   ],
-
-  /* NEW ► single‑page‑app options */
-  spaRoot:  '/index.html',                                        // what we serve for in‑scope navigations
-  inScopePrefix: 'https://ocdispensary.github.io/', // links that must stay in‑app
-
-  /* misc */
   blacklist: ['service-worker.js'],
   offlineSVG: `<svg role="img" viewBox="0 0 400 300"
     xmlns="http://www.w3.org/2000/svg"><rect width="400" height="300"
@@ -41,7 +37,7 @@ const stash = async (store, req, res) => {
 };
 
 const hit = (req) =>
-  caches.match(req, { ignoreSearch: true }).then((r) => r || Promise.reject('no‑match'));
+  caches.match(req).then((r) => r || Promise.reject('no‑match'));
 
 /* ---------- lifecycle ---------- */
 self.addEventListener('install', (e) =>
@@ -67,8 +63,6 @@ self.addEventListener('activate', (e) =>
 /* ---------- fetch ---------- */
 self.addEventListener('fetch', (e) => {
   const { request } = e;
-
-  /* ignore non‑GET and black‑listed requests */
   if (
     request.method !== 'GET' ||
     CONFIG.blacklist.some((p) => request.url.endsWith(p))
@@ -79,20 +73,8 @@ self.addEventListener('fetch', (e) => {
   const isImg  = /\.(png|jpe?g|webp|gif|svg)$/i.test(url.pathname);
   const bucket = cacheName(isImg ? 'img' : 'content');
 
-  /* ── NEW: keep every in‑scope navigation inside the PWA ──────────────── */
-  if (request.mode === 'navigate' && request.url.startsWith(CONFIG.inScopePrefix)) {
-    /* network‑first ► fall back to cached shell ► fall back to offline page */
-    e.respondWith(
-      fetch(request)
-        .then((r) => stash(bucket, request, r))
-        .catch(() => hit(CONFIG.spaRoot))
-        .catch(() => caches.match(CONFIG.offlinePage))
-    );
-    return; // stop here — we’ve handled it
-  }
-
-  /* ── existing image logic (cache‑first) ─────────────────────────────── */
   if (isImg) {
+    // cache‑first for images
     e.respondWith(
       hit(request)
         .catch(() => fetch(request).then((r) => stash(bucket, request, r)))
@@ -103,16 +85,15 @@ self.addEventListener('fetch', (e) => {
             })
         )
     );
-    return;
+  } else {
+    // network‑first for HTML/JS/CSS/etc.
+    e.respondWith(
+      fetch(request)
+        .then((r) => stash(bucket, request, r))
+        .catch(() => hit(request))
+        .catch(() => caches.match(CONFIG.offlinePage))
+    );
   }
-
-  /* ── existing asset/page logic (network‑first) ──────────────────────── */
-  e.respondWith(
-    fetch(request)
-      .then((r) => stash(bucket, request, r))
-      .catch(() => hit(request))
-      .catch(() => caches.match(CONFIG.offlinePage))
-  );
 });
 
 /* ---------- instant update channel ---------- */

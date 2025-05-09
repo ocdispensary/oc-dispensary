@@ -6,8 +6,8 @@
   "background_color": "#040c17",
   "display": "standalone",
   "orientation": "portrait", 
-  "Scope": "./",
-  "start_url": "index.html",
+  "start_url": "/oc-dispensary/index.html",
+  "scope":      "/oc-dispensary/", 
   
   "icons": [
     {
