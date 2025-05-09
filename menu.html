@@ -74,7 +74,7 @@
     <a class="active" href="https://ocdispensary.github.io/oc-dispensary/index.html">
       <img src="https://iili.io/3GNEMBt.png" style="height: 50px"></a>
   </div>
-  <div><script async="" id="dutchie--embed__script" src="https://dutchie.com/api/v2/embedded-menu/64c010d60403d4000956b399.js"></script></div>
+  <div style="margin-top: 75px;"><script async="" id="dutchie--embed__script" src="https://dutchie.com/api/v2/embedded-menu/64c010d60403d4000956b399.js"></script></div>
 
 
 <!-- The footer with toolbar buttons -->
@@ -89,15 +89,15 @@
         <button style="background-color: transparent; box-shadow: none;" onclick="history.forward()"><i class="fa-solid fa-circle-right navbar-btm-icon"></i></button>
       </div>
       <script>
-        // When the user scrolls down 20px from the top of the document, slide down the navbar
-        window.onscroll = function() {scrollFunction()};
-        
-        function scrollFunction() {
-          if (document.body.scrollTop > 20 || document.documentElement.scrollTop > 20) {
+        var prevScrollpos = window.pageYOffset;
+        window.onscroll = function() {
+        var currentScrollPos = window.pageYOffset;
+          if (prevScrollpos > currentScrollPos) {
             document.getElementById("navbar").style.top = "0";
           } else {
-            document.getElementById("navbar").style.top = "-100px";
+            document.getElementById("navbar").style.top = "-65px";
           }
+          prevScrollpos = currentScrollPos;
         }
         </script>
 <script defer src="swiper-bundle.min.js"></script>
