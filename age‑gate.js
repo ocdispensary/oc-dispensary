@@ -43,7 +43,7 @@
       <button id="age-no"  style="padding:10px 20px;background:#dc3545;color:#fff;border:none;border-radius:4px;cursor:pointer">No</button>
     </div>
     <h2 style="font-family: "Open Sans", Arial, Helvetica, sans-serif;
-font-size: 1rem;">By clicking “YES” and entering the website, I agree to be bound by the Terms of Service, Privacy Policy and Notice of Privacy Practices. *For medical purchases in CA, CT, FL, IL, MA, MN, MD, NV, NY, PA, RI and VA patients must be 18+.</h2>
+font-size: 0.618rem;">By clicking “YES” and entering the website, I agree to be bound by the Terms of Service, Privacy Policy and Notice of Privacy Practices. *For medical purchases in CA, CT, FL, IL, MA, MN, MD, NV, NY, PA, RI and VA patients must be 18+.</h2>
     
   `;
 
@@ -67,7 +67,7 @@ font-size: 1rem;">By clicking “YES” and entering the website, I agree to be 
       <button id="age-no"  style="padding:10px 20px;background:#dc3545;color:#fff;border:none;border-radius:4px;cursor:pointer">No</button>
     </div>
     <h2 style="font-family: "Open Sans", Arial, Helvetica, sans-serif;
-font-size: 1rem;">By clicking “YES” and entering the website, I agree to be bound by the Terms of Service, Privacy Policy and Notice of Privacy Practices. *For medical purchases in CA, CT, FL, IL, MA, MN, MD, NV, NY, PA, RI and VA patients must be 18+.</h2>
+font-size: 0.618rem;">By clicking “YES” and entering the website, I agree to be bound by the Terms of Service, Privacy Policy and Notice of Privacy Practices. *For medical purchases in CA, CT, FL, IL, MA, MN, MD, NV, NY, PA, RI and VA patients must be 18+.</h2>
     `;
   });
 })();
