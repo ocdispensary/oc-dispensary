@@ -42,10 +42,10 @@
 
         <div class="tm-special-item-description">
           <h2 class="tm-text-primary tm-special-item-title">${item.name}</h2>
-          <p class="tm-special-item-text">
+          <h4 class="tm-special-item-text">
             <small>${item.brand}</small><br>
             <span class="tm-list-item-price">${item.price}</span>
-          </p>
+          </h4>
         </div>
       </a>`;
     wrap.appendChild(slide);

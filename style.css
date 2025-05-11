@@ -39,6 +39,12 @@ html {
     margin-top: 0;
     color: #fff;
   }
+  h4 {
+    line-height: 1em;
+    margin-top: 5px;
+    font-size: .7em;
+    color: #fff;
+  }
 
   h2 {
     margin-top: 0;
@@ -47,7 +53,9 @@ html {
   .tm-container {
     padding: 30px;
   }
-  
+  .tm-special-item-text{
+    line-height: 1.6em;
+  }
   /* -------------------------------------------------- */
   /*  UNIVERSAL 550‑PX LAYOUT — FLUID / FILL‑SPACE      */
   /* -------------------------------------------------- */
