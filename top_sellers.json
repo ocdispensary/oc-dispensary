@@ -1,17 +1,17 @@
 [
   {
-    "name": "Flower | The Plug Pack | Bomb Pop",
-    "img": "https://images.dutchie.com/3910017341f7cca71769a7db44334336?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
-    "brand": "The Plug Pack",
-    "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=flower-the-plug-pack-bomb-pop",
-    "price": "$24.00"
-  },
-  {
     "name": "Flower | Nanticoke | Durban Poison",
     "img": "https://images.dutchie.com/da0ec44e8512912c5150e67b0ba11e87?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
     "brand": "Nanticoke",
     "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=flower-nanticoke-durban-poison-61059",
     "price": "$44.00"
+  },
+  {
+    "name": "Flower | The Plug Pack | Bomb Pop",
+    "img": "https://images.dutchie.com/3910017341f7cca71769a7db44334336?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
+    "brand": "The Plug Pack",
+    "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=flower-the-plug-pack-bomb-pop",
+    "price": "$24.00"
   },
   {
     "name": "Ayrloom | Mood Bliss | AIO | 1g  | THC : CBC",
@@ -21,17 +21,24 @@
     "price": "$40.00"
   },
   {
-    "name": "Ayrloom | Mood Focus | AIO | 1g | THC : THCV",
-    "img": "https://images.dutchie.com/3d01f30c99e9ebdf1a801cb0badc0c88?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
-    "brand": "ayrloom",
-    "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=ayrloom-mood-focus-aio-1g-thc-thcv-71184",
-    "price": "$40.00"
-  },
-  {
     "name": "PINEAPPLE HAZE | Packs Mini Bursts - 5 Pack Infused Mini Joints | 2.5G",
     "img": "https://images.dutchie.com/35bd528172f48458c8e70a9fd29e25ae?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
     "brand": "PACKS LA",
     "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=pineapple-haze-packs-mini-bursts-5-pack-infused-mini-joints-2-5g-87521",
+    "price": "$50.00"
+  },
+  {
+    "name": "Infused Pre-Rolls | Dank | Mimosa - 5pk | 2.75G",
+    "img": "https://images.dutchie.com/9c298e473b6d1e454df94d015f187dd8?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
+    "brand": "Dank By Definition.",
+    "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=infused-pre-rolls-dank-mimosa-5pk-2-75g",
+    "price": "$50.00"
+  },
+  {
+    "name": "Pre Rolls | Ruby Farms | | Ghost Train Haze #2- 7pk",
+    "img": "https://images.dutchie.com/7b24b8b99bd3215ed4ed7e3300a88806?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
+    "brand": "Ruby Farms",
+    "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=pre-rolls-ruby-farms-ghost-train-haze-2-7pk",
     "price": "$50.00"
   },
   {
@@ -68,6 +75,13 @@
     "brand": "Cookies",
     "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=infused-pre-rolls-cookies-triple-scoop-5pk",
     "price": "$60.00"
+  },
+  {
+    "name": "Ayrloom | Mood Focus | AIO | 1g | THC : THCV",
+    "img": "https://images.dutchie.com/3d01f30c99e9ebdf1a801cb0badc0c88?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
+    "brand": "ayrloom",
+    "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=ayrloom-mood-focus-aio-1g-thc-thcv-71184",
+    "price": "$40.00"
   },
   {
     "name": "Vape Pod | Rove | RELOAD 2pk - Pineapple Express",
@@ -112,13 +126,6 @@
     "price": "$100.00"
   },
   {
-    "name": "Infused Pre-Rolls | Dank | Mimosa - 5pk | 2.75G",
-    "img": "https://images.dutchie.com/9c298e473b6d1e454df94d015f187dd8?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
-    "brand": "Dank By Definition.",
-    "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=infused-pre-rolls-dank-mimosa-5pk-2-75g",
-    "price": "$50.00"
-  },
-  {
     "name": "Infused Flower | Her Highness | Pre-Ground - Rainbow Chip",
     "img": "https://images.dutchie.com/2653926586b1eee8633e4c0ddd96ac07?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
     "brand": "HER Highness",
@@ -126,11 +133,11 @@
     "price": "$50.00"
   },
   {
-    "name": "Pre Rolls | Ruby Farms | | Ghost Train Haze #2- 7pk",
-    "img": "https://images.dutchie.com/7b24b8b99bd3215ed4ed7e3300a88806?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
-    "brand": "Ruby Farms",
-    "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=pre-rolls-ruby-farms-ghost-train-haze-2-7pk",
-    "price": "$50.00"
+    "name": "Vape AIO | DIME | Watermelon Kush",
+    "img": "https://images.dutchie.com/a26b948e6f3d7d1ac626d408c387dfd3?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
+    "brand": "Dime Industries",
+    "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=vape-aio-dime-watermelon-kush",
+    "price": "$49.90"
   },
   {
     "name": "VAPE AIO | Cannabals | Live Diamonds Vape - Apple Burst",
@@ -138,6 +145,13 @@
     "brand": "Cannabals",
     "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=vape-aio-cannabals-live-diamonds-vape-apple-burst",
     "price": "$90.00"
+  },
+  {
+    "name": "LSD | 510 | CDT",
+    "img": "https://images.dutchie.com/36a528f0508a53ae0a42a881262d4319?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
+    "brand": "Jaunty",
+    "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=lsd-510-cdt-68019",
+    "price": "$45.00"
   },
   {
     "name": "PAX Trip Live Rosin | Blue Dream 1g",
@@ -154,24 +168,10 @@
     "price": "$86.00"
   },
   {
-    "name": "Ayrloom | Cranberry Apple | 2:1 | 10MG THC : 5MG CBD| Singles",
-    "img": "https://images.dutchie.com/e392ad14118d3b812e9048348758e0e6?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
-    "brand": "ayrloom",
-    "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=ayrloom-cranberry-apple-2-1-10mg-thc-5mg-cbd-singles",
-    "price": "$5.00"
-  },
-  {
-    "name": "Flower | Nanticoke | Banana Daddy",
-    "img": "https://images.dutchie.com/9f5474098eec12baa4c409989768a7b1?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
-    "brand": "Nanticoke",
-    "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=flower-nanticoke-banana-daddy",
-    "price": "$40.00"
-  },
-  {
-    "name": "Pre-Rolls | Lowell Herb Co. | Star Gazer",
-    "img": "https://images.dutchie.com/0b9cc200aaa86fd4ea7e80d45007b239?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
-    "brand": "Lowell Herb Co.",
-    "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=pre-rolls-lowell-herb-co-star-gazer",
-    "price": "$38.00"
+    "name": "Banana Dosi Pre-Roll 7-Pack | 3.5g",
+    "img": "https://dutchie-images.s3.us-west-2.amazonaws.com/c894cc3d405b45993251f55930f3dcb3?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
+    "brand": "Hudson Cannabis",
+    "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=banana-dosi-pre-roll-7-pack-3-5g-70461",
+    "price": "$42.00"
   }
 ]
