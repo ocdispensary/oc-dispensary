@@ -94,7 +94,7 @@ if (isCI) {
           img  : imgEl?.src || "",
           // --- remove a trailing ellipsis (“…”) if present ---
           brand: brandEl
-            ? brandEl.textContent.replace(/\u2026$/, "").trim()
+            ? brandEl.textContent.replace(/\u002E$/, "").trim()
             : "",
           link : ocLink,
           price: priceEl?.textContent.trim() || ""
