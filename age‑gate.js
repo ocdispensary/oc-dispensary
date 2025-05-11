@@ -42,7 +42,7 @@
       <button id="age-yes" style="padding:10px 20px;background:#28a745;color:#fff;border:none;border-radius:4px;cursor:pointer">Yes</button>
       <button id="age-no"  style="padding:10px 20px;background:#dc3545;color:#fff;border:none;border-radius:4px;cursor:pointer">No</button>
     </div>
-    <h3>By clicking “YES” and entering the website, I agree to be bound by the Terms of Service, Privacy Policy and Notice of Privacy Practices. *For medical purchases in CA, CT, FL, IL, MA, MN, MD, NV, NY, PA, RI and VA patients must be 18+.</h3>
+    <h4>By clicking “YES” and entering the website, I agree to be bound by the Terms of Service, Privacy Policy and Notice of Privacy Practices. *For medical purchases in CA, CT, FL, IL, MA, MN, MD, NV, NY, PA, RI and VA patients must be 18+.</h4>
     
   `;
 
@@ -59,13 +59,13 @@
   document.getElementById('age-no').addEventListener('click', () => {
     modal.innerHTML = `
       <h2">Sorry!</h2>
-      <h3>You must be 21 years or older to enter this site.</h3>
+      <h4>You must be 21 years or older to enter this site.</h4>
           <h2 style="margin-top:0">Are you 21&nbsp;or older?</h2>
     <div style="display:flex;gap:12px;justify-content:center">
       <button id="age-yes" style="padding:10px 20px;background:#28a745;color:#fff;border:none;border-radius:4px;cursor:pointer">Yes</button>
       <button id="age-no"  style="padding:10px 20px;background:#dc3545;color:#fff;border:none;border-radius:4px;cursor:pointer">No</button>
     </div>
-    <h3 style="margin:16px 0">By clicking “YES” and entering the website, I agree to be bound by the Terms of Service, Privacy Policy and Notice of Privacy Practices. *For medical purchases in CA, CT, FL, IL, MA, MN, MD, NV, NY, PA, RI and VA patients must be 18+.</h3>
+    <h4 style="margin:16px 0">By clicking “YES” and entering the website, I agree to be bound by the Terms of Service, Privacy Policy and Notice of Privacy Practices. *For medical purchases in CA, CT, FL, IL, MA, MN, MD, NV, NY, PA, RI and VA patients must be 18+.</h4>
     `;
   });
 })();
