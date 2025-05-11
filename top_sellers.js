@@ -1,5 +1,6 @@
 /*  top_sellers.js  –  classic script, no build step required
  *  – Re‑creates the original OC Dispensary “Top Sellers” slide markup
+ *  – Randomises the product order so the carousel looks fresh on each load
  *  – Converts any absolute product URL to a relative in‑scope link
  *  – Adds target="_self" + data‑internal so our click‑interceptor keeps it inside the PWA
  */
@@ -10,9 +11,15 @@
 
   // 1.  Load the JSON feed
   const res      = await fetch('top_sellers.json', { cache: 'reload' });
-  const products = await res.json();
+  let   products = await res.json();
 
-  // 2.  Build the slides
+  // 2.  Shuffle the array (Fisher‑Yates)
+  for (let i = products.length - 1; i > 0; i--) {
+    const j = Math.floor(Math.random() * (i + 1));
+    [products[i], products[j]] = [products[j], products[i]];
+  }
+
+  // 3.  Build the slides
   products.forEach(item => {
     const slide  = document.createElement('div');
     slide.className = 'swiper-slide';
@@ -44,7 +51,7 @@
     wrap.appendChild(slide);
   });
 
-  // 3.  Initialise (or refresh) Swiper after the slides exist
+  // 4.  Initialise (or refresh) Swiper after the slides exist
   if (window.featuredSwiper) {
     window.featuredSwiper.update();        // If Swiper was created earlier
   } else {
