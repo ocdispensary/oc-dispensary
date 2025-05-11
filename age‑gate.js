@@ -1,6 +1,4 @@
-/* Simple age‑gate — blacks‑out page and asks “Are you 21+?”.
-   • Dismisses forever once the user clicks “Yes” (saved in localStorage).
-   • If “No”, shows a polite rejection message. */
+//age‑gate.js
 
 (function () {
   const AGE_KEY = 'is21';                     // localStorage flag

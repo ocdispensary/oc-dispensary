@@ -4,10 +4,10 @@ html {
   :root {
   --tile-gap: 16px;
   --tile-radius: 8px;
-  --tile-bg: #031428;          /* adjust to taste or remove if you inherit a theme */
+  --tile-bg: #031428;  
+  --box-bg: #040c17;
   --tile-color: #fff;
   --tile-accent: #b08842;
-  --nav-color:   /* primary accent colour */
 }
   body {
     margin: 0;
@@ -501,20 +501,22 @@ html {
   .tm-site-footer {
     margin-top: 15px;
     margin-bottom: 30px;
+    text-align: center;
+    margin-bottom: 60px;
+    background-color: var(--tile-bg)
   }
   .tm-footer-text {
     padding: 0px 10px 10px 20px;
-    display: inline-block;
     text-align: justify;
-    text-justify: inter-word;
+    text-align: center;
     color: #a3c1e6;
   }
   .tm-footer-header {
     padding: 10px 10px 0px 20px;
-    font-style: italic;
-    display: inline-block;
+    text-align: center;
     font-weight: bold;
     color: #a3c1e6;
+    text-align: center;
   }
   .tm-footer-link {
     color: #fff;
@@ -524,12 +526,4 @@ html {
     line-height: 1.2;
     margin-top: 0;
     font-size: 0.6em;
-  }
-
-  @media (min-width: 833px) {
-    .tm-special-items {
-      display: grid;
-      grid-template-columns: repeat(4, 1fr);
-      gap: 20px;
-  }
   }

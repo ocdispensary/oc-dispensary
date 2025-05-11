@@ -1,4 +1,4 @@
-// categories‑grid.js
+// categories.js
 fetch('categories.json')
   .then(r => r.json())
   .then(cats => {
