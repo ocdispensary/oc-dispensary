@@ -66,5 +66,15 @@
     </div>
     <h3 style="margin:16px 0">By clicking “YES” and entering the website, I agree to be bound by the Terms of Service, Privacy Policy and Notice of Privacy Practices. *For medical purchases in CA, CT, FL, IL, MA, MN, MD, NV, NY, PA, RI and VA patients must be 18+.</h3>
     `;
+      overlay.appendChild(modal);
+  document.body.appendChild(overlay);
+
+  // ---------- Button handlers ----------
+  document.getElementById('age-yes').addEventListener('click', () => {
+    localStorage.setItem(AGE_KEY, 'true');    // remember choice
+    overlay.remove();                         // hide gate
+    document.documentElement.style.overflow = ''; // restore scroll
+  });
+
   });
 })();
