@@ -232,7 +232,9 @@ html {
   align-items:center;     /* vertical centre */
   justify-content:center; /* horizontal centre */
 }
-
+.tm-special-carousel{
+  width:95%;  ;
+}
 /* The product image */
 .tm-special-item img{
   border-radius: 15px;
