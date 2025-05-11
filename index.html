@@ -75,38 +75,24 @@
       <div class="tm-site-header">
         <img src="https://iili.io/3GNEMBt.png" style="height: 165px">
       </div>
-      <nav class="tm-site-nav">
-        <ul class="tm-site-nav-ul">
-          <div class="col">            
-          <li class="tm-page-nav-item">
-            <a href="https://ocdispensary.github.io/oc-dispensary/about" class="tm-page-link">
-              <i class="fas fa-users tm-page-link-icon"></i>
-              <span>About Us</span>
-            </a>
-          </li>
-          <li class="tm-page-nav-item">
-            <a href="#featured" class="tm-page-link">
-              <i class="fas fa-star tm-page-link-icon"></i>
-              <span>Featured</span>
-            </a>
-          </li>          
-        </div>
-        <div class="col">   
-          <li class="tm-page-nav-item">
-            <a href="https://ocdispensary.github.io/oc-dispensary/contact-us" class="tm-page-link">
-              <i class="fas fa-comments tm-page-link-icon"></i>
-              <span>Contact</span>
-            </a>
-          </li>
-          <li class="tm-page-nav-item">
-            <a href="https://ocdispensary.github.io/oc-dispensary/menu" class="tm-page-link">
-              <i class="fas fa-store tm-page-link-icon"></i>
-              <span>Shop</span>
-            </a>
-          </li>
-        </div>
-        </ul>
-      </nav>
+            <div class="tm-right">
+        <main class="tm-main">
+          <!-- ============ SHOP BY CATEGORY CAROUSEL ============ -->
+          <section id="shop" class="tm-page-content">
+            <h2 class="tm-text-primary tm-mb-20">Shop by Category</h2>
+            <!-- Swiper root -->
+            <div class="swiper categories-carousel">
+              <div class="swiper-wrapper" id="categories-wrapper">
+                <!-- Slides injected by categories.js -->
+              </div>
+              <!-- Optional controls -->
+              <div class="swiper-button-prev"></div>
+              <div class="swiper-button-next"></div>
+              <div class="swiper-pagination"></div>
+            </div>
+          </section>
+        </main>
+      </div>
       <!-- ── Left sidebar ─────────────────────────────────────────────── -->
       <div class="tm-left">
         <div class="tm-left-inner"></div>
@@ -126,44 +112,13 @@
       </section>
       <!-- /#featured -->
       <!-- ── Right (content) column ───────────────────────────────────── -->
-      <div class="tm-right">
-        <main class="tm-main">
-          <!-- ============ SHOP BY CATEGORY CAROUSEL ============ -->
-          <section id="shop" class="tm-page-content">
-            <h2 class="tm-text-primary tm-mb-20">Shop by Category</h2>
-            <!-- Swiper root -->
-            <div class="swiper categories-carousel">
-              <div class="swiper-wrapper" id="categories-wrapper">
-                <!-- Slides injected by categories.js -->
-              </div>
-              <!-- Optional controls -->
-              <div class="swiper-button-prev"></div>
-              <div class="swiper-button-next"></div>
-              <div class="swiper-pagination"></div>
-            </div>
-          </section>
 
-        </main>
-      </div>
       <!-- /.tm-right -->
     </div>
   </div>
 </main>
 
-<!-- The footer with toolbar buttons -->
-      <!-- /.tm-row -->
-      <footer class="tm-site-footer">
-        <p class="tm-footer-header"> FOOD AND DRUG ADMINISTRATION (FDA) DISCLOSURE</p>
-        <p class="tm-footer-text"> *For use only by adults 21 years of age and older. Keep out of reach of children and pets. In case of accidental ingestion or overconsumption, contact the National Poison Control Center hotline <strong>1-800-222-1222</strong> or call <strong>9-1-1</strong>. Please consume responsibly. Cannabis is not recommended for use by persons who are pregnant or nursing.</br>Concerned about your cannabis use? Text <strong>HOPENY</strong>, call <strong>1-877-8-HOPENY</strong>, or visit <a
-          href="http://oasas.ny.gov/HOPELine"
-          class="tm-page-link"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          oasas.ny.gov/HOPELine
-        </a>
-        </p>
-      </footer>
+
       <div class="navbar-btm">
         <button onclick="history.back()"><i class="fa-solid fa-circle-left navbar-btm-icon"></i></button>
         <button onclick="history.forward()"><i class="fa-solid fa-circle-right navbar-btm-icon"></i></button>
