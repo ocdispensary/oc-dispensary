@@ -38,10 +38,5 @@
     "name": "Accessories",
     "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bcategory%5D=accessories",
     "img": "https://images.dutchie.com/category-stock-photos/accessories/accessories.png?auto=format&w=268&ixlib=react-9.8.1"
-  },
-  {
-    "name": "Apparel",
-    "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bcategory%5D=apparel",
-    "img": "https://images.dutchie.com/category-stock-photos/apparel/apparel.png?auto=format&w=268&ixlib=react-9.8.1"
   }
 ]

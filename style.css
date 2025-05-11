@@ -1,7 +1,14 @@
 html {
     scroll-behavior: smooth;
   }
-  
+  :root {
+  --tile-gap: 16px;
+  --tile-radius: 8px;
+  --tile-bg: #031428;          /* adjust to taste or remove if you inherit a theme */
+  --tile-color: #fff;
+  --tile-accent: #b08842;
+  --nav-color:   /* primary accent colour */
+}
   body {
     margin: 0;
     padding: 0;
@@ -20,7 +27,7 @@ html {
   }
   
   a {
-    color: #b08842;
+    color: var(--tile-accent);
     text-decoration: none;
     transition: all 0.3s ease;
   }
@@ -58,7 +65,7 @@ html {
     width: 100%;
   }
     .site-instuct {
-    background: #031428;
+    background: var(--tile-bg);
     color: #d5aa5f;
     width: 100%;
     height: 65px;
@@ -69,7 +76,7 @@ html {
   }
   /* ---------- HEADER ---------- */
   .tm-site-header {
-    background: #031428;
+    background:var(--tile-bg);
     color: #d5aa5f;
     width: 100%;
     height: 160px;
@@ -100,7 +107,7 @@ html {
   .tm-page-link {
     width: 100%;
     height: 65px;
-    background: #031428;
+    background: var(--tile-bg);
     color: #a3c1e6;
     display: flex;
     align-items: center;
@@ -129,16 +136,57 @@ html {
     color: #fff;
   }
   /* Simple sizing control */
-.category-card img {
-  width: 70%;
-  height: auto;
-  display: block;
-  margin: auto;
+/* categories‑grid.css */
+
+
+/* grid wrapper */
+#categories-grid {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr); /* 2×2 on phones */
+  gap: 25px;
+  margin: 0;
+  padding: 0;
 }
-.category-card {
+
+/* grid tile */
+.category-tile {
+  list-style: none;
+  background: var(--tile-bg);
+  border-radius: var(--tile-radius);
+  overflow: hidden;
   text-align: center;
-  padding: 12px;
+  align-items: center;
 }
+
+/* anchor fills tile */
+.category-tile > a {
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+  text-decoration: none;
+  color: inherit;
+  align-items: center;
+}
+
+/* image */
+.category-tile img {
+  width: 70%;
+  height: auto;    /* keeps tiles square; remove if undesired */
+  object-fit: cover;
+  margin-top: 15px;
+  align-items: center;
+  border-radius: 15px;
+}
+
+/* title */
+.tile-title {
+  padding: 0.75rem 0.5rem;
+  font-size: 1rem;
+  color: var(--tile-accent);
+  align-items: center;
+}
+
+
 
   /* ---------- SHOP TABS ---------- */
   .tm-drinks-nav {
@@ -176,7 +224,8 @@ html {
 .tm-special-img-container{
   width:75%;              /* keep your ¾‑width frame */
   height:75%;         /* fixed display window  */
-  margin:0 auto 15px;     /* ⬅ centres the frame horizontally in .swiper‑slide */
+  margin:0 auto 15px;  
+  border-radius: 15px;
   background:#fff;
   display:flex;           /* ‑‑ enable flexbox centering for the img‑tag ‑‑ */
   align-items:center;     /* vertical centre */
@@ -185,6 +234,7 @@ html {
 
 /* The product image */
 .tm-special-item img{
+  border-radius: 15px;
   height:auto;           /* EVERY image exactly 220 px tall              */
   width:auto;             /* preserve aspect ratio                         */
   max-width:100%;         /* don’t overflow the frame                      */
@@ -218,7 +268,7 @@ html {
     flex: 0 0 100%;
     max-width: 100%;
     margin: 0 20px 20px 0;
-    background: #031428;
+    background: var(--tile-bg);
   }
   .tm-list-item-img > img,
   .tm-list-item-spec-img > img,
@@ -302,7 +352,7 @@ html {
   }
   
 #navbar {
-  background-color: #031428;
+  background-color: var(--tile-bg);
   position: fixed;
   top: -84px;
   width: 100%;
@@ -329,7 +379,7 @@ html {
 
 .navbar-btm {
   overflow: hidden;
-  background-color: #031428;
+  background-color: var(--tile-bg);
   position: fixed;
   bottom: 0;
   width: 100%;
@@ -340,7 +390,7 @@ html {
 }
 
 .navbar-btm button{
-  background-color:  #031428;
+  background-color: var(--tile-bg);
   border: none;
 }
 
