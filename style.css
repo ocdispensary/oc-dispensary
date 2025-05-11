@@ -38,12 +38,6 @@ html {
     color: #fff;
   }
 
-  h3 {
-    line-height: 1.8;
-    margin-top: 0;
-    color: #0000
-  }
-
   h2 {
     margin-top: 0;
   }
@@ -524,7 +518,11 @@ html {
     color: #fff;
   }
   
-
+  h3 {
+    line-height: 1.8;
+    margin-top: 0;
+    color: #0000
+  }
 
   @media (min-width: 833px) {
     .tm-special-items {
