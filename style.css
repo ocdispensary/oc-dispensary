@@ -519,9 +519,9 @@ html {
   }
   
   h3 {
-    line-height: 1.8;
+    line-height: 1.2;
     margin-top: 0;
-    color: #0000 !important
+    font-size: 0.6em;
   }
 
   @media (min-width: 833px) {
