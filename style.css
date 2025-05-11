@@ -8,8 +8,7 @@ html {
   --box-bg: #040c17;
   --tile-color: #fff;
   --tile-accent: #d5aa5f;
-  --box-shadow: inset 0px 0px 50px -9px #ff0000,5px 5px 15px 7px #183353;
-  --box-trans-shadow:  0px 0px 50px -9px #ff0000 inset;
+  --box-shadow: inset 0px 0px 50px -9px #fff,5px 5px 15px 7px #183353;
   --trans: all 0.3s ease
 }
   body {
@@ -187,7 +186,7 @@ html {
 .category-tile img:hover {
   transform: translate(2px,2px);
     transition: var(--trans);
-  box-shadow: var(--box-trans-shadow);
+  box-shadow: none;
 }
 
 /* title */
@@ -245,25 +244,25 @@ html {
   padding: 15px 0px 15px 0px;
   align-items:center;     /* vertical centre */
   justify-content:center; /* horizontal centre */
+  box-shadow: var(--box-shadow);
 }
 .tm-special-img-container:hover{
   transform: translate(2px,2px);
   transition: var(--trans);
+  box-shadow: none;
 }
 .tm-special-carousel{
   width:95%;  ;
 }
 /* The product image */
 .tm-special-item img{
+
   height:100%;
   width:auto; 
   max-width:100%;
   display:block;
-  box-shadow: var(--box-trans-shadow);
 }
-.tm-special-img-container img{
-  box-shadow: var(--box-trans-shadow);
-}
+
 /* Optional: ensure every slide centres its content (safety net) */
 .swiper-slide{
   display:flex;
