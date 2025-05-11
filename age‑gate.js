@@ -27,7 +27,7 @@
   const modal = document.createElement('div');
   Object.assign(modal.style, {
     background: '#fff',
-    borderRadius: '8px',
+    borderRadius: '15px',
     maxWidth: '380px',
     width: '90%',
     padding: '24px',
@@ -42,7 +42,7 @@
       <button id="age-yes" style="padding:10px 20px;background:#28a745;color:#fff;border:none;border-radius:4px;cursor:pointer">Yes</button>
       <button id="age-no"  style="padding:10px 20px;background:#dc3545;color:#fff;border:none;border-radius:4px;cursor:pointer">No</button>
     </div>
-    <h3">By clicking “YES” and entering the website, I agree to be bound by the Terms of Service, Privacy Policy and Notice of Privacy Practices. *For medical purchases in CA, CT, FL, IL, MA, MN, MD, NV, NY, PA, RI and VA patients must be 18+.</h3>
+    <h3>By clicking “YES” and entering the website, I agree to be bound by the Terms of Service, Privacy Policy and Notice of Privacy Practices. *For medical purchases in CA, CT, FL, IL, MA, MN, MD, NV, NY, PA, RI and VA patients must be 18+.</h3>
     `;
 
   overlay.appendChild(modal);
