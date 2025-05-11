@@ -28,32 +28,18 @@
     "price": "$50.00"
   },
   {
-    "name": "Infused Pre-Rolls | Dank | Mimosa - 5pk | 2.75G",
-    "img": "https://images.dutchie.com/9c298e473b6d1e454df94d015f187dd8?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
-    "brand": "Dank By Definition.",
-    "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=infused-pre-rolls-dank-mimosa-5pk-2-75g",
+    "name": "Infused Flower | Her Highness | Pre-Ground - Rainbow Chip",
+    "img": "https://images.dutchie.com/2653926586b1eee8633e4c0ddd96ac07?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
+    "brand": "HER Highness",
+    "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=infused-flower-her-highness-pre-ground-rainbow-chip",
     "price": "$50.00"
   },
   {
-    "name": "Pre Rolls | Ruby Farms | | Ghost Train Haze #2- 7pk",
-    "img": "https://images.dutchie.com/7b24b8b99bd3215ed4ed7e3300a88806?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
-    "brand": "Ruby Farms",
-    "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=pre-rolls-ruby-farms-ghost-train-haze-2-7pk",
-    "price": "$50.00"
-  },
-  {
-    "name": "Flower | Good Green | Gelonade",
-    "img": "https://images.dutchie.com/335b734b8c7bcd83c984712595acfe3a?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
-    "brand": "Good Green",
-    "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=flower-good-green-gelonade",
-    "price": "$36.00"
-  },
-  {
-    "name": "Flower | Our Creation | Sour Diesel",
-    "img": "https://images.dutchie.com/flower-stock-9-v1.jpg?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
-    "brand": "Our Creation",
-    "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=flower-our-creation-sour-diesel",
-    "price": "$44.00"
+    "name": "Flower | Platinum Reserve | Titan OG",
+    "img": "https://images.dutchie.com/73d4a987f22f6c1c43196a0cb32e55e3?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
+    "brand": "Platinum Reserve",
+    "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=flower-platinum-reserve-titan-og",
+    "price": "$46.00"
   },
   {
     "name": "Vape Cart | Heavy Hitters | Peach Crescendo",
@@ -70,10 +56,10 @@
     "price": "$40.00"
   },
   {
-    "name": "Infused Pre-Rolls | Cookies | Triple Scoop - 5pk",
-    "img": "https://images.dutchie.com/c846190eb35a9766ce8be5d6b1f4de69?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
-    "brand": "Cookies",
-    "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=infused-pre-rolls-cookies-triple-scoop-5pk",
+    "name": "Infused Flower | Grassroots | Green Caffeine",
+    "img": "https://images.dutchie.com/f64f8698258154e6f9c62b8e826f60e0?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
+    "brand": "Grassroots",
+    "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=infused-flower-grassroots-green-caffeine",
     "price": "$60.00"
   },
   {
@@ -98,6 +84,20 @@
     "price": "$55.00"
   },
   {
+    "name": "Flower | Rythm | Sour Diesel",
+    "img": "https://images.dutchie.com/f0db80af4a083fcfc87f30aae4ae599b?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
+    "brand": "Rythm",
+    "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=flower-rythm-sour-diesel",
+    "price": "$55.00"
+  },
+  {
+    "name": "Flower | Good Green | Gelonade",
+    "img": "https://images.dutchie.com/335b734b8c7bcd83c984712595acfe3a?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
+    "brand": "Good Green",
+    "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=flower-good-green-gelonade",
+    "price": "$36.00"
+  },
+  {
     "name": "Flower | High Scale | Sour Power",
     "img": "https://images.dutchie.com/70dd7cf7932adea9380ed90d93c6e5eb?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
     "brand": "High Scale",
@@ -110,6 +110,13 @@
     "brand": "PACKS LA",
     "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=miami-haze-packs-mini-bursts-5-pack-infused-mini-joints-2-5g-53162",
     "price": "$50.00"
+  },
+  {
+    "name": "VAPE AIO | Ghost | Strawberry Shortcake",
+    "img": "https://images.dutchie.com/762ec7c757d41e57d34a2b3991fad1f3?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
+    "brand": "ghost.",
+    "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=vape-aio-ghost-strawberry-shortcake",
+    "price": "$100.00"
   },
   {
     "name": "VAPE AIO | Ghost | Ghost Train Haze",
@@ -126,10 +133,17 @@
     "price": "$100.00"
   },
   {
-    "name": "Infused Flower | Her Highness | Pre-Ground - Rainbow Chip",
-    "img": "https://images.dutchie.com/2653926586b1eee8633e4c0ddd96ac07?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
-    "brand": "HER Highness",
-    "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=infused-flower-her-highness-pre-ground-rainbow-chip",
+    "name": "Infused Pre-Rolls | Dank | Mimosa - 5pk | 2.75G",
+    "img": "https://images.dutchie.com/9c298e473b6d1e454df94d015f187dd8?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
+    "brand": "Dank By Definition.",
+    "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=infused-pre-rolls-dank-mimosa-5pk-2-75g",
+    "price": "$50.00"
+  },
+  {
+    "name": "Pre Rolls | Ruby Farms | | Ghost Train Haze #2- 7pk",
+    "img": "https://images.dutchie.com/7b24b8b99bd3215ed4ed7e3300a88806?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
+    "brand": "Ruby Farms",
+    "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=pre-rolls-ruby-farms-ghost-train-haze-2-7pk",
     "price": "$50.00"
   },
   {
@@ -140,11 +154,11 @@
     "price": "$49.90"
   },
   {
-    "name": "VAPE AIO | Cannabals | Live Diamonds Vape - Apple Burst",
-    "img": "https://images.dutchie.com/bb8c91ee66d814470e24755b9a7b427c?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
-    "brand": "Cannabals",
-    "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=vape-aio-cannabals-live-diamonds-vape-apple-burst",
-    "price": "$90.00"
+    "name": "Flower | FlowerHouse | Sunset Punch",
+    "img": "https://images.dutchie.com/d33b0ee58de23595cfab9d2b93e092eb?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
+    "brand": "FlowerHouse",
+    "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=flower-flowerhouse-sunset-punch",
+    "price": "$49.00"
   },
   {
     "name": "LSD | 510 | CDT",
@@ -154,24 +168,10 @@
     "price": "$45.00"
   },
   {
-    "name": "PAX Trip Live Rosin | Blue Dream 1g",
-    "img": "https://images.dutchie.com/f1dc3651e9ad3e5ab817cf76ad040f35?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
-    "brand": "PAX",
-    "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=pax-trip-live-rosin-blue-dream-1g-94954",
-    "price": "$88.00"
-  },
-  {
-    "name": "Vape AIO | Rove | Live Resin Liquid Diamonds - Blue Dream",
-    "img": "https://images.dutchie.com/611fa4a3470e64b0cdd8a175c0956a84?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
-    "brand": "Rove",
-    "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=vape-aio-rove-live-resin-liquid-diamonds-blue-dream",
-    "price": "$86.00"
-  },
-  {
-    "name": "Banana Dosi Pre-Roll 7-Pack | 3.5g",
-    "img": "https://dutchie-images.s3.us-west-2.amazonaws.com/c894cc3d405b45993251f55930f3dcb3?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
-    "brand": "Hudson Cannabis",
-    "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=banana-dosi-pre-roll-7-pack-3-5g-70461",
-    "price": "$42.00"
+    "name": "Flower | Revert | Pink Starburst",
+    "img": "https://images.dutchie.com/b4c9521d9f2ccf6234a21f2abedccdc5?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
+    "brand": "Revert",
+    "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=flower-revert-pink-starburst",
+    "price": "$30.00"
   }
 ]
