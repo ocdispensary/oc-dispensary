@@ -1,4 +1,10 @@
 {
+  "protocol_handlers": [
+    {
+      "protocol": "mailto",
+      "url": "/newEmail?to=%s"
+    }
+  ],
   "id": "v102",
   "name": "OC Dispensary App",
   "short_name": "OC Dispensary",
@@ -11,6 +17,7 @@
   "scope": "/oc-dispensary/",
   "prefer_related_applications": false,
   "display_override": [
+    "fullscreen",
     "window-controls-overlay"
   ],
   "launch_handler": {
@@ -82,8 +89,6 @@
     }
   ],
   "splash_pages": null,
-  "categories": [
-    "medical",
-    "shopping"
-  ]
+  "dir": "ltr",
+  "lang": "en"
 }
