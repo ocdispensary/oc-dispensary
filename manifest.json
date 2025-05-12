@@ -17,7 +17,6 @@
   "scope": "/oc-dispensary/",
   "prefer_related_applications": false,
   "display_override": [
-    "fullscreen",
     "window-controls-overlay"
   ],
   "launch_handler": {
