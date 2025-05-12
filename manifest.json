@@ -2,20 +2,20 @@
   "id": "v102",
   "name": "OC Dispensary App",
   "short_name": "OC Dispensary",
-  "description": "NYC Legal & Licensed Recreational Cannabis Dispensary in Brooklyn, NY",
+  "description": "NYC Legal &amp; Licensed Recreational Cannabis Dispensary in Brooklyn, NY",
   "theme_color": "#031428",
   "background_color": "#040c17",
   "display": "standalone",
-  "orientation": "portrait", 
+  "orientation": "portrait",
   "start_url": "https://ocdispensary.github.io/oc-dispensary/index.html",
-  "scope":      "/oc-dispensary/",
-  "related_applications": [],
+  "scope": "/oc-dispensary/",
   "prefer_related_applications": false,
-  "display_override": ["window-controls-overlay"],
+  "display_override": [
+    "window-controls-overlay"
+  ],
   "launch_handler": {
     "client_mode": "focus-existing"
   },
-  
   "icons": [
     {
       "src": "images/icons/icon-72x72.png",
@@ -76,10 +76,14 @@
     "simple"
   ],
   "shortcuts": [
-  {
-    "name": "Shop",
-    "url": "/menu"
-  }
-],
-  "splash_pages": null
+    {
+      "name": "Shop",
+      "url": "/menu"
+    }
+  ],
+  "splash_pages": null,
+  "categories": [
+    "medical",
+    "shopping"
+  ]
 }
