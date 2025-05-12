@@ -1,4 +1,5 @@
 {
+  "id": "v102",
   "name": "OC Dispensary App",
   "short_name": "OC Dispensary",
   "description": "NYC Legal & Licensed Recreational Cannabis Dispensary in Brooklyn, NY",
@@ -49,6 +50,13 @@
       "src": "images/icons/icon-512x512.png",
       "sizes": "512x512",
       "type": "image/png"
+    }
+  ],
+  "screenshots": [
+    {
+      "src": "images/screenshots",
+      "sizes": "1617x1012",
+      "type": "image/jpg"
     }
   ],
   "splash_pages": null
