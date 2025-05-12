@@ -54,7 +54,12 @@
   ],
   "screenshots": [
     {
-      "src": "images/screenshots",
+      "src": "images/screenshots/Screenshot_main.jpg",
+      "sizes": "1617x1012",
+      "type": "image/jpg"
+    },
+    {
+      "src": "images/screenshots/Screenshot_store.jpg",
       "sizes": "1617x1012",
       "type": "image/jpg"
     }
