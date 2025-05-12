@@ -1,4 +1,5 @@
 {
+  "protocol_handlers": [{"protocol":"mailto","url":"/newEmail?to=%s"}], 
   "id": "v102",
   "name": "OC Dispensary App",
   "short_name": "OC Dispensary",
@@ -8,7 +9,13 @@
   "display": "standalone",
   "orientation": "portrait", 
   "start_url": "https://ocdispensary.github.io/oc-dispensary/index.html",
-  "scope":      "/oc-dispensary/", 
+  "scope":      "/oc-dispensary/",
+  "related_applications": [],
+  "prefer_related_applications": false,
+  "display_override": ["window-controls-overlay"],
+  "launch_handler": {
+    "client_mode": "focus-existing"
+  },
   
   "icons": [
     {
@@ -63,6 +70,11 @@
       "sizes": "1617x1012",
       "type": "image/jpg"
     }
+  ],
+  "features": [
+    "Cross Platform",
+    "fast",
+    "simple"
   ],
   "shortcuts": [
   {
