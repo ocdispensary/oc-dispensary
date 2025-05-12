@@ -64,5 +64,11 @@
       "type": "image/jpg"
     }
   ],
+  "shortcuts": [
+  {
+    "name": "Shop",
+    "url": "/menu"
+  }
+],
   "splash_pages": null
 }
