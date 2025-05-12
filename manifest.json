@@ -89,5 +89,12 @@
   ],
   "splash_pages": null,
   "dir": "ltr",
-  "lang": "en"
+  "lang": "en",
+  "categories": [
+    "medical",
+    "shopping"
+  ],
+  "edge_side_panel": {
+    "preferred_width": 480
+  }
 }
