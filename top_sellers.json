@@ -105,6 +105,13 @@
     "price": "$100.00"
   },
   {
+    "name": "Flower | Cookies | Blue Raz",
+    "img": "https://images.dutchie.com/620b96a0c74eaaa7c0232310e66eabec?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
+    "brand": "Cookies",
+    "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=flower-cookies-blue-raz",
+    "price": "$60.00"
+  },
+  {
     "name": "Infused Pre-Rolls | Dank | Mimosa - 5pk | 2.75G",
     "img": "https://images.dutchie.com/9c298e473b6d1e454df94d015f187dd8?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
     "brand": "Dank By Definition.",
@@ -166,12 +173,5 @@
     "brand": "Holiday",
     "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=vape-aio-holiday-golden-hour",
     "price": "$65.40"
-  },
-  {
-    "name": "Cherry Bomb - Live Resin Vape AIO - Indica",
-    "img": "https://images.dutchie.com/87f587d249989ff71a90237ed018dde7?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
-    "brand": "To The Moon",
-    "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=cherry-bomb-live-resin-vape-aio-indica-40755",
-    "price": "$64.00"
   }
 ]
