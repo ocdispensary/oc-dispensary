@@ -11,7 +11,7 @@ jobs:
   scrape:
     runs-on: ubuntu-latest
 
-    # allows the workflow to push back into the repo
+    # allows the workflow to push back into the repos
     permissions:
       contents: write
 

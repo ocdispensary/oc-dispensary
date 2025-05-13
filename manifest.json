@@ -1,4 +1,6 @@
 {
+  "protocol_handlers": [{"protocol":"menu",
+  "url":"/menu"}],
   "id": "v102",
   "name": "OC Dispensary App",
   "short_name": "OC Dispensary",
