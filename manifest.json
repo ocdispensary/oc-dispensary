@@ -2,7 +2,7 @@
   "protocol_handlers": [{"protocol":"menu",
   "url":"/menu"}],
   "id": "v102",
-  "name": "OC Dispensary App",
+  "name": "oc-dispensary",
   "short_name": "OC Dispensary",
   "description": "NYC Legal &amp; Licensed Recreational Cannabis Dispensary in Brooklyn, NY",
   "theme_color": "#031428",
@@ -92,5 +92,27 @@
   ],
   "edge_side_panel": {
     "preferred_width": 480
-  }
+  },
+  "widgets": [
+    {
+      "name": "OC Dispensary Widget",
+      "tag": "OCdispensaryWidget",
+      "ms_ac_template": "widget/ac.json",
+      "data": "widget/data.json",
+      "description": "A simple widget example from pwa-starter.",
+      "screenshots": [
+        {
+          "src": "assets/screenshots/widget-screen.png",
+          "sizes": "500x500",
+          "label": "Widget screenshot"
+        }
+      ],
+      "icons": [
+        {
+          "src": "assets/icons/48x48.png",
+          "sizes": "48x48"
+        }
+      ]
+    }
+  ]
 }
