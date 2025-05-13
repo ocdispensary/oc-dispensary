@@ -1,9 +1,3 @@
-/*  OC‑Dispensary PWA ▸ sw.js  – FULL REWRITE
- *  Combines your custom logic with PWABuilder’s “offline page” helper.
- *  Increment BUILD_VERSION (or inject a timestamp/SHA) on every deploy.
- *
- *  ────────────────────────────────────────────────────────────────────── */
-
 importScripts('https://storage.googleapis.com/workbox-cdn/releases/5.1.2/workbox-sw.js');
 
 const BUILD_VERSION = '2025‑05‑12‑01';
