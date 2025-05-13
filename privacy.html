@@ -4,9 +4,20 @@
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
   <title>Privacy Policy | OC Dispensary</title>
+  <link rel="stylesheet" href="style.css" />
   <link rel="stylesheet" href="privacy.css" />
 </head>
 <body>
+		<div id="navbar">
+			<a class="active" href="https://ocdispensary.github.io/oc-dispensary/index.html">
+				<img src="https://iili.io/3GNEMBt.png" style="height: 50px">
+			</a>
+		</div>
+		<div class="tm-container">
+			<div class="tm-row">
+				<div class="tm-site-header">
+					<img src="https://iili.io/3GNEMBt.png" style="height: 165px">
+				</div>
   <div class="container">
 <h1>OC Dispensary Privacy Policy</h1>
 <p><em>Last Updated: May 13, 2025</em></p>
@@ -144,5 +155,18 @@
 <p>Thank you for choosing OC Dispensary. We value your trust and are dedicated to safeguarding your privacy. </p>
 
   </div>
+		<script>
+			window.onscroll = function() {
+				scrollFunction()
+			};
+
+			function scrollFunction() {
+				if (document.body.scrollTop > 20 || document.documentElement.scrollTop > 20) {
+					document.getElementById("navbar").style.top = "0";
+				} else {
+					document.getElementById("navbar").style.top = "-84px";
+				}
+			}
+		</script>
 </body>
 </html>
