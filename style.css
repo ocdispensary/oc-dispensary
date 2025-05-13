@@ -4,7 +4,7 @@ html {
   :root {
   --tile-gap: 16px;
   --tile-radius: 8px;
-  --tile-bg: #031428;  
+  --tile-bg: #031428;
   --box-bg: #040c17;
   --tile-color: #fff;
   --tile-accent: #d5aa5f;
@@ -19,7 +19,7 @@ html {
     overflow-x: hidden;
     background-color: var(--box-bg);
   }
-  
+
   ul {
     padding: 0;
     margin: 0;
@@ -27,13 +27,13 @@ html {
   nav > ul > li {
     list-style: none;
   }
-  
+
   a {
     color: var(--tile-accent);
     text-decoration: none;
     transition: var(--trans);
   }
-  
+
   p {
     line-height: 1.8;
     margin-top: 0;
@@ -49,7 +49,7 @@ html {
   h2 {
     margin-top: 0;
   }
-  
+
   .tm-container {
     padding: 30px;
   }
@@ -59,7 +59,7 @@ html {
   /* -------------------------------------------------- */
   /*  UNIVERSAL 550‑PX LAYOUT — FLUID / FILL‑SPACE      */
   /* -------------------------------------------------- */
-  
+
   .tm-row {
     display: block;
   }
@@ -104,7 +104,7 @@ html {
     font-size: 2.2rem;
     font-style: italic;
   }
-  
+
   /* ---------- PRIMARY NAV ---------- */
   .tm-site-nav-ul {
     display: flex;
@@ -233,11 +233,11 @@ html {
     color: #96feff;
     border-bottom: 4px solid #040c17;
   }
-  
+
   .tm-main {
     width: 100%;
   }
-  
+
   /* ---------- GRID OF FEATURED / SPECIAL ITEMS ---------- */
 /* === Featured / Special Items ======================================= */
 
@@ -245,7 +245,7 @@ html {
 .tm-special-img-container{
   width:75%;              /* keep your ¾‑width frame */
   height:110px;         /* fixed display window  */
-  margin:0 auto 15px;  
+  margin:0 auto 15px;
   border-radius: 15px;
   background:#fff;
   display:flex;
@@ -294,7 +294,7 @@ html {
   .tm-special-item-description {
     padding: 0px 25px;
   }
-  
+
   /* ---------- PRODUCT LISTS (SHOP) ---------- */
   .tm-list-item {
     display: flex;
@@ -331,7 +331,7 @@ html {
   .tm-list-item-price {
     color: #d5aa5f;
   }
-  
+
   /* ---------- ABOUT SECTION ---------- */
   .tm-about-box-1 {
     padding: 40px 30px 30px 0;
@@ -342,7 +342,7 @@ html {
   .tm-about-header {
     margin-left: 180px;
   }
-  
+
   /* ---------- CONTACT ---------- */
   .tm-contact-text-container {
     padding: 45px 50px;
@@ -390,7 +390,7 @@ html {
     margin-left: auto;
     margin-right: 0;
   }
-  
+
 #navbar {
   background-color: var(--tile-bg);
   position: fixed;
@@ -493,18 +493,18 @@ html {
     vertical-align: baseline;
     width: auto;
   }
-  
+
   .button:hover,
   .button:focus {
     background-color: #5195e1;
     box-shadow: #46381e 0 4px 12px;
   }
-  
+
   .button:hover {
     transform: translateY(-1px);
     color: #efd09a;
   }
-  
+
   .button:active {
     background-color: #243954;
     box-shadow: rgba(0, 0, 0, .06) 0 2px 4px;
@@ -525,7 +525,7 @@ html {
   .tm-page-content {
     animation: fadeEffect 1s;
   }
-  
+
   @keyframes fadeEffect {
     from {
       opacity: 0.3;
@@ -534,7 +534,7 @@ html {
       opacity: 1;
     }
   }
-  
+
   /* ---------- FOOTER ---------- */
   .tm-site-footer {
     margin-top: 15px;
@@ -558,7 +558,7 @@ html {
   .tm-footer-link {
     color: #fff;
   }
-  
+
   h3 {
     line-height: 1.2;
     margin-top: 0;
