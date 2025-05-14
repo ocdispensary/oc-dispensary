@@ -1,0 +1,50 @@
+{
+  "expo": {
+    "name": "oc dispensary",
+    "slug": "oc-dispensary",
+    "scheme": "oc-dispensary",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "images/icons/icon-48x48.png",
+    "userInterfaceStyle": "dark",
+    "newArchEnabled": true,
+    "ios": {
+      "icon": {
+        "dark": "images/icons/icon-48x48.png"
+      },
+      "supportsTablet": true,
+      "bundleIdentifier": "io.github.ocdispensary1",
+      "associatedDomains": [
+        "applinks:ocdispensary.github.io"
+      ],
+      "config": {
+        "usesNonExemptEncryption": false
+      },
+      "appleTeamId": "Q6KH44L3K"
+    },
+    "web": {
+      "favicon": "favicon.png",
+      "output": "server"
+    },
+    "plugins": [
+      "expo-router",
+      [
+        "expo-splash-screen",
+        {
+          "backgroundColor": "#040c17",
+          "image": "images/icons/icon-192x192.png",
+          "imageWidth": 192
+        }
+      ]
+    ],
+    "extra": {
+      "router": {
+        "origin": false
+      },
+      "eas": {
+        "projectId": "3a1d2a82-5123-4c3c-9ebf-b63866f5dd70"
+      }
+    },
+    "owner": "jedi66"
+  }
+}
