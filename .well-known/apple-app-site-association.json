@@ -1,10 +1,12 @@
 {
-  "applinks": {
-    "details": [
-      {
-        "appID": "TQ6KH44L3K.io.github.ocdispensary1",
-        "paths": [ "https://ocdispensary.github.io/oc-dispensary/menu*" ]
-      }
-    ]
-  }
+    "applinks": {
+        "apps": [],
+        "details": {
+            "TQ6KH44L3K.io.github.ocdispensary1": {
+                "paths": [
+                    "/oc-dispensary/menu*"
+                ]
+            }
+        }
+    }
 }
