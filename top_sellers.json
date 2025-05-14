@@ -21,13 +21,6 @@
     "price": "$50.00"
   },
   {
-    "name": "Ayrloom | Mood Bliss | AIO | 1g  | THC : CBC",
-    "img": "https://images.dutchie.com/33f375ac8c3f930ed4e41d430b904554?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
-    "brand": "ayrloom",
-    "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=ayrloom-mood-bliss-aio-1g-thc-cbc-45471",
-    "price": "$40.00"
-  },
-  {
     "name": "Flower | The Plug Pack | Lychee Dream",
     "img": "https://images.dutchie.com/b4a7a887178b5e70317bfc107a1b2042?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
     "brand": "The Plug Pack",
@@ -173,5 +166,12 @@
     "brand": "Nanticoke",
     "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=pre-roll-nanticoke-jack-herer-5pk",
     "price": "$34.00"
+  },
+  {
+    "name": "Vape AIO | Holiday | Golden Hour",
+    "img": "https://images.dutchie.com/03a2087fbc92bbb11b92340fe6678e60?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
+    "brand": "Holiday",
+    "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=vape-aio-holiday-golden-hour",
+    "price": "$65.40"
   }
 ]
