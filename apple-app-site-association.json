@@ -1,0 +1,10 @@
+{
+  "applinks": {
+    "details": [
+      {
+        "appID": "<TEAM_ID>.<BUNDLE_ID>",
+        "paths": [ "/oc-dispensary/menu*" ]
+      }
+    ]
+  }
+}
