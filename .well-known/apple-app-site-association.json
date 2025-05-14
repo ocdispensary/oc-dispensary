@@ -2,7 +2,7 @@
   "applinks": {
     "details": [
       {
-        "appID": "<TEAM_ID>.<BUNDLE_ID>",
+        "appID": "TQ6KH44L3K.io.github.ocdispensary1",
         "paths": [ "/oc-dispensary/menu*" ]
       }
     ]
