@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "oc dispensary",
-    "slug": "oc-dispensary",
+    "slug": "dutchie-top-sellers-scraper",
     "scheme": "oc-dispensary",
     "version": "1.0.0",
     "orientation": "portrait",
@@ -24,6 +24,7 @@
     },
     "web": {
       "favicon": "favicon.png",
+      "bundler": "metro",
       "output": "server"
     },
     "plugins": [
@@ -45,6 +46,9 @@
         "projectId": "3a1d2a82-5123-4c3c-9ebf-b63866f5dd70"
       }
     },
-    "owner": "jedi66"
+    "owner": "jedi66",
+    "android": {
+      "package": "io.github.ocdispensary1"
+    }
   }
 }
