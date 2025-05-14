@@ -14,9 +14,7 @@
       },
       "supportsTablet": true,
       "bundleIdentifier": "io.github.ocdispensary1",
-      "associatedDomains": [
-        "applinks:ocdispensary.github.io"
-      ],
+      "associatedDomains": ["applinks:ocdispensary.github.io"],
       "config": {
         "usesNonExemptEncryption": false
       },
