@@ -17,6 +17,8 @@ removed
           PUPPETEER_DISABLE_TEMP_DIR_CLEANUP: "1"
         run: npm run categories
 
+webcredentials:ocdispensary.github.io
+
 https://appleid.apple.com/auth/authorize?client_id=com.dutchie.authentication&nonce=KXyU7UlPWeeOnLMzj4DHKg&redirect_uri=https%3A%2F%2Fdutchie.com%2Fapi%2Fv2%2Fauth%2Fapple%2Fcallback&response_mode=form_post&response_type=code&scope=email+name&state=6e52b854526e0271fb10b17a1c
 
 
