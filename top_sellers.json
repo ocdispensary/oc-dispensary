@@ -147,13 +147,6 @@
     "price": "$34.00"
   },
   {
-    "name": "Vape AIO | Holiday | Golden Hour",
-    "img": "https://images.dutchie.com/03a2087fbc92bbb11b92340fe6678e60?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
-    "brand": "Holiday",
-    "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=vape-aio-holiday-golden-hour",
-    "price": "$65.40"
-  },
-  {
     "name": "Sour Jack | ROVE Classics (All-In-One) 350mg",
     "img": "https://images.dutchie.com/7b0c94dff071af7a163a87672593a489?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
     "brand": "Rove",
@@ -172,6 +165,13 @@
     "img": "https://images.dutchie.com/fff4dfe5595f83ad5dfec69528e5b8b5?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
     "brand": "Kaleidoscope Collective",
     "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=flower-kaleidoscope-collective-berry-bonds",
+    "price": "$60.00"
+  },
+  {
+    "name": "Vape AIO | Bloom | King Louis",
+    "img": "https://images.dutchie.com/c3c8dac83ca7794a6ac306fd4176e1e8?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
+    "brand": "BLOOM",
+    "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=vape-aio-bloom-king-louis-1092",
     "price": "$60.00"
   }
 ]
