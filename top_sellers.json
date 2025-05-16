@@ -1,12 +1,5 @@
 [
   {
-    "name": "Flower | Nanticoke | Durban Poison",
-    "img": "https://images.dutchie.com/da0ec44e8512912c5150e67b0ba11e87?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
-    "brand": "Nanticoke",
-    "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=flower-nanticoke-durban-poison-61059",
-    "price": "$44.00"
-  },
-  {
     "name": "Flower | The Plug Pack | Bomb Pop",
     "img": "https://images.dutchie.com/3910017341f7cca71769a7db44334336?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
     "brand": "The Plug Pack",
@@ -35,6 +28,13 @@
     "price": "$220.00"
   },
   {
+    "name": "Flower | Nanticoke | Durban Poison",
+    "img": "https://images.dutchie.com/da0ec44e8512912c5150e67b0ba11e87?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
+    "brand": "Nanticoke",
+    "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=flower-nanticoke-durban-poison-61059",
+    "price": "$44.00"
+  },
+  {
     "name": "Flower | The Plug Pack | Chopped Cheese",
     "img": "https://images.dutchie.com/c0daf7a397259640753e5c70c6fa15aa?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
     "brand": "The Plug Pack",
@@ -47,6 +47,13 @@
     "brand": "HER Highness",
     "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=infused-flower-her-highness-pre-ground-rainbow-chip",
     "price": "$50.00"
+  },
+  {
+    "name": "Edible Gummies | Camino | Tropical Burst Sours - 10pk | 100MG",
+    "img": "https://images.dutchie.com/cd972c5b7d6d5827e847a38cb5f5a80a?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
+    "brand": "Kiva",
+    "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=edible-gummies-camino-tropical-burst-sours-10pk-100mg",
+    "price": "$30.00"
   },
   {
     "name": "Infused Flower | Revert | Mod Grape",
@@ -77,11 +84,18 @@
     "price": "$40.00"
   },
   {
-    "name": "Vape Pod | Rove | RELOAD 2pk - Pineapple Express",
-    "img": "https://images.dutchie.com/6af319cb6faea3f5873dbc7b28f5a4f9?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
-    "brand": "Rove",
-    "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=vape-pod-rove-reload-2pk-pineapple-express",
-    "price": "$114.00"
+    "name": "Flower | Rythm | Sour Diesel",
+    "img": "https://images.dutchie.com/f0db80af4a083fcfc87f30aae4ae599b?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
+    "brand": "Rythm",
+    "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=flower-rythm-sour-diesel",
+    "price": "$55.00"
+  },
+  {
+    "name": "Flower | Nanticoke | Pluto",
+    "img": "https://images.dutchie.com/2bef77ac4c92f73301d52ad431b571d2?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
+    "brand": "Nanticoke",
+    "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=flower-nanticoke-pluto",
+    "price": "$34.00"
   },
   {
     "name": "VAPE AIO | Ghost | Ghost Train Haze",
@@ -96,6 +110,13 @@
     "brand": "FlowerHouse",
     "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=flower-flowerhouse-sunset-punch",
     "price": "$49.00"
+  },
+  {
+    "name": "Flower | Our Creation | Sour Diesel",
+    "img": "https://images.dutchie.com/flower-stock-9-v1.jpg?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
+    "brand": "Our Creation",
+    "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=flower-our-creation-sour-diesel",
+    "price": "$44.00"
   },
   {
     "name": "Vape Cart | Blends By Basin | Blue Dream",
@@ -119,10 +140,10 @@
     "price": "$76.00"
   },
   {
-    "name": "Flower | The Plug Pack | Cherry Pie",
-    "img": "https://images.dutchie.com/396e565b65128775c02942466517a4a0?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
+    "name": "Flower | The Plug Pack | PB&J",
+    "img": "https://images.dutchie.com/d97324cbab4f7b65a0f301e3b03c9770?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
     "brand": "The Plug Pack",
-    "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=flower-the-plug-pack-cherry-pie",
+    "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=flower-the-plug-pack-pb-j",
     "price": "$24.00"
   },
   {
@@ -140,38 +161,17 @@
     "price": "$24.00"
   },
   {
+    "name": "Flower | Find | Froyo Fixins",
+    "img": "https://images.dutchie.com/2aff0171efd02db8819553776786b8a9?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
+    "brand": "Find.",
+    "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=flower-find-froyo-fixins",
+    "price": "$35.00"
+  },
+  {
     "name": "Pre-Roll | Nanticoke | Jack Herer - 5pk",
     "img": "https://images.dutchie.com/dc6db42a83349009b2c995187cd6b417?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
     "brand": "Nanticoke",
     "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=pre-roll-nanticoke-jack-herer-5pk",
     "price": "$34.00"
-  },
-  {
-    "name": "Sour Jack | ROVE Classics (All-In-One) 350mg",
-    "img": "https://images.dutchie.com/7b0c94dff071af7a163a87672593a489?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
-    "brand": "Rove",
-    "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=sour-jack-rove-classics-all-in-one-350mg-24803",
-    "price": "$32.00"
-  },
-  {
-    "name": "Cherry Bomb - Live Resin Vape AIO - Indica",
-    "img": "https://images.dutchie.com/87f587d249989ff71a90237ed018dde7?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
-    "brand": "To The Moon",
-    "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=cherry-bomb-live-resin-vape-aio-indica-40755",
-    "price": "$64.00"
-  },
-  {
-    "name": "Flower | Kaleidoscope Collective | Berry Bonds",
-    "img": "https://images.dutchie.com/fff4dfe5595f83ad5dfec69528e5b8b5?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
-    "brand": "Kaleidoscope Collective",
-    "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=flower-kaleidoscope-collective-berry-bonds",
-    "price": "$60.00"
-  },
-  {
-    "name": "Vape AIO | Bloom | King Louis",
-    "img": "https://images.dutchie.com/c3c8dac83ca7794a6ac306fd4176e1e8?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
-    "brand": "BLOOM",
-    "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=vape-aio-bloom-king-louis-1092",
-    "price": "$60.00"
   }
 ]
