@@ -154,13 +154,6 @@
     "price": "$88.00"
   },
   {
-    "name": "Flower | Electraleaf | Super Lemon Diesel",
-    "img": "https://images.dutchie.com/9f54ee0ca5a8ee31a8de28d050568087?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
-    "brand": "ElectraLeaf",
-    "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=flower-electraleaf-super-lemon-diesel",
-    "price": "$44.00"
-  },
-  {
     "name": "Vape Cart | Electraleaf | Channel",
     "img": "https://images.dutchie.com/9b49b18d830a6f88cded75aefa58a9ec?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
     "brand": "ElectraLeaf",
@@ -172,6 +165,13 @@
     "img": "https://images.dutchie.com/da0ec44e8512912c5150e67b0ba11e87?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
     "brand": "Nanticoke",
     "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=flower-nanticoke-durban-poison-61059",
+    "price": "$44.00"
+  },
+  {
+    "name": "Flower | Dank | Jack Diesel",
+    "img": "https://images.dutchie.com/flower-stock-11-v1.jpg?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
+    "brand": "Dank By Definition.",
+    "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=flower-dank-jack-diesel",
     "price": "$44.00"
   }
 ]
