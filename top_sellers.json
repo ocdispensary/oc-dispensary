@@ -1,12 +1,5 @@
 [
   {
-    "name": "CAM: Permanent Marker - NY Diamond Infused Pre-Rolls | 2.5G 5-Pack",
-    "img": "https://images.dutchie.com/745ec4bbf16c59175babafa58920791b?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
-    "brand": "Heavy Hitters",
-    "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=cam-permanent-marker-ny-diamond-infused-pre-rolls-2-5g-5-pack-90351",
-    "price": "$75.00"
-  },
-  {
     "name": "Vape Pod | Rove | RELOAD 2pk - Pineapple Express",
     "img": "https://images.dutchie.com/6af319cb6faea3f5873dbc7b28f5a4f9?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
     "brand": "Rove",
@@ -14,11 +7,32 @@
     "price": "$114.00"
   },
   {
+    "name": "Infused Flower | Revert | Mod Grape",
+    "img": "https://images.dutchie.com/7ed30f2b6768616aaf74b3470a89b2a2?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
+    "brand": "Revert",
+    "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=infused-flower-revert-mod-grape",
+    "price": "$70.00"
+  },
+  {
+    "name": "CAM: Permanent Marker - NY Diamond Infused Pre-Rolls | 2.5G 5-Pack",
+    "img": "https://images.dutchie.com/745ec4bbf16c59175babafa58920791b?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
+    "brand": "Heavy Hitters",
+    "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=cam-permanent-marker-ny-diamond-infused-pre-rolls-2-5g-5-pack-90351",
+    "price": "$75.00"
+  },
+  {
     "name": "Infused Flower | Revert | Dosi Punch",
     "img": "https://images.dutchie.com/c50516da712a65de949176ca64205ffa?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
     "brand": "Revert",
     "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=infused-flower-revert-dosi-punch",
     "price": "$70.00"
+  },
+  {
+    "name": "Infused Flower | Her Highness | Pre-Ground - Runtz",
+    "img": "https://images.dutchie.com/33cd619c3933dd40bd5d97a927b7a446?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
+    "brand": "HER Highness",
+    "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=infused-flower-her-highness-pre-ground-runtz",
+    "price": "$50.00"
   },
   {
     "name": "Blue Dream | Melted Diamond Live Resin Vaporizer | 1.0g (Ready-To-Use)",
@@ -35,11 +49,32 @@
     "price": "$55.00"
   },
   {
-    "name": "Infused Flower | Revert | Mod Grape",
-    "img": "https://images.dutchie.com/7ed30f2b6768616aaf74b3470a89b2a2?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
-    "brand": "Revert",
-    "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=infused-flower-revert-mod-grape",
-    "price": "$70.00"
+    "name": "Ayrloom | Mood Focus | AIO | 1g | THC : THCV",
+    "img": "https://images.dutchie.com/3d01f30c99e9ebdf1a801cb0badc0c88?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
+    "brand": "ayrloom",
+    "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=ayrloom-mood-focus-aio-1g-thc-thcv-71184",
+    "price": "$40.00"
+  },
+  {
+    "name": "COOKIES AND CREAM",
+    "img": "https://images.dutchie.com/98822b670bbe2700c85f8e8bde961685?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
+    "brand": "Dank By Definition.",
+    "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=cookies-and-cream-27936",
+    "price": "$53.00"
+  },
+  {
+    "name": "Flower | Nanticoke | Durban Poison",
+    "img": "https://images.dutchie.com/da0ec44e8512912c5150e67b0ba11e87?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
+    "brand": "Nanticoke",
+    "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=flower-nanticoke-durban-poison-61059",
+    "price": "$44.00"
+  },
+  {
+    "name": "Vape AIO | Holiday | Leisure",
+    "img": "https://images.dutchie.com/9955c15a976536193a9ec321cda5315b?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
+    "brand": "Holiday",
+    "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=vape-aio-holiday-leisure",
+    "price": "$65.40"
   },
   {
     "name": "Garlic Bud Pre-Roll 7-Pack | 3.5g",
@@ -63,6 +98,13 @@
     "price": "$70.00"
   },
   {
+    "name": "CBN:THC 1:1 Jamberry 100mg CBN:100mg THC Fruit Chews",
+    "img": "https://images.dutchie.com/d1c5971935fcc08bd0346223d7931aac?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
+    "brand": "Smokiez Edibles",
+    "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=cbn-thc-1-1-jamberry-100mg-cbn-100mg-thc-fruit-chews-22072",
+    "price": "$23.00"
+  },
+  {
     "name": "Infused Pre-Rolls | To The Moon | Diamond Infused 5pk - Alien Cookies",
     "img": "https://images.dutchie.com/8f74e9fa7bf61d2f4e84702407bfa938?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
     "brand": "To The Moon",
@@ -70,10 +112,10 @@
     "price": "$54.00"
   },
   {
-    "name": "COOKIES AND CREAM",
-    "img": "https://images.dutchie.com/98822b670bbe2700c85f8e8bde961685?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
+    "name": "DURBAN POISON",
+    "img": "https://images.dutchie.com/174c5fdc79ab395fd1bd14041f3e3da9?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
     "brand": "Dank By Definition.",
-    "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=cookies-and-cream-27936",
+    "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=durban-poison-49581",
     "price": "$53.00"
   },
   {
@@ -82,27 +124,6 @@
     "brand": "Dank By Definition.",
     "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=guava-cake-62848",
     "price": "$53.00"
-  },
-  {
-    "name": "PINEAPPLE HAZE | Packs Mini Bursts - 5 Pack Infused Mini Joints | 2.5G",
-    "img": "https://images.dutchie.com/35bd528172f48458c8e70a9fd29e25ae?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
-    "brand": "PACKS LA",
-    "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=pineapple-haze-packs-mini-bursts-5-pack-infused-mini-joints-2-5g-87521",
-    "price": "$50.00"
-  },
-  {
-    "name": "Infused Pre-rolls | Her Highness | Stoner Puffs - 5pk",
-    "img": "https://images.dutchie.com/24692134348e802be71404fd030bce80?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
-    "brand": "HER Highness",
-    "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=infused-pre-rolls-her-highness-stoner-puffs-5pk",
-    "price": "$50.00"
-  },
-  {
-    "name": "Infused Flower | Her Highness | Pre-Ground - Runtz",
-    "img": "https://images.dutchie.com/33cd619c3933dd40bd5d97a927b7a446?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
-    "brand": "HER Highness",
-    "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=infused-flower-her-highness-pre-ground-runtz",
-    "price": "$50.00"
   },
   {
     "name": "1:1 Milk Chocolate Mini Bar - Daytime Sativa - CBG/THC",
@@ -119,25 +140,18 @@
     "price": "$49.00"
   },
   {
-    "name": "Vape AIO | Select | Gelato",
-    "img": "https://images.dutchie.com/3fbd8b0c063a46edcff9e3fa1a947b60?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
-    "brand": "Select",
-    "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=vape-aio-select-gelato",
-    "price": "$95.00"
+    "name": "Dreamberry | 1:1:1 | THC:CBD:CBN |100mg | 10pk",
+    "img": "https://images.dutchie.com/fb9cb714191d2b9b0b83186e976b3f2d?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
+    "brand": "Jaunty",
+    "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=dreamberry-1-1-1-thc-cbd-cbn-100mg-10pk-30720",
+    "price": "$24.00"
   },
   {
-    "name": "Vape AIO | Select | Lemon Cherry Gelato",
-    "img": "https://images.dutchie.com/0beca9c341def85d182949e14ec4ecea?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
-    "brand": "Select",
-    "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=vape-aio-select-lemon-cherry-gelato",
-    "price": "$95.00"
-  },
-  {
-    "name": "CBN:THC 1:1 Jamberry 100mg CBN:100mg THC Fruit Chews",
-    "img": "https://images.dutchie.com/d1c5971935fcc08bd0346223d7931aac?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
-    "brand": "Smokiez Edibles",
-    "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=cbn-thc-1-1-jamberry-100mg-cbn-100mg-thc-fruit-chews-22072",
-    "price": "$23.00"
+    "name": "Flower | Platinum Reserve | Titan OG",
+    "img": "https://images.dutchie.com/73d4a987f22f6c1c43196a0cb32e55e3?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
+    "brand": "Platinum Reserve",
+    "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=flower-platinum-reserve-titan-og",
+    "price": "$46.00"
   },
   {
     "name": "Rainbow Sherbet | Hybrid - Ultra Extract High Potency Oil - 1G Reloadable POD AIO",
@@ -158,20 +172,6 @@
     "img": "https://images.dutchie.com/9b49b18d830a6f88cded75aefa58a9ec?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
     "brand": "ElectraLeaf",
     "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=vape-cart-electraleaf-channel",
-    "price": "$44.00"
-  },
-  {
-    "name": "Flower | Nanticoke | Durban Poison",
-    "img": "https://images.dutchie.com/da0ec44e8512912c5150e67b0ba11e87?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
-    "brand": "Nanticoke",
-    "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=flower-nanticoke-durban-poison-61059",
-    "price": "$44.00"
-  },
-  {
-    "name": "Flower | Dank | Jack Diesel",
-    "img": "https://images.dutchie.com/flower-stock-11-v1.jpg?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
-    "brand": "Dank By Definition.",
-    "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=flower-dank-jack-diesel",
     "price": "$44.00"
   }
 ]
