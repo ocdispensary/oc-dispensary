@@ -6,6 +6,12 @@ npm install puppeteer puppeteer-extra
 npm install puppeteer-extra-plugin-stealth puppeteer-extra-plugin-adblocker
 npm run categories
 npm run scraper
+
+https://dutchie.com/oauth/auto-login?provider=google&redirectUrl=https://dutchie.com/embedded-menu/oc-dispensary/
+
+
+https://dutchie.com/oauth/auto-login?provider=apple&redirectUrl=https://dutchie.com/embedded-menu/oc-dispensary/
+
 old url
 https://dutchie.com/embedded-menu/oc-dispensary
 

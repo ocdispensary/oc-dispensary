@@ -59,6 +59,15 @@
 					<i class="fa-solid fa-circle-right navbar-btm-icon"></i>
 				</button>
 			</div>
+			<script>
+			(function poll() {
+				if (!window.DutchieEmbed?.registerClickHandlerLogin) return setTimeout(poll, 250);
+				DutchieEmbed.registerClickHandlerLogin(function (setUserDetails) {
+				window.__dutchieSetUserDetails__ = setUserDetails;
+				window.webkit?.messageHandlers?.nativeLogin?.postMessage('login-request');
+				});
+			})();
+			</script>
 			<script defer src="swiper-bundle.min.js"></script>
 			<script src="jquery-3.4.1.min.js"></script>
 			<script src="top_sellers.js" defer></script>
