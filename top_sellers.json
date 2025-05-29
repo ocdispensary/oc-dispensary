@@ -21,20 +21,6 @@
     "price": "$90.00"
   },
   {
-    "name": "Vape Pod | Rove | RELOAD 2pk - Pineapple Express",
-    "img": "https://images.dutchie.com/6af319cb6faea3f5873dbc7b28f5a4f9?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
-    "brand": "Rove",
-    "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=vape-pod-rove-reload-2pk-pineapple-express",
-    "price": "$114.00"
-  },
-  {
-    "name": "CAM: Permanent Marker - NY Diamond Infused Pre-Rolls | 2.5G 5-Pack",
-    "img": "https://images.dutchie.com/745ec4bbf16c59175babafa58920791b?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
-    "brand": "Heavy Hitters",
-    "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=cam-permanent-marker-ny-diamond-infused-pre-rolls-2-5g-5-pack-90351",
-    "price": "$75.00"
-  },
-  {
     "name": "Flower | Dolla Treez | Lemon Meringue",
     "img": "https://images.dutchie.com/flower-stock-14-v1.jpg?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
     "brand": "Dolla Treez",
@@ -47,6 +33,13 @@
     "brand": "Florist Farms",
     "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=tincture-florist-farms-relief-300mg",
     "price": "$80.00"
+  },
+  {
+    "name": "Ayrloom | Pineapple Express | AIO | 0.5g",
+    "img": "https://images.dutchie.com/6385a3ecba6560be2695106ad722c7a8?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
+    "brand": "ayrloom",
+    "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=ayrloom-pineapple-express-aio-0-5g-25793",
+    "price": "$30.00"
   },
   {
     "name": "Pre Roll | Dank | Jack N Cheese- 7pk",
@@ -63,11 +56,11 @@
     "price": "$30.00"
   },
   {
-    "name": "Vape AIO | Bloom | King Louis",
-    "img": "https://images.dutchie.com/c3c8dac83ca7794a6ac306fd4176e1e8?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
-    "brand": "BLOOM",
-    "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=vape-aio-bloom-king-louis-1092",
-    "price": "$60.00"
+    "name": "Vape Pod | Rove | RELOAD 2pk - Pineapple Express",
+    "img": "https://images.dutchie.com/6af319cb6faea3f5873dbc7b28f5a4f9?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
+    "brand": "Rove",
+    "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=vape-pod-rove-reload-2pk-pineapple-express",
+    "price": "$114.00"
   },
   {
     "name": "Flower | Florist Farms | Grandi Guava",
@@ -75,13 +68,6 @@
     "brand": "Florist Farms",
     "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=flower-florist-farms-grandi-guava",
     "price": "$70.00"
-  },
-  {
-    "name": "Infused Pre-Rolls | Hashtag Honey | Oreoz - 5pk Diamond Infused",
-    "img": "https://images.dutchie.com/d6b81c588dab5a0f383a77263d4d5dd6?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
-    "brand": "Hashtag Honey",
-    "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=infused-pre-rolls-hashtag-honey-oreoz-5pk-diamond-infused",
-    "price": "$36.00"
   },
   {
     "name": "DURBAN POISON",
@@ -98,6 +84,13 @@
     "price": "$53.00"
   },
   {
+    "name": "VAPE AIO | Ghost | Ghost Train Haze",
+    "img": "https://images.dutchie.com/d2fec620ac2863b9fcc159108b81625f?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
+    "brand": "ghost.",
+    "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=vape-aio-ghost-ghost-train-haze",
+    "price": "$100.00"
+  },
+  {
     "name": "Edible Caramel | Cheeba | Joint Relief 20pk | 100mg THC 120mg CBD 200mg CBC",
     "img": "https://images.dutchie.com/Edibles.jpg?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
     "brand": "Cheeba",
@@ -110,13 +103,6 @@
     "brand": "Platinum Reserve",
     "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=flower-platinum-reserve-titan-og",
     "price": "$46.00"
-  },
-  {
-    "name": "Ayrloom | Pineapple Express | AIO | 0.5g",
-    "img": "https://images.dutchie.com/6385a3ecba6560be2695106ad722c7a8?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
-    "brand": "ayrloom",
-    "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=ayrloom-pineapple-express-aio-0-5g-25793",
-    "price": "$30.00"
   },
   {
     "name": "Edible Gummies | Camino | Tropical Burst Sours - 10pk | 100MG",
@@ -147,6 +133,13 @@
     "price": "$44.00"
   },
   {
+    "name": "Vape AIO | Rove | Live Resin Liquid Diamonds - Strawberry Cough",
+    "img": "https://images.dutchie.com/b3da972c677446b5508771cb58688c21?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
+    "brand": "Rove",
+    "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=vape-aio-rove-live-resin-liquid-diamonds-strawberry-cough",
+    "price": "$86.00"
+  },
+  {
     "name": "Blue Dream | Melted Diamond Live Resin Vaporizer | 1.0g (Ready-To-Use)",
     "img": "https://images.dutchie.com/418ebe99a586495de54482492148ff81?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
     "brand": "Rove",
@@ -173,5 +166,12 @@
     "brand": "MFNY",
     "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=vape-cart-mfny-honey-banana-2-pk",
     "price": "$78.00"
+  },
+  {
+    "name": "Flower | The Plug Pack | Tequila Sunrise",
+    "img": "https://images.dutchie.com/bb3a1d1b9c1fc44927341f907ea7f25e?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
+    "brand": "The Plug Pack",
+    "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=flower-the-plug-pack-tequila-sunrise-29360",
+    "price": "$75.00"
   }
 ]
