@@ -7,11 +7,11 @@
     "price": "$70.00"
   },
   {
-    "name": "Ayrloom | Mood Focus | AIO | 1g | THC : THCV",
-    "img": "https://images.dutchie.com/3d01f30c99e9ebdf1a801cb0badc0c88?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
-    "brand": "ayrloom",
-    "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=ayrloom-mood-focus-aio-1g-thc-thcv-71184",
-    "price": "$40.00"
+    "name": "Flower | Dolla Treez | Lemon Meringue",
+    "img": "https://images.dutchie.com/flower-stock-14-v1.jpg?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
+    "brand": "Dolla Treez",
+    "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=flower-dolla-treez-lemon-meringue",
+    "price": "$25.00"
   },
   {
     "name": "Rainbow Sherbet | Hybrid - Ultra Extract High Potency Oil - 1G Reloadable POD AIO",
@@ -21,11 +21,11 @@
     "price": "$90.00"
   },
   {
-    "name": "Flower | Dolla Treez | Lemon Meringue",
-    "img": "https://images.dutchie.com/flower-stock-14-v1.jpg?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
-    "brand": "Dolla Treez",
-    "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=flower-dolla-treez-lemon-meringue",
-    "price": "$25.00"
+    "name": "Ayrloom | Mood Focus | AIO | 1g | THC : THCV",
+    "img": "https://images.dutchie.com/3d01f30c99e9ebdf1a801cb0badc0c88?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
+    "brand": "ayrloom",
+    "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=ayrloom-mood-focus-aio-1g-thc-thcv-71184",
+    "price": "$40.00"
   },
   {
     "name": "Tincture | Florist Farms | Relief | 300mg",
@@ -35,10 +35,17 @@
     "price": "$80.00"
   },
   {
-    "name": "Ayrloom | Pineapple Express | AIO | 0.5g",
-    "img": "https://images.dutchie.com/6385a3ecba6560be2695106ad722c7a8?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
-    "brand": "ayrloom",
-    "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=ayrloom-pineapple-express-aio-0-5g-25793",
+    "name": "Flower | Hepworth | Orange Tree X White Runtz",
+    "img": "https://images.dutchie.com/flower-stock-2-v1.jpg?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
+    "brand": "Hepworth",
+    "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=flower-hepworth-orange-tree-x-white-runtz",
+    "price": "$30.00"
+  },
+  {
+    "name": "Flower | Revert | Pineapple Haze",
+    "img": "https://images.dutchie.com/a52d59f1611564ef6b084aa890f86ccb?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
+    "brand": "Revert",
+    "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=flower-revert-pineapple-haze",
     "price": "$30.00"
   },
   {
@@ -47,13 +54,6 @@
     "brand": "Dank By Definition.",
     "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=pre-roll-dank-jack-n-cheese-7pk",
     "price": "$40.00"
-  },
-  {
-    "name": "Flower | Hepworth | Orange Tree X White Runtz",
-    "img": "https://images.dutchie.com/flower-stock-2-v1.jpg?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
-    "brand": "Hepworth",
-    "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=flower-hepworth-orange-tree-x-white-runtz",
-    "price": "$30.00"
   },
   {
     "name": "Vape Pod | Rove | RELOAD 2pk - Pineapple Express",
@@ -68,13 +68,6 @@
     "brand": "Florist Farms",
     "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=flower-florist-farms-grandi-guava",
     "price": "$70.00"
-  },
-  {
-    "name": "DURBAN POISON",
-    "img": "https://images.dutchie.com/174c5fdc79ab395fd1bd14041f3e3da9?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
-    "brand": "Dank By Definition.",
-    "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=durban-poison-49581",
-    "price": "$53.00"
   },
   {
     "name": "GUAVA CAKE",
@@ -112,11 +105,11 @@
     "price": "$30.00"
   },
   {
-    "name": "Flower | Revert | Pineapple Haze",
-    "img": "https://images.dutchie.com/a52d59f1611564ef6b084aa890f86ccb?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
-    "brand": "Revert",
-    "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=flower-revert-pineapple-haze",
-    "price": "$30.00"
+    "name": "Amnesia Haze | 510 | CDT",
+    "img": "https://images.dutchie.com/a13eac57b372109f127719ed7edb5f2e?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
+    "brand": "Jaunty",
+    "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=amnesia-haze-510-cdt",
+    "price": "$45.00"
   },
   {
     "name": "PAX Trip High Purity | Purple Afghani 1g",
@@ -147,10 +140,17 @@
     "price": "$86.00"
   },
   {
-    "name": "Flower | Grassroots | Novarine",
-    "img": "https://images.dutchie.com/099a4d1dccde8b4c07a3885a78f1a828?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
-    "brand": "Grassroots",
-    "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=flower-grassroots-novarine",
+    "name": "Edible Gummies | Camino | Wild Cherry - 20pk | 100MG",
+    "img": "https://images.dutchie.com/461955677a6488d30a1c7cf3557356d6?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
+    "brand": "Kiva",
+    "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=edible-gummies-camino-wild-cherry-20pk-100mg",
+    "price": "$28.00"
+  },
+  {
+    "name": "Ayrloom | Mood Rest | AIO | 1g | THC : CBN",
+    "img": "https://images.dutchie.com/a072d213793b45a8bc2073459c691fb7?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
+    "brand": "ayrloom",
+    "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=ayrloom-mood-rest-aio-1g-thc-cbn-28243",
     "price": "$40.00"
   },
   {
@@ -168,10 +168,10 @@
     "price": "$78.00"
   },
   {
-    "name": "Flower | The Plug Pack | Tequila Sunrise",
-    "img": "https://images.dutchie.com/bb3a1d1b9c1fc44927341f907ea7f25e?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
-    "brand": "The Plug Pack",
-    "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=flower-the-plug-pack-tequila-sunrise-29360",
-    "price": "$75.00"
+    "name": "Infused Pre-Rolls | Hashtag Honey | Oreoz - 5pk Diamond Infused",
+    "img": "https://images.dutchie.com/d6b81c588dab5a0f383a77263d4d5dd6?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
+    "brand": "Hashtag Honey",
+    "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=infused-pre-rolls-hashtag-honey-oreoz-5pk-diamond-infused",
+    "price": "$36.00"
   }
 ]
