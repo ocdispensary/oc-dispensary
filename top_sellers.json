@@ -1,17 +1,17 @@
 [
   {
-    "name": "Infused Flower | Revert | Mod Grape",
-    "img": "https://images.dutchie.com/7ed30f2b6768616aaf74b3470a89b2a2?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
-    "brand": "Revert",
-    "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=infused-flower-revert-mod-grape",
-    "price": "$70.00"
-  },
-  {
     "name": "Infused Pre-Rolls | Ayrloom | Cereal Milk - 5pk",
     "img": "https://images.dutchie.com/626005be2ffca52d395c956306b82dee?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
     "brand": "ayrloom",
     "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=infused-pre-rolls-ayrloom-cereal-milk-5pk",
     "price": "$40.00"
+  },
+  {
+    "name": "Infused Flower | Her Highness | Doggy Bag",
+    "img": "https://images.dutchie.com/bcb80a871f8002ffbe4b533572ad802c?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
+    "brand": "HER Highness",
+    "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=infused-flower-her-highness-doggy-bag",
+    "price": "$50.00"
   },
   {
     "name": "Vape AIO | Eureka | Mango Haze",
@@ -28,6 +28,13 @@
     "price": "$86.00"
   },
   {
+    "name": "Ayrloom | Mood Rest | AIO | 1g | THC : CBN",
+    "img": "https://images.dutchie.com/a072d213793b45a8bc2073459c691fb7?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
+    "brand": "ayrloom",
+    "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=ayrloom-mood-rest-aio-1g-thc-cbn-28243",
+    "price": "$50.00"
+  },
+  {
     "name": "Pre-Rolls | Uncle Budd NYC | Mixed 6pk",
     "img": "https://images.dutchie.com/790edc8c58551370a9632c59f809f851?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
     "brand": "Uncle Budd NYC",
@@ -40,13 +47,6 @@
     "brand": "Doobies",
     "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=flower-doobie-labs-blue-lobster",
     "price": "$54.00"
-  },
-  {
-    "name": "Tincture | Florist Farms | Relief | 300mg",
-    "img": "https://images.dutchie.com/f5ee789f674b9e251510bc90eca3b959?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
-    "brand": "Florist Farms",
-    "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=tincture-florist-farms-relief-300mg",
-    "price": "$80.00"
   },
   {
     "name": "Ayrloom | Pineapple Express | AIO | 0.5g",
@@ -63,11 +63,11 @@
     "price": "$75.00"
   },
   {
-    "name": "Infused Flower | Her Highness | Doggy Bag",
-    "img": "https://images.dutchie.com/bcb80a871f8002ffbe4b533572ad802c?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
-    "brand": "HER Highness",
-    "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=infused-flower-her-highness-doggy-bag",
-    "price": "$50.00"
+    "name": "Flower | Revert | Pineapple Haze",
+    "img": "https://images.dutchie.com/a52d59f1611564ef6b084aa890f86ccb?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
+    "brand": "Revert",
+    "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=flower-revert-pineapple-haze",
+    "price": "$30.00"
   },
   {
     "name": "Vape AIO | Ayrloom | Pink Rozay",
@@ -84,11 +84,25 @@
     "price": "$28.00"
   },
   {
-    "name": "Ayrloom | Mood Rest | AIO | 1g | THC : CBN",
-    "img": "https://images.dutchie.com/a072d213793b45a8bc2073459c691fb7?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
-    "brand": "ayrloom",
-    "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=ayrloom-mood-rest-aio-1g-thc-cbn-28243",
-    "price": "$50.00"
+    "name": "Flower | Florist Farms | Grandi Guava",
+    "img": "https://images.dutchie.com/0c4e66abd156776fd2ff9b2eae76dfd5?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
+    "brand": "Florist Farms",
+    "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=flower-florist-farms-grandi-guava",
+    "price": "$70.00"
+  },
+  {
+    "name": "Flower | Platinum Reserve | Titan OG",
+    "img": "https://images.dutchie.com/73d4a987f22f6c1c43196a0cb32e55e3?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
+    "brand": "Platinum Reserve",
+    "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=flower-platinum-reserve-titan-og",
+    "price": "$46.00"
+  },
+  {
+    "name": "Vape AIO | Eureka | Blackberry Kush",
+    "img": "https://images.dutchie.com/ff43fd5480b5392dd1fbf85ddfbae35a?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
+    "brand": "Eureka",
+    "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=vape-aio-eureka-blackberry-kush",
+    "price": "$65.00"
   },
   {
     "name": "Ayrloom | Mood Focus | AIO | 1g | THC : THCV",
@@ -105,11 +119,11 @@
     "price": "$114.00"
   },
   {
-    "name": "Flower | Florist Farms | Grandi Guava",
-    "img": "https://images.dutchie.com/0c4e66abd156776fd2ff9b2eae76dfd5?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
-    "brand": "Florist Farms",
-    "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=flower-florist-farms-grandi-guava",
-    "price": "$70.00"
+    "name": "Flower | Zizzle | Silver Haze",
+    "img": "https://images.dutchie.com/a241e9f10aa7219b822fe5e4acf360a4?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
+    "brand": "Zizzle",
+    "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=flower-zizzle-silver-haze",
+    "price": "$54.00"
   },
   {
     "name": "GUAVA CAKE",
@@ -126,18 +140,18 @@
     "price": "$100.00"
   },
   {
-    "name": "Vape Cart | Select | Blood Orange",
-    "img": "https://images.dutchie.com/108097132bbdd5a4d272d95dff90187e?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
-    "brand": "Select",
-    "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=vape-cart-select-blood-orange",
-    "price": "$50.00"
+    "name": "Pre Roll | Hepworth | Red Velvet X Lemon Cherry Gelato- 2pk",
+    "img": "https://images.dutchie.com/preroll-stock-2-v1.jpg?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
+    "brand": "Hepworth",
+    "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=pre-roll-hepworth-red-velvet-x-lemon-cherry-gelato-2pk",
+    "price": "$9.00"
   },
   {
-    "name": "Flower | Platinum Reserve | Titan OG",
-    "img": "https://images.dutchie.com/73d4a987f22f6c1c43196a0cb32e55e3?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
-    "brand": "Platinum Reserve",
-    "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=flower-platinum-reserve-titan-og",
-    "price": "$46.00"
+    "name": "Flower | Flower House | Jack Diesel",
+    "img": "https://images.dutchie.com/4066a102c5ef86f838aac7384eabcae7?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
+    "brand": "FlowerHouse",
+    "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=flower-flower-house-jack-diesel",
+    "price": "$49.00"
   },
   {
     "name": "VAPE AIO | Cannabals | Live Diamonds Vape - Banana OG",
@@ -158,20 +172,6 @@
     "img": "https://images.dutchie.com/bd734ade7b83532cc7da622b4253c406?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
     "brand": "Kiva",
     "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=edible-chocolate-kiva-bars-chocolate-churro-100mg",
-    "price": "$30.00"
-  },
-  {
-    "name": "Amnesia Haze | 510 | CDT",
-    "img": "https://images.dutchie.com/a13eac57b372109f127719ed7edb5f2e?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
-    "brand": "Jaunty",
-    "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=amnesia-haze-510-cdt",
-    "price": "$45.00"
-  },
-  {
-    "name": "Flower | Revert | Pink Starburst",
-    "img": "https://images.dutchie.com/b4c9521d9f2ccf6234a21f2abedccdc5?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
-    "brand": "Revert",
-    "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=flower-revert-pink-starburst",
     "price": "$30.00"
   }
 ]
