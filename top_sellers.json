@@ -7,18 +7,18 @@
     "price": "$40.00"
   },
   {
-    "name": "Ayrloom | Mood Rest | AIO | 1g | THC : CBN",
-    "img": "https://images.dutchie.com/a072d213793b45a8bc2073459c691fb7?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
-    "brand": "ayrloom",
-    "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=ayrloom-mood-rest-aio-1g-thc-cbn-28243",
-    "price": "$50.00"
-  },
-  {
     "name": "Flower | Doobie Labs | Blue Lobster",
     "img": "https://images.dutchie.com/flower-stock-9-v1.jpg?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
     "brand": "Doobies",
     "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=flower-doobie-labs-blue-lobster",
     "price": "$54.00"
+  },
+  {
+    "name": "Ayrloom | Mood Rest | AIO | 1g | THC : CBN",
+    "img": "https://images.dutchie.com/a072d213793b45a8bc2073459c691fb7?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
+    "brand": "ayrloom",
+    "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=ayrloom-mood-rest-aio-1g-thc-cbn-28243",
+    "price": "$50.00"
   },
   {
     "name": "Vape AIO | Eureka | Mango Haze",
@@ -35,13 +35,6 @@
     "price": "$46.00"
   },
   {
-    "name": "Vape AIO | Rove | Live Resin Liquid Diamonds - Strawberry Cough",
-    "img": "https://images.dutchie.com/b3da972c677446b5508771cb58688c21?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
-    "brand": "Rove",
-    "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=vape-aio-rove-live-resin-liquid-diamonds-strawberry-cough",
-    "price": "$86.00"
-  },
-  {
     "name": "Pre-Rolls | Uncle Budd NYC | Mixed 6pk",
     "img": "https://images.dutchie.com/790edc8c58551370a9632c59f809f851?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
     "brand": "Uncle Budd NYC",
@@ -56,18 +49,11 @@
     "price": "$80.00"
   },
   {
-    "name": "Ayrloom | Pineapple Express | AIO | 0.5g",
-    "img": "https://images.dutchie.com/6385a3ecba6560be2695106ad722c7a8?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
-    "brand": "ayrloom",
-    "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=ayrloom-pineapple-express-aio-0-5g-25793",
-    "price": "$30.00"
-  },
-  {
-    "name": "Flower | The Plug Pack | Tequila Sunrise",
-    "img": "https://images.dutchie.com/bb3a1d1b9c1fc44927341f907ea7f25e?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
-    "brand": "The Plug Pack",
-    "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=flower-the-plug-pack-tequila-sunrise-29360",
-    "price": "$75.00"
+    "name": "Flower | Gypsy Weed | Amnesia",
+    "img": "https://images.dutchie.com/flower-stock-5-v1.jpg?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
+    "brand": "Gypsy Weed",
+    "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=flower-gypsy-weed-amnesia",
+    "price": "$160.00"
   },
   {
     "name": "Infused Flower | Her Highness | Doggy Bag",
@@ -75,6 +61,34 @@
     "brand": "HER Highness",
     "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=infused-flower-her-highness-doggy-bag",
     "price": "$50.00"
+  },
+  {
+    "name": "Flower | Pura | Blue Dream X Purple Punch",
+    "img": "https://images.dutchie.com/flower-stock-6-v1.jpg?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
+    "brand": "Pura",
+    "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=flower-pura-blue-dream-x-purple-punch",
+    "price": "$150.00"
+  },
+  {
+    "name": "Ayrloom | Mood Focus | AIO | 1g | THC : THCV",
+    "img": "https://images.dutchie.com/3d01f30c99e9ebdf1a801cb0badc0c88?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
+    "brand": "ayrloom",
+    "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=ayrloom-mood-focus-aio-1g-thc-thcv-71184",
+    "price": "$50.00"
+  },
+  {
+    "name": "Ayrloom | Pineapple Express | AIO | 0.5g",
+    "img": "https://images.dutchie.com/6385a3ecba6560be2695106ad722c7a8?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
+    "brand": "ayrloom",
+    "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=ayrloom-pineapple-express-aio-0-5g-25793",
+    "price": "$30.00"
+  },
+  {
+    "name": "Vape AIO | Jaunty | Blue Dream",
+    "img": "https://images.dutchie.com/5dbfe950e70f4c74bea2b18b4989d6eb?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
+    "brand": "Jaunty",
+    "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=vape-aio-jaunty-blue-dream",
+    "price": "$60.00"
   },
   {
     "name": "Flower | Revert | Pink Starburst",
@@ -98,13 +112,6 @@
     "price": "$114.00"
   },
   {
-    "name": "Edible Gummies | Camino | Watermelon Lemonade - 20pk | 100MG",
-    "img": "https://images.dutchie.com/8a18e5fb1222c460dbc2c313dc04da4a?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
-    "brand": "Kiva",
-    "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=edible-gummies-camino-watermelon-lemonade-20pk-100mg",
-    "price": "$28.00"
-  },
-  {
     "name": "Flower | Zizzle | Silver Haze",
     "img": "https://images.dutchie.com/a241e9f10aa7219b822fe5e4acf360a4?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
     "brand": "Zizzle",
@@ -112,11 +119,11 @@
     "price": "$54.00"
   },
   {
-    "name": "VAPE AIO | Ghost | Ghost Train Haze",
-    "img": "https://images.dutchie.com/d2fec620ac2863b9fcc159108b81625f?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
-    "brand": "ghost.",
-    "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=vape-aio-ghost-ghost-train-haze",
-    "price": "$100.00"
+    "name": "Ayrloom | Mood Calm | AIO | 1g | THC : CBD",
+    "img": "https://images.dutchie.com/aebc3076f08ddbc6ad2b2ed6727fbf66?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
+    "brand": "ayrloom",
+    "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=ayrloom-mood-calm-aio-1g-thc-cbd-99212",
+    "price": "$50.00"
   },
   {
     "name": "Pre Roll | Hepworth | Red Velvet X Lemon Cherry Gelato- 2pk",
@@ -147,13 +154,6 @@
     "price": "$30.00"
   },
   {
-    "name": "Edible Gummies | Camino | Yuzu Lemon - 20pk | 100MG",
-    "img": "https://images.dutchie.com/f9ad34e9cfb378b638346d06072e87df?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
-    "brand": "Kiva",
-    "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=edible-gummies-camino-yuzu-lemon-20pk-100mg",
-    "price": "$30.00"
-  },
-  {
     "name": "Edible Chocolate | Kiva Bars | Chocolate Churro | 100MG",
     "img": "https://images.dutchie.com/bd734ade7b83532cc7da622b4253c406?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
     "brand": "Kiva",
@@ -161,17 +161,17 @@
     "price": "$30.00"
   },
   {
-    "name": "Amnesia Haze | 510 | CDT",
-    "img": "https://images.dutchie.com/a13eac57b372109f127719ed7edb5f2e?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
-    "brand": "Jaunty",
-    "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=amnesia-haze-510-cdt",
-    "price": "$45.00"
-  },
-  {
     "name": "Vape AIO | Fernway | Alpine Strawberry",
     "img": "https://images.dutchie.com/a5ea0ac6a6f3cffec8cdf7dbf45106c1?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
     "brand": "Fernway",
     "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=vape-aio-fernway-alpine-strawberry",
     "price": "$90.00"
+  },
+  {
+    "name": "Flower | Hepworth | Terp Poison",
+    "img": "https://images.dutchie.com/flower-stock-8-v1.jpg?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
+    "brand": "Hepworth",
+    "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=flower-hepworth-terp-poison",
+    "price": "$30.00"
   }
 ]
