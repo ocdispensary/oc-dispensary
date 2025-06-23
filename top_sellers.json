@@ -49,6 +49,13 @@
     "price": "$85.00"
   },
   {
+    "name": "Pre-Rolls | Platinum Reserve | Jack Herer - 5pk",
+    "img": "https://images.dutchie.com/5f065e720abb7f5f1b82cf1209ed1bb1?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
+    "brand": "Platinum Reserve",
+    "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=pre-rolls-platinum-reserve-jack-herer-5pk",
+    "price": "$40.00"
+  },
+  {
     "name": "Flower | Rythm | Xeno",
     "img": "https://images.dutchie.com/652bec74891a15d56ebac50425da9065?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
     "brand": "Rythm",
@@ -77,24 +84,10 @@
     "price": "$80.00"
   },
   {
-    "name": "Flower | Florette | Purple Animal",
-    "img": "https://images.dutchie.com/d73451eeb63fd050aee3e3a7fba1b2fa?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
-    "brand": "Florette",
-    "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=flower-florette-purple-animal",
-    "price": "$38.00"
-  },
-  {
-    "name": "Flower | The Plug Pack | Tequila Sunrise",
-    "img": "https://images.dutchie.com/bb3a1d1b9c1fc44927341f907ea7f25e?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
-    "brand": "The Plug Pack",
-    "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=flower-the-plug-pack-tequila-sunrise-29360",
-    "price": "$75.00"
-  },
-  {
-    "name": "Flower | Wavy | Headband",
-    "img": "https://images.dutchie.com/flower-stock-12-v1.jpg?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
-    "brand": "Wavy",
-    "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=flower-wavy-headband",
+    "name": "Flower | Dealer | Kiwi Kush x Lemon Cherry Gelato",
+    "img": "https://images.dutchie.com/0f52c5fdb1aed684e3c94d54cb7d6c37?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
+    "brand": "Dealer",
+    "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=flower-dealer-kiwi-kush-x-lemon-cherry-gelato",
     "price": "$30.00"
   },
   {
@@ -119,6 +112,13 @@
     "price": "$65.00"
   },
   {
+    "name": "Ayrloom Pineapple Mango \"Island Time\" | 2:1 | 10MG THC : 5MG CBD 10 Pack",
+    "img": "https://images.dutchie.com/c3f2fdb288e55e7c5b3a9e8b9563c073?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
+    "brand": "ayrloom",
+    "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=ayrloom-pineapple-mango-island-time-2-1-10mg-thc-5mg-cbd-10-pack",
+    "price": "$25.00"
+  },
+  {
     "name": "Flower | The Plug Pack | Lychee Dream",
     "img": "https://images.dutchie.com/b4a7a887178b5e70317bfc107a1b2042?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
     "brand": "The Plug Pack",
@@ -133,25 +133,18 @@
     "price": "$125.00"
   },
   {
-    "name": "Flower | Dolla Treez | Lemon Meringue",
-    "img": "https://images.dutchie.com/flower-stock-14-v1.jpg?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
-    "brand": "Dolla Treez",
-    "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=flower-dolla-treez-lemon-meringue",
-    "price": "$25.00"
-  },
-  {
-    "name": "Pre-Rolls | Platinum Reserve | Jack Herer - 5pk",
-    "img": "https://images.dutchie.com/5f065e720abb7f5f1b82cf1209ed1bb1?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
-    "brand": "Platinum Reserve",
-    "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=pre-rolls-platinum-reserve-jack-herer-5pk",
-    "price": "$40.00"
-  },
-  {
     "name": "Flower | Kaleidoscope Collective | Halle Berry",
     "img": "https://images.dutchie.com/fff4dfe5595f83ad5dfec69528e5b8b5?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
     "brand": "Kaleidoscope Collective",
     "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=flower-kaleidoscope-collective-halle-berry",
     "price": "$60.00"
+  },
+  {
+    "name": "Infused Pre Rolls | Ayrloom | Key Lime- 5pk",
+    "img": "https://images.dutchie.com/a1deea5e729f6d9bba2f473eb8a80959?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
+    "brand": "ayrloom",
+    "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=infused-pre-rolls-ayrloom-key-lime-5pk",
+    "price": "$40.00"
   },
   {
     "name": "Flower | LivWell | Womac",
@@ -168,10 +161,17 @@
     "price": "$60.00"
   },
   {
-    "name": "Flower | Dealer | Kiwi Kush x Lemon Cherry Gelato",
-    "img": "https://images.dutchie.com/0f52c5fdb1aed684e3c94d54cb7d6c37?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
-    "brand": "Dealer",
-    "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=flower-dealer-kiwi-kush-x-lemon-cherry-gelato",
-    "price": "$30.00"
+    "name": "Vape AIO | Ayrloom | Bomb Popz",
+    "img": "https://images.dutchie.com/0262d634770e6ff3863aef7f05e803a6?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
+    "brand": "ayrloom",
+    "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=vape-aio-ayrloom-bomb-popz",
+    "price": "$40.00"
+  },
+  {
+    "name": "Flower | Florette | Purple Animal",
+    "img": "https://images.dutchie.com/d73451eeb63fd050aee3e3a7fba1b2fa?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
+    "brand": "Florette",
+    "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=flower-florette-purple-animal",
+    "price": "$38.00"
   }
 ]
