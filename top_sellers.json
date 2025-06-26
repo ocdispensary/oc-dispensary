@@ -7,46 +7,11 @@
     "price": "$150.00"
   },
   {
-    "name": "Strawberry Cough | Melted Diamond Live Resin Vaporizer | 1g (Ready-To-Use)",
-    "img": "https://images.dutchie.com/195cc3313ff0a5845efd55464d168fa9?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
-    "brand": "Rove",
-    "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=strawberry-cough-melted-diamond-live-resin-vaporizer-1g-ready-to-use",
-    "price": "$86.00"
-  },
-  {
-    "name": "Pre-Rolls | Platinum Reserve | Jack Herer - 5pk",
-    "img": "https://images.dutchie.com/5f065e720abb7f5f1b82cf1209ed1bb1?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
-    "brand": "Platinum Reserve",
-    "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=pre-rolls-platinum-reserve-jack-herer-5pk",
-    "price": "$40.00"
-  },
-  {
-    "name": "Flower | Matter | Grape Gas",
-    "img": "https://images.dutchie.com/54b6357bfe15efe93156fe7ffed84efd?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
-    "brand": "matter.",
-    "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=flower-matter-grape-gas",
-    "price": "$130.00"
-  },
-  {
-    "name": "Flower | Find. | Indica  Princess",
-    "img": "https://images.dutchie.com/1af37845ba2791b9d144040b3e36cf19?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
-    "brand": "Find.",
-    "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=flower-find-indica-princess",
-    "price": "$65.00"
-  },
-  {
-    "name": "Amnesia Haze | 510 | CDT",
-    "img": "https://images.dutchie.com/a13eac57b372109f127719ed7edb5f2e?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
-    "brand": "Jaunty",
-    "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=amnesia-haze-510-cdt",
-    "price": "$45.00"
-  },
-  {
-    "name": "Flower | Dank | Pineapple Purple Skunk",
-    "img": "https://images.dutchie.com/4ce6512d4ecc98bfe1c1ec5b333199e0?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
-    "brand": "Dank By Definition.",
-    "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=flower-dank-pineapple-purple-skunk",
-    "price": "$44.00"
+    "name": "Pre-Rolls | Nanticoke | Blue Dream - 5pk",
+    "img": "https://images.dutchie.com/1b56eac2d40bda3ba82f9f175404076e?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
+    "brand": "Nanticoke",
+    "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=pre-rolls-nanticoke-blue-dream-5pk-45697",
+    "price": "$34.00"
   },
   {
     "name": "Flower | Dolla Treez | Lemon Meringue",
@@ -56,6 +21,20 @@
     "price": "$25.00"
   },
   {
+    "name": "Flower | Matter | Grape Gas",
+    "img": "https://images.dutchie.com/54b6357bfe15efe93156fe7ffed84efd?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
+    "brand": "matter.",
+    "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=flower-matter-grape-gas",
+    "price": "$130.00"
+  },
+  {
+    "name": "Flower | Dank | Pineapple Purple Skunk",
+    "img": "https://images.dutchie.com/4ce6512d4ecc98bfe1c1ec5b333199e0?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
+    "brand": "Dank By Definition.",
+    "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=flower-dank-pineapple-purple-skunk",
+    "price": "$44.00"
+  },
+  {
     "name": "Vape AIO | Eureka | Amnesia Haze",
     "img": "https://images.dutchie.com/230a686206f730955eec7a83f1d20c27?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
     "brand": "Eureka",
@@ -63,25 +42,18 @@
     "price": "$85.00"
   },
   {
+    "name": "Pre-Rolls | Platinum Reserve | Jack Herer - 5pk",
+    "img": "https://images.dutchie.com/5f065e720abb7f5f1b82cf1209ed1bb1?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
+    "brand": "Platinum Reserve",
+    "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=pre-rolls-platinum-reserve-jack-herer-5pk",
+    "price": "$40.00"
+  },
+  {
     "name": "Flower | Gypsy Weed | RS-11",
     "img": "https://images.dutchie.com/flower-stock-1-v1.jpg?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
     "brand": "Gypsy Weed",
     "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=flower-gypsy-weed-rs-11",
     "price": "$160.00"
-  },
-  {
-    "name": "Flower | Gypsy Weed | Jet Fuel Gelato",
-    "img": "https://images.dutchie.com/flower-stock-4-v1.jpg?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
-    "brand": "Gypsy Weed",
-    "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=flower-gypsy-weed-jet-fuel-gelato",
-    "price": "$160.00"
-  },
-  {
-    "name": "Flower | Rythm | Sour Diesel",
-    "img": "https://images.dutchie.com/652bec74891a15d56ebac50425da9065?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
-    "brand": "Rythm",
-    "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=flower-rythm-sour-diesel-10129",
-    "price": "$80.00"
   },
   {
     "name": "Infused Flower | Her Highness | Doggy Bag",
@@ -98,11 +70,32 @@
     "price": "$70.00"
   },
   {
-    "name": "Pre-Rolls | Nanticoke | Blue Dream - 5pk",
-    "img": "https://images.dutchie.com/1b56eac2d40bda3ba82f9f175404076e?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
-    "brand": "Nanticoke",
-    "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=pre-rolls-nanticoke-blue-dream-5pk-45697",
-    "price": "$34.00"
+    "name": "Amnesia Haze | 510 | CDT",
+    "img": "https://images.dutchie.com/a13eac57b372109f127719ed7edb5f2e?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
+    "brand": "Jaunty",
+    "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=amnesia-haze-510-cdt",
+    "price": "$45.00"
+  },
+  {
+    "name": "Blueberry Kush | 510 | CDT",
+    "img": "https://images.dutchie.com/2eec52c43811e46d9ddba3148bb2fdc1?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
+    "brand": "Jaunty",
+    "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=blueberry-kush-510-cdt-25599",
+    "price": "$45.00"
+  },
+  {
+    "name": "Flower | Electraleaf | Jet Fuel Gelato",
+    "img": "https://images.dutchie.com/aa45e8f24a1183baf6948b715a46ff31?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
+    "brand": "ElectraLeaf",
+    "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=flower-electraleaf-jet-fuel-gelato",
+    "price": "$44.00"
+  },
+  {
+    "name": "Flower | Find. | Indica  Princess",
+    "img": "https://images.dutchie.com/1af37845ba2791b9d144040b3e36cf19?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
+    "brand": "Find.",
+    "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=flower-find-indica-princess",
+    "price": "$65.00"
   },
   {
     "name": "Cyber Beast - Live Resin Vape AIO - Hybrid",
@@ -133,6 +126,13 @@
     "price": "$125.00"
   },
   {
+    "name": "Flower | Dolla Treez | Mimosa",
+    "img": "https://images.dutchie.com/3392e05558427ce11c0369793a8187df?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
+    "brand": "Dolla Treez",
+    "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=flower-dolla-treez-mimosa",
+    "price": "$25.00"
+  },
+  {
     "name": "Infused Flower | Grassroots | Green Caffeine",
     "img": "https://images.dutchie.com/f64f8698258154e6f9c62b8e826f60e0?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
     "brand": "Grassroots",
@@ -161,17 +161,17 @@
     "price": "$120.00"
   },
   {
-    "name": "Flower | Dealer | Kiwi Kush x Lemon Cherry Gelato",
-    "img": "https://images.dutchie.com/0f52c5fdb1aed684e3c94d54cb7d6c37?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
-    "brand": "Dealer",
-    "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=flower-dealer-kiwi-kush-x-lemon-cherry-gelato",
-    "price": "$30.00"
+    "name": "Pre Roll | Dogwalkers | Cereal Milk 12pk | 4.2g",
+    "img": "https://images.dutchie.com/3ad444ed593c5f715226af9f40890f88?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
+    "brand": "Dogwalkers",
+    "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=pre-roll-dogwalkers-cereal-milk-12pk-4-2g",
+    "price": "$60.00"
   },
   {
-    "name": "Maui Waui - Infused Ice Packs (Rosin, Hash, and Diamonds) 5x 0.5g",
-    "img": "https://dutchie-images.s3.us-west-2.amazonaws.com/6c33c5f75ec1a1d27eacd0ae8d2dd984?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
-    "brand": "Rove",
-    "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=maui-waui-infused-ice-packs-rosin-hash-and-diamonds-5x-0-5g-4367",
-    "price": "$35.00"
+    "name": "Concentrate | Mind Melter | Live Rosin - Green Crack",
+    "img": "https://images.dutchie.com/concentrates-stock-rosin-v1.jpg?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
+    "brand": "Mind Melter",
+    "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=concentrate-mind-melter-live-rosin-green-crack",
+    "price": "$60.00"
   }
 ]
