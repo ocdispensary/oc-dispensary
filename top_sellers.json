@@ -1,12 +1,5 @@
 [
   {
-    "name": "Flower | 1937 | Fruity Pebbles OG",
-    "img": "https://images.dutchie.com/flower-stock-6-v1.jpg?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
-    "brand": "1937",
-    "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=flower-1937-fruity-pebbles-og",
-    "price": "$45.00"
-  },
-  {
     "name": "Pre Roll | Dank | Animal Cookies - 14pk",
     "img": "https://images.dutchie.com/0340f81a35684d29c7697dc5c526acf9?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
     "brand": "Dank By Definition.",
@@ -19,6 +12,13 @@
     "brand": "Dank By Definition.",
     "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=pre-roll-dank-alaskan-thunderfuck-14pk",
     "price": "$125.00"
+  },
+  {
+    "name": "Flower | 1937 | Fruity Pebbles OG",
+    "img": "https://images.dutchie.com/flower-stock-6-v1.jpg?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
+    "brand": "1937",
+    "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=flower-1937-fruity-pebbles-og",
+    "price": "$45.00"
   },
   {
     "name": "Flower | Zizzle | Silver Haze",
@@ -91,6 +91,13 @@
     "price": "$150.00"
   },
   {
+    "name": "Flower | FlowerHouse | Sunset Punch",
+    "img": "https://images.dutchie.com/d33b0ee58de23595cfab9d2b93e092eb?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
+    "brand": "FlowerHouse",
+    "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=flower-flowerhouse-sunset-punch",
+    "price": "$49.00"
+  },
+  {
     "name": "Concentrate | MFNY | Grape Guava Live Resin Badder",
     "img": "https://images.dutchie.com/99ff592896b4888a187b1b5e0344798a?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
     "brand": "MFNY",
@@ -105,25 +112,32 @@
     "price": "$125.00"
   },
   {
-    "name": "Flower | Dolla Treez | Mimosa",
-    "img": "https://images.dutchie.com/3392e05558427ce11c0369793a8187df?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
-    "brand": "Dolla Treez",
-    "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=flower-dolla-treez-mimosa",
-    "price": "$25.00"
-  },
-  {
-    "name": "Vape AIO | Jaunty | Blue Dream",
-    "img": "https://images.dutchie.com/5dbfe950e70f4c74bea2b18b4989d6eb?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
+    "name": "Blue Dream | AIO Palm | 1.5g",
+    "img": "https://images.dutchie.com/11a49f35e20d3ee6ba176423b055fae7?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
     "brand": "Jaunty",
-    "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=vape-aio-jaunty-blue-dream",
+    "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=blue-dream-aio-palm-1-5g-81003",
     "price": "$60.00"
   },
   {
-    "name": "Vape AIO | Jaunty | Rainbow Sherbert",
-    "img": "https://images.dutchie.com/97756c1e56820fd3ebb291607684e2b0?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
-    "brand": "Jaunty",
-    "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=vape-aio-jaunty-rainbow-sherbert",
-    "price": "$60.00"
+    "name": "Flower | Aeterna | Apple Fritter",
+    "img": "https://images.dutchie.com/45422f8647870f1a3ccf435862c67998?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
+    "brand": "Aeterna Cannabis",
+    "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=flower-aeterna-apple-fritter",
+    "price": "$40.00"
+  },
+  {
+    "name": "Flower | Aeterna | Jelly Rancher",
+    "img": "https://images.dutchie.com/0b10c1a7f2a1499c4f3f64b90779b7b3?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
+    "brand": "Aeterna Cannabis",
+    "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=flower-aeterna-jelly-rancher",
+    "price": "$40.00"
+  },
+  {
+    "name": "Flower | Royal Key | SourGen OG",
+    "img": "https://images.dutchie.com/835a887738648770160566e572f25b4b?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
+    "brand": "Royal Keys",
+    "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=flower-royal-key-sourgen-og",
+    "price": "$55.00"
   },
   {
     "name": "ALASKAN THUNDERFUCK",
@@ -147,11 +161,11 @@
     "price": "$50.00"
   },
   {
-    "name": "Infused Pre Roll | Rythm | Strawberry Sour Diesel- 5pk",
-    "img": "https://images.dutchie.com/5d22994158267b6e57211e7cc3667a98?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
-    "brand": "Rythm",
-    "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=infused-pre-roll-rythm-strawberry-sour-diesel-5pk",
-    "price": "$50.00"
+    "name": "Flower | Dolla Treez | Mimosa",
+    "img": "https://images.dutchie.com/3392e05558427ce11c0369793a8187df?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
+    "brand": "Dolla Treez",
+    "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=flower-dolla-treez-mimosa",
+    "price": "$25.00"
   },
   {
     "name": "Vape AIO | Ghost | Guava",
@@ -159,19 +173,5 @@
     "brand": "ghost.",
     "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=vape-aio-ghost-guava",
     "price": "$100.00"
-  },
-  {
-    "name": "Flower | FlowerHouse | Sunset Punch",
-    "img": "https://images.dutchie.com/d33b0ee58de23595cfab9d2b93e092eb?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
-    "brand": "FlowerHouse",
-    "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=flower-flowerhouse-sunset-punch",
-    "price": "$49.00"
-  },
-  {
-    "name": "Flower | Find | Garlic Patties",
-    "img": "https://images.dutchie.com/1af37845ba2791b9d144040b3e36cf19?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
-    "brand": "Find.",
-    "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=flower-find-garlic-patties",
-    "price": "$33.26"
   }
 ]
