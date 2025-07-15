@@ -7,6 +7,13 @@
     "price": "$45.00"
   },
   {
+    "name": "Pre Roll | Dank | Alaskan Thunderfuck - 14pk",
+    "img": "https://images.dutchie.com/db1dc62ce4a5150bde81e370f0b672b2?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
+    "brand": "Dank By Definition.",
+    "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=pre-roll-dank-alaskan-thunderfuck-14pk",
+    "price": "$125.00"
+  },
+  {
     "name": "VAPE AIO | Ghost | Strawberry Shortcake",
     "img": "https://images.dutchie.com/762ec7c757d41e57d34a2b3991fad1f3?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
     "brand": "ghost.",
@@ -14,11 +21,11 @@
     "price": "$100.00"
   },
   {
-    "name": "Blueberry Kush | 510 | CDT",
-    "img": "https://images.dutchie.com/2eec52c43811e46d9ddba3148bb2fdc1?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
-    "brand": "Jaunty",
-    "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=blueberry-kush-510-cdt-25599",
-    "price": "$45.00"
+    "name": "Flower | The Plug Pack | Cherry Pie",
+    "img": "https://images.dutchie.com/396e565b65128775c02942466517a4a0?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
+    "brand": "The Plug Pack",
+    "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=flower-the-plug-pack-cherry-pie-5417",
+    "price": "$75.00"
   },
   {
     "name": "Flower | Gypsy Weed | Jet Fuel Gelato",
@@ -26,20 +33,6 @@
     "brand": "Gypsy Weed",
     "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=flower-gypsy-weed-jet-fuel-gelato",
     "price": "$160.00"
-  },
-  {
-    "name": "Flower | Gypsy Weed | Gelato Cake",
-    "img": "https://images.dutchie.com/flower-stock-7-v1.jpg?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
-    "brand": "Gypsy Weed",
-    "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=flower-gypsy-weed-gelato-cake",
-    "price": "$160.00"
-  },
-  {
-    "name": "Flower | Canna Cruz | El Chivo- Ground",
-    "img": "https://images.dutchie.com/flower-stock-10-v1.jpg?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
-    "brand": "Canna Cruz",
-    "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=flower-canna-cruz-el-chivo-ground",
-    "price": "$80.00"
   },
   {
     "name": "Flower | Canna Cruz | Carbon Fiber-Ground",
@@ -56,11 +49,11 @@
     "price": "$49.00"
   },
   {
-    "name": "Flower | Wavy | Tropicana Cherry",
-    "img": "https://images.dutchie.com/3fbe0864dc0710acd46539c1019ffed2?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
-    "brand": "Wavy",
-    "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=flower-wavy-tropicana-cherry",
-    "price": "$25.00"
+    "name": "Blueberry Kush | 510 | CDT",
+    "img": "https://images.dutchie.com/2eec52c43811e46d9ddba3148bb2fdc1?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
+    "brand": "Jaunty",
+    "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=blueberry-kush-510-cdt-25599",
+    "price": "$45.00"
   },
   {
     "name": "Pre Roll | Dank | Animal Cookies - 14pk",
@@ -68,20 +61,6 @@
     "brand": "Dank By Definition.",
     "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=pre-roll-dank-animal-cookies-14pk",
     "price": "$125.00"
-  },
-  {
-    "name": "Pre Roll | Dank | Alaskan Thunderfuck - 14pk",
-    "img": "https://images.dutchie.com/db1dc62ce4a5150bde81e370f0b672b2?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
-    "brand": "Dank By Definition.",
-    "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=pre-roll-dank-alaskan-thunderfuck-14pk",
-    "price": "$125.00"
-  },
-  {
-    "name": "Flower | Dolla Treez | Lemon Meringue",
-    "img": "https://images.dutchie.com/deeedea24466577022fc22fe24aaf309?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
-    "brand": "Dolla Treez",
-    "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=flower-dolla-treez-lemon-meringue",
-    "price": "$25.00"
   },
   {
     "name": "Pre-Rolls | Dank | Funkfetti",
@@ -98,11 +77,18 @@
     "price": "$60.00"
   },
   {
-    "name": "Flower | Revert | Strawberry Amnesia",
-    "img": "https://images.dutchie.com/3e968eed2f0ef75abc6411c70047596d?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
-    "brand": "Revert",
-    "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=flower-revert-strawberry-amnesia",
-    "price": "$30.00"
+    "name": "Infused Flower | Grassroots | Jordanz",
+    "img": "https://images.dutchie.com/a9391576ab2a3e80c4eeb77b72add77b?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
+    "brand": "Grassroots",
+    "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=infused-flower-grassroots-jordanz",
+    "price": "$60.00"
+  },
+  {
+    "name": "Infused Pre Roll | Florist Farms  | Candy Jack- 5pk",
+    "img": "https://images.dutchie.com/a09a2c4f544a5d762d84b0a9e9f3a4c2?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
+    "brand": "Florist Farms",
+    "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=infused-pre-roll-florist-farms-candy-jack-5pk",
+    "price": "$40.00"
   },
   {
     "name": "Flower | Aeterna | Apple Fritter",
@@ -168,10 +154,24 @@
     "price": "$100.00"
   },
   {
-    "name": "Vape Cart | Fernway | Stonefruit",
-    "img": "https://images.dutchie.com/aa672e1261c0312363be9df9362d04ee?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
-    "brand": "Fernway",
-    "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=vape-cart-fernway-stonefruit",
+    "name": "Vape AIO | Nanticoke | Banana Daddy",
+    "img": "https://images.dutchie.com/vaporizer-stock-1-v1.jpg?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
+    "brand": "Nanticoke",
+    "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=vape-aio-nanticoke-banana-daddy",
     "price": "$50.00"
+  },
+  {
+    "name": "Pre Rolls | Florette | Blue Zushi 5pk",
+    "img": "https://images.dutchie.com/e3509e1fa6d6da46652f886383eb4ec4?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
+    "brand": "Florette",
+    "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=pre-rolls-florette-blue-zushi-5pk",
+    "price": "$33.00"
+  },
+  {
+    "name": "Flower | Cookies | Blue Razz",
+    "img": "https://images.dutchie.com/620b96a0c74eaaa7c0232310e66eabec?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
+    "brand": "Cookies",
+    "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=flower-cookies-blue-razz",
+    "price": "$45.00"
   }
 ]
