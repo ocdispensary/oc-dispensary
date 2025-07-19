@@ -1,5 +1,12 @@
 [
   {
+    "name": "Flower | 1937 | Fruity Pebbles OG",
+    "img": "https://images.dutchie.com/flower-stock-6-v1.jpg?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
+    "brand": "1937",
+    "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=flower-1937-fruity-pebbles-og",
+    "price": "$45.00"
+  },
+  {
     "name": "Flower | Find | Chocolate Blackberry Kush",
     "img": "https://images.dutchie.com/ad8a9c37127cbb8d41a0dbf27295124b?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
     "brand": "Find.",
@@ -14,25 +21,18 @@
     "price": "$100.00"
   },
   {
-    "name": "Flower | 1937 | Fruity Pebbles OG",
-    "img": "https://images.dutchie.com/flower-stock-6-v1.jpg?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
-    "brand": "1937",
-    "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=flower-1937-fruity-pebbles-og",
-    "price": "$45.00"
-  },
-  {
-    "name": "Flower | Rythm | Sour Diesel",
-    "img": "https://images.dutchie.com/652bec74891a15d56ebac50425da9065?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
-    "brand": "Rythm",
-    "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=flower-rythm-sour-diesel-10129",
-    "price": "$80.00"
-  },
-  {
     "name": "Cherry Gelato | Melted Diamond Live Resin Vaporizer | 1.0g (Reload)",
     "img": "https://dutchie-images.s3.us-west-2.amazonaws.com/a350f6b8c34c276dfedd6c2471d939c5?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
     "brand": "Rove",
     "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=cherry-gelato-melted-diamond-live-resin-vaporizer-1-0g-reload",
     "price": "$76.00"
+  },
+  {
+    "name": "Pre-Roll | Nanticoke | Jack Herer - 5pk",
+    "img": "https://images.dutchie.com/dc6db42a83349009b2c995187cd6b417?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
+    "brand": "Nanticoke",
+    "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=pre-roll-nanticoke-jack-herer-5pk",
+    "price": "$34.00"
   },
   {
     "name": "Pre Roll | Dank | Alaskan Thunderfuck - 14pk",
@@ -49,13 +49,6 @@
     "price": "$125.00"
   },
   {
-    "name": "Flower | Nanticoke | Ready 2 Roll Pre-Ground Flower - Hybrid",
-    "img": "https://images.dutchie.com/0d27e5bc29931a27c347691f9b4d8a1f?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
-    "brand": "Ready 2 Roll",
-    "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=flower-nanticoke-ready-2-roll-pre-ground-flower-hybrid",
-    "price": "$40.00"
-  },
-  {
     "name": "Infused Flower | Grassroots | Jordanz",
     "img": "https://images.dutchie.com/a9391576ab2a3e80c4eeb77b72add77b?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
     "brand": "Grassroots",
@@ -70,6 +63,13 @@
     "price": "$60.00"
   },
   {
+    "name": "Pre-Rolls | Dank | Cinderella 99 - 7pk",
+    "img": "https://images.dutchie.com/preroll-stock-1-v1.jpg?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
+    "brand": "Dank By Definition.",
+    "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=pre-rolls-dank-cinderella-99-7pk",
+    "price": "$40.00"
+  },
+  {
     "name": "Infused Pre Roll | Ruby Farms | Pink Champagne- 10pk",
     "img": "https://images.dutchie.com/7ed865067a46db8672ad8d4e20cb9ec3?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
     "brand": "Ruby Farms",
@@ -77,11 +77,18 @@
     "price": "$58.00"
   },
   {
-    "name": "Pre-Roll | Nanticoke | Jack Herer - 5pk",
-    "img": "https://images.dutchie.com/dc6db42a83349009b2c995187cd6b417?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
-    "brand": "Nanticoke",
-    "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=pre-roll-nanticoke-jack-herer-5pk",
-    "price": "$34.00"
+    "name": "Vape AIO | Ayrloom | Pink Rozay",
+    "img": "https://images.dutchie.com/cf417c866d65002d97e9d9caf312b58c?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
+    "brand": "ayrloom",
+    "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=vape-aio-ayrloom-pink-rozay",
+    "price": "$30.00"
+  },
+  {
+    "name": "CLOCK WORK ORANGE",
+    "img": "https://images.dutchie.com/5f12c84899d6335a5f3767f938cf2526?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
+    "brand": "Dank By Definition.",
+    "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=clock-work-orange-70614",
+    "price": "$53.00"
   },
   {
     "name": "VAPE AIO | Ghost | Ghost Train Haze",
@@ -102,20 +109,6 @@
     "img": "https://images.dutchie.com/9c298e473b6d1e454df94d015f187dd8?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
     "brand": "Dank By Definition.",
     "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=dank-mimosa-5pk-2-75g",
-    "price": "$50.00"
-  },
-  {
-    "name": "Vape AIO | Ghost | White Fire OG",
-    "img": "https://images.dutchie.com/e0a881ac1b6ba23bedac5cc76a97ab9b?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
-    "brand": "ghost.",
-    "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=vape-aio-ghost-white-fire-og",
-    "price": "$100.00"
-  },
-  {
-    "name": "Vape AIO | Nanticoke | Apple Fritter",
-    "img": "https://images.dutchie.com/vaporizer-stock-1-v1.jpg?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
-    "brand": "Nanticoke",
-    "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=vape-aio-nanticoke-apple-fritter",
     "price": "$50.00"
   },
   {
@@ -147,13 +140,6 @@
     "price": "$45.00"
   },
   {
-    "name": "Flower | Preferred Gardens | Frosted Grapes",
-    "img": "https://images.dutchie.com/d6884f4939e64425df98a6658ca51a4a?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
-    "brand": "Preferred Gardens",
-    "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=flower-preferred-gardens-frosted-grapes",
-    "price": "$45.00"
-  },
-  {
     "name": "Amnesia Haze | 510 | CDT",
     "img": "https://images.dutchie.com/a13eac57b372109f127719ed7edb5f2e?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
     "brand": "Jaunty",
@@ -168,10 +154,24 @@
     "price": "$45.00"
   },
   {
-    "name": "Flower | Revert | Pineapple Haze",
-    "img": "https://images.dutchie.com/a52d59f1611564ef6b084aa890f86ccb?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
+    "name": "Flower | Revert | Strawberry Amnesia",
+    "img": "https://images.dutchie.com/3e968eed2f0ef75abc6411c70047596d?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
     "brand": "Revert",
-    "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=flower-revert-pineapple-haze",
+    "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=flower-revert-strawberry-amnesia",
     "price": "$30.00"
+  },
+  {
+    "name": "Vape Cart | MFNY | Honey Banana Live Resin 510",
+    "img": "https://images.dutchie.com/99ff592896b4888a187b1b5e0344798a?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
+    "brand": "MFNY",
+    "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=vape-cart-mfny-honey-banana-live-resin-510",
+    "price": "$45.00"
+  },
+  {
+    "name": "1g King Kong Cart",
+    "img": "https://dutchie-images.s3.us-west-2.amazonaws.com/d7087acc1eb4c7b03fa2d13441f92692?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
+    "brand": "Hudson Cannabis",
+    "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=1g-king-kong-cart-67458",
+    "price": "$44.00"
   }
 ]
