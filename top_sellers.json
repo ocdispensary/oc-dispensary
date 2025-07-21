@@ -14,34 +14,6 @@
     "price": "$108.26"
   },
   {
-    "name": "Flower | Rythm | Sour Diesel",
-    "img": "https://images.dutchie.com/652bec74891a15d56ebac50425da9065?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
-    "brand": "RYTHM",
-    "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=flower-rythm-sour-diesel-10129",
-    "price": "$80.00"
-  },
-  {
-    "name": "Cherry Gelato | Melted Diamond Live Resin Vaporizer | 1.0g (Reload)",
-    "img": "https://dutchie-images.s3.us-west-2.amazonaws.com/a350f6b8c34c276dfedd6c2471d939c5?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
-    "brand": "Rove",
-    "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=cherry-gelato-melted-diamond-live-resin-vaporizer-1-0g-reload",
-    "price": "$76.00"
-  },
-  {
-    "name": "DANK MIMOSA 5PK 2.75G",
-    "img": "https://images.dutchie.com/9c298e473b6d1e454df94d015f187dd8?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
-    "brand": "Dank By Definition.",
-    "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=dank-mimosa-5pk-2-75g",
-    "price": "$50.00"
-  },
-  {
-    "name": "Pre-Roll | Nanticoke | Jack Herer - 5pk",
-    "img": "https://images.dutchie.com/dc6db42a83349009b2c995187cd6b417?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
-    "brand": "Nanticoke",
-    "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=pre-roll-nanticoke-jack-herer-5pk",
-    "price": "$34.00"
-  },
-  {
     "name": "Flower | Dank | Blueberry Diesel",
     "img": "https://images.dutchie.com/flower-stock-3-v1.jpg?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
     "brand": "Dank By Definition.",
@@ -49,17 +21,24 @@
     "price": "$44.00"
   },
   {
+    "name": "Flower | Rythm | Sour Diesel",
+    "img": "https://images.dutchie.com/652bec74891a15d56ebac50425da9065?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
+    "brand": "RYTHM",
+    "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=flower-rythm-sour-diesel-10129",
+    "price": "$80.00"
+  },
+  {
+    "name": "Flower | Aeterna | RS-11",
+    "img": "https://images.dutchie.com/227bd77ec096b54b83ddc4a9c35030a1?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
+    "brand": "Aeterna Cannabis",
+    "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=flower-aeterna-rs-11",
+    "price": "$40.00"
+  },
+  {
     "name": "Pre Roll | Dank | Alaskan Thunderfuck - 14pk",
     "img": "https://images.dutchie.com/db1dc62ce4a5150bde81e370f0b672b2?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
     "brand": "Dank By Definition.",
     "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=pre-roll-dank-alaskan-thunderfuck-14pk",
-    "price": "$125.00"
-  },
-  {
-    "name": "Pre-Rolls | Dank | Funkfetti",
-    "img": "https://images.dutchie.com/preroll-stock-1-v1.jpg?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
-    "brand": "Dank By Definition.",
-    "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=pre-rolls-dank-funkfetti",
     "price": "$125.00"
   },
   {
@@ -105,18 +84,18 @@
     "price": "$53.00"
   },
   {
-    "name": "VAPE AIO | Ghost | Ghost Train Haze",
-    "img": "https://images.dutchie.com/d2fec620ac2863b9fcc159108b81625f?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
-    "brand": "ghost.",
-    "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=vape-aio-ghost-ghost-train-haze",
-    "price": "$100.00"
+    "name": "Pre-Roll | Nanticoke | Jack Herer - 5pk",
+    "img": "https://images.dutchie.com/dc6db42a83349009b2c995187cd6b417?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
+    "brand": "Nanticoke",
+    "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=pre-roll-nanticoke-jack-herer-5pk",
+    "price": "$34.00"
   },
   {
-    "name": "VAPE AIO | Ghost | Apple Jacks",
-    "img": "https://images.dutchie.com/f1b76babf232339970bbadffae4111b2?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
-    "brand": "ghost.",
-    "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=vape-aio-ghost-apple-jacks",
-    "price": "$100.00"
+    "name": "DANK MIMOSA 5PK 2.75G",
+    "img": "https://images.dutchie.com/9c298e473b6d1e454df94d015f187dd8?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
+    "brand": "Dank By Definition.",
+    "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=dank-mimosa-5pk-2-75g",
+    "price": "$50.00"
   },
   {
     "name": "Ayrloom | Watermelon \"Juicy Secret\" | 2:1 | 10MG THC : 5MG THCV 10 Pack",
@@ -133,18 +112,18 @@
     "price": "$100.00"
   },
   {
-    "name": "Vape AIO | Nanticoke | Banana Daddy",
-    "img": "https://images.dutchie.com/vaporizer-stock-1-v1.jpg?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
-    "brand": "Nanticoke",
-    "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=vape-aio-nanticoke-banana-daddy",
-    "price": "$50.00"
+    "name": "Infused Flower | Alchemy Pure | OG Kush - Pre-ground",
+    "img": "https://images.dutchie.com/flower-stock-7-v1.jpg?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
+    "brand": "Alchemy Pure",
+    "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=infused-flower-alchemy-pure-og-kush-pre-ground",
+    "price": "$100.00"
   },
   {
-    "name": "Infused Pre-Rolls | Good Times | Pineapple Upside-Down Cake - 5pk",
-    "img": "https://images.dutchie.com/preroll-stock-1-v1.jpg?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
-    "brand": "GOOD TIMES",
-    "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=infused-pre-rolls-good-times-pineapple-upside-down-cake-5pk",
-    "price": "$50.00"
+    "name": "Pre Roll | Florette | Albany Sour Diesel- 5pk",
+    "img": "https://images.dutchie.com/27b11eece21e8eb6b151b991f9d92df5?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
+    "brand": "Florette",
+    "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=pre-roll-florette-albany-sour-diesel-5pk",
+    "price": "$33.00"
   },
   {
     "name": "Tincture | MFNY | Turbo Blueberry",
@@ -161,10 +140,17 @@
     "price": "$48.00"
   },
   {
-    "name": "LSD | 510 | CDT",
-    "img": "https://images.dutchie.com/36a528f0508a53ae0a42a881262d4319?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
+    "name": "Flower | Preferred Gardens | Frosted Grapes",
+    "img": "https://images.dutchie.com/d6884f4939e64425df98a6658ca51a4a?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
+    "brand": "Preferred Gardens",
+    "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=flower-preferred-gardens-frosted-grapes",
+    "price": "$45.00"
+  },
+  {
+    "name": "Sour Diesel | 510 | CDT",
+    "img": "https://images.dutchie.com/e0bfe191058f7da18500b516be485916?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
     "brand": "Jaunty",
-    "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=lsd-510-cdt-68019",
+    "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=sour-diesel-510-cdt-58238",
     "price": "$45.00"
   },
   {
@@ -173,5 +159,19 @@
     "brand": "Revert",
     "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=flower-revert-strawberry-amnesia",
     "price": "$30.00"
+  },
+  {
+    "name": "Vape AIO | Select | Cheesecake Briq",
+    "img": "https://images.dutchie.com/399b41842f8c791ebe3c78701c4620e4?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
+    "brand": "Select",
+    "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=vape-aio-select-cheesecake-briq",
+    "price": "$90.00"
+  },
+  {
+    "name": "Vape AIO | Select | Gorilla Glue Briq",
+    "img": "https://images.dutchie.com/399b41842f8c791ebe3c78701c4620e4?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
+    "brand": "Select",
+    "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=vape-aio-select-gorilla-glue-briq",
+    "price": "$90.00"
   }
 ]
