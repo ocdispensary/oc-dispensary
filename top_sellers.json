@@ -14,18 +14,18 @@
     "price": "$80.00"
   },
   {
+    "name": "Infused Flower | Stone Road | Watermelon Breeze",
+    "img": "https://images.dutchie.com/4564961428e221bf1553dab21f1f108f?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
+    "brand": "Stone Road",
+    "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=infused-flower-stone-road-watermelon-breeze",
+    "price": "$120.00"
+  },
+  {
     "name": "VAPE AIO | Ghost | Strawberry Shortcake",
     "img": "https://images.dutchie.com/762ec7c757d41e57d34a2b3991fad1f3?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
     "brand": "ghost.",
     "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=vape-aio-ghost-strawberry-shortcake",
     "price": "$100.00"
-  },
-  {
-    "name": "Flower | Aeterna | RS-11",
-    "img": "https://images.dutchie.com/227bd77ec096b54b83ddc4a9c35030a1?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
-    "brand": "Aeterna Cannabis",
-    "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=flower-aeterna-rs-11",
-    "price": "$40.00"
   },
   {
     "name": "Infused Pre Rolls | Ayrloom | Lychee Dream- 5pk",
@@ -35,17 +35,17 @@
     "price": "$40.00"
   },
   {
+    "name": "Flower | Platinum Reserve | Wedding Cake",
+    "img": "https://images.dutchie.com/e67b46cf51a5289004610a13b635f8d0?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
+    "brand": "Platinum Reserve",
+    "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=flower-platinum-reserve-wedding-cake",
+    "price": "$80.00"
+  },
+  {
     "name": "Pre-Rolls | Ruby Farms | Blue Dream - 7pk",
     "img": "https://images.dutchie.com/3fb78be2382b8c3d5788ce5499145758?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
     "brand": "Ruby Farms",
     "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=pre-rolls-ruby-farms-blue-dream-7pk",
     "price": "$38.00"
-  },
-  {
-    "name": "Flower | Canna Cruz | Carbon Fiber-Ground",
-    "img": "https://images.dutchie.com/flower-stock-11-v1.jpg?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
-    "brand": "Canna Cruz",
-    "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=flower-canna-cruz-carbon-fiber-ground-17305",
-    "price": "$150.00"
   }
 ]
