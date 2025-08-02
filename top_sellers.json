@@ -1,17 +1,10 @@
 [
   {
-    "name": "Flower | Rythm | Sour Diesel",
-    "img": "https://images.dutchie.com/652bec74891a15d56ebac50425da9065?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
+    "name": "Sour Diesel | Premium Flower | Sativa | 7g",
+    "img": "https://dutchie-images.s3.us-west-2.amazonaws.com/b7bb2602d48a55b3d775c3682f38f00e?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
     "brand": "RYTHM",
-    "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=flower-rythm-sour-diesel-10129",
+    "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=sour-diesel-premium-flower-sativa-7g-48178",
     "price": "$80.00"
-  },
-  {
-    "name": "Pre Roll | Dank | Animal Cookies - 14pk",
-    "img": "https://images.dutchie.com/0340f81a35684d29c7697dc5c526acf9?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
-    "brand": "Dank By Definition.",
-    "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=pre-roll-dank-animal-cookies-14pk",
-    "price": "$125.00"
   },
   {
     "name": "Vape Cart | Jaunty | Wedding Cake",
@@ -21,9 +14,16 @@
     "price": "$45.00"
   },
   {
+    "name": "DANK MIMOSA 5PK 2.75G",
+    "img": "https://images.dutchie.com/9c298e473b6d1e454df94d015f187dd8?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
+    "brand": "Dank By Definition.",
+    "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=dank-mimosa-5pk-2-75g",
+    "price": "$50.00"
+  },
+  {
     "name": "Flower | Packs | Blue Dream",
     "img": "https://images.dutchie.com/60159c5b889d6dc6e8e57c75a9d1e417?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
-    "brand": "PACKS LA",
+    "brand": "PACKS",
     "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=flower-packs-blue-dream",
     "price": "$50.00"
   },
@@ -42,10 +42,10 @@
     "price": "$60.00"
   },
   {
-    "name": "Flower | Dank | Blood Orange",
-    "img": "https://images.dutchie.com/1805b3148dad88f90eb5ab0c12a7247a?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
-    "brand": "Dank By Definition.",
-    "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=flower-dank-blood-orange",
+    "name": "1g Cherry Kush Cart",
+    "img": "https://images.dutchie.com/1f4de0504b1d32b34a6aefb8a990c86b?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
+    "brand": "Hudson Cannabis",
+    "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=1g-cherry-kush-cart-69352",
     "price": "$44.00"
   }
 ]
