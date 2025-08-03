@@ -1,5 +1,26 @@
 [
   {
+    "name": "Pre Roll | Dank | Animal Cookies - 14pk",
+    "img": "https://images.dutchie.com/0340f81a35684d29c7697dc5c526acf9?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
+    "brand": "Dank By Definition.",
+    "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=pre-roll-dank-animal-cookies-14pk",
+    "price": "$125.00"
+  },
+  {
+    "name": "Pre Roll | Dank | Alaskan Thunderfuck - 14pk",
+    "img": "https://images.dutchie.com/db1dc62ce4a5150bde81e370f0b672b2?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
+    "brand": "Dank By Definition.",
+    "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=pre-roll-dank-alaskan-thunderfuck-14pk",
+    "price": "$125.00"
+  },
+  {
+    "name": "Infused Pre Rolls | Ayrloom | Key Lime- 5pk",
+    "img": "https://images.dutchie.com/a1deea5e729f6d9bba2f473eb8a80959?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
+    "brand": "ayrloom",
+    "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=infused-pre-rolls-ayrloom-key-lime-5pk",
+    "price": "$40.00"
+  },
+  {
     "name": "Sour Diesel | Premium Flower | Sativa | 7g",
     "img": "https://dutchie-images.s3.us-west-2.amazonaws.com/b7bb2602d48a55b3d775c3682f38f00e?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
     "brand": "RYTHM",
@@ -7,11 +28,11 @@
     "price": "$80.00"
   },
   {
-    "name": "Vape Cart | Jaunty | Wedding Cake",
-    "img": "https://images.dutchie.com/e0d035db8ca2ce3e928530169e0e00c4?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
-    "brand": "Jaunty",
-    "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=vape-cart-jaunty-wedding-cake",
-    "price": "$45.00"
+    "name": "VAPE AIO | Ghost | Strawberry Shortcake",
+    "img": "https://images.dutchie.com/762ec7c757d41e57d34a2b3991fad1f3?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
+    "brand": "ghost.",
+    "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=vape-aio-ghost-strawberry-shortcake",
+    "price": "$100.00"
   },
   {
     "name": "DANK MIMOSA 5PK 2.75G",
@@ -26,26 +47,5 @@
     "brand": "PACKS",
     "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=flower-packs-blue-dream",
     "price": "$50.00"
-  },
-  {
-    "name": "Infused Pre Rolls | Ayrloom | Key Lime- 5pk",
-    "img": "https://images.dutchie.com/a1deea5e729f6d9bba2f473eb8a80959?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
-    "brand": "ayrloom",
-    "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=infused-pre-rolls-ayrloom-key-lime-5pk",
-    "price": "$40.00"
-  },
-  {
-    "name": "Strawnana | AIO Palm | 1.5g",
-    "img": "https://images.dutchie.com/af8773099707682c430891ef04b99ad4?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
-    "brand": "Jaunty",
-    "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=strawnana-aio-palm-1-5g",
-    "price": "$60.00"
-  },
-  {
-    "name": "1g Cherry Kush Cart",
-    "img": "https://images.dutchie.com/1f4de0504b1d32b34a6aefb8a990c86b?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
-    "brand": "Hudson Cannabis",
-    "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=1g-cherry-kush-cart-69352",
-    "price": "$44.00"
   }
 ]
