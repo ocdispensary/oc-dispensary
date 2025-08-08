@@ -28,11 +28,11 @@
     "price": "$125.00"
   },
   {
-    "name": "Infused Pre Rolls | Ayrloom | Key Lime- 5pk",
-    "img": "https://images.dutchie.com/a1deea5e729f6d9bba2f473eb8a80959?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
-    "brand": "ayrloom",
-    "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=infused-pre-rolls-ayrloom-key-lime-5pk",
-    "price": "$40.00"
+    "name": "Flower | Revert | Strawberry Amnesia",
+    "img": "https://images.dutchie.com/3e968eed2f0ef75abc6411c70047596d?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
+    "brand": "Revert",
+    "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=flower-revert-strawberry-amnesia",
+    "price": "$30.00"
   },
   {
     "name": "Flower | Florist Farms | Gelato",
@@ -40,12 +40,5 @@
     "brand": "Florist Farms",
     "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=flower-florist-farms-gelato",
     "price": "$70.00"
-  },
-  {
-    "name": "DANK MIMOSA 5PK 2.75G",
-    "img": "https://images.dutchie.com/9c298e473b6d1e454df94d015f187dd8?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
-    "brand": "Dank By Definition.",
-    "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=dank-mimosa-5pk-2-75g",
-    "price": "$50.00"
   }
 ]
