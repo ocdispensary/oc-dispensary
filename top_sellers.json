@@ -1,10 +1,17 @@
 [
   {
-    "name": "VAPE AIO | Ghost | Strawberry Shortcake",
-    "img": "https://images.dutchie.com/762ec7c757d41e57d34a2b3991fad1f3?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
-    "brand": "ghost.",
-    "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=vape-aio-ghost-strawberry-shortcake",
-    "price": "$100.00"
+    "name": "Infused Flower | Revert | Maui Wowie - Preground",
+    "img": "https://images.dutchie.com/flower-stock-7-v1.jpg?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
+    "brand": "Revert",
+    "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=infused-flower-revert-maui-wowie-preground",
+    "price": "$70.00"
+  },
+  {
+    "name": "Infused Pre Rolls | Ayrloom | Key Lime- 5pk",
+    "img": "https://images.dutchie.com/a1deea5e729f6d9bba2f473eb8a80959?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
+    "brand": "ayrloom",
+    "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=infused-pre-rolls-ayrloom-key-lime-5pk",
+    "price": "$40.00"
   },
   {
     "name": "Flower | Cheevo | Lemon Fresh",
@@ -14,20 +21,6 @@
     "price": "$70.00"
   },
   {
-    "name": "Pre Roll | Dank | Animal Cookies - 14pk",
-    "img": "https://images.dutchie.com/0340f81a35684d29c7697dc5c526acf9?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
-    "brand": "Dank By Definition.",
-    "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=pre-roll-dank-animal-cookies-14pk",
-    "price": "$125.00"
-  },
-  {
-    "name": "Pre Roll | Dank | Alaskan Thunderfuck - 14pk",
-    "img": "https://images.dutchie.com/db1dc62ce4a5150bde81e370f0b672b2?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
-    "brand": "Dank By Definition.",
-    "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=pre-roll-dank-alaskan-thunderfuck-14pk",
-    "price": "$125.00"
-  },
-  {
     "name": "Flower | Revert | Strawberry Amnesia",
     "img": "https://images.dutchie.com/3e968eed2f0ef75abc6411c70047596d?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
     "brand": "Revert",
@@ -35,10 +28,24 @@
     "price": "$30.00"
   },
   {
-    "name": "Flower | Florist Farms | Gelato",
-    "img": "https://images.dutchie.com/b57d8279b0ca016d642f655f0a414f7d?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
-    "brand": "Florist Farms",
-    "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=flower-florist-farms-gelato",
-    "price": "$70.00"
+    "name": "Vape AIO | Fernway | Alpine Strawberry",
+    "img": "https://images.dutchie.com/a5ea0ac6a6f3cffec8cdf7dbf45106c1?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
+    "brand": "Fernway",
+    "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=vape-aio-fernway-alpine-strawberry",
+    "price": "$90.00"
+  },
+  {
+    "name": "Flower | Grocery | G54 x Trop Cherry",
+    "img": "https://images.dutchie.com/flower-stock-13-v1.jpg?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
+    "brand": "Grocery",
+    "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=flower-grocery-g54-x-trop-cherry",
+    "price": "$160.00"
+  },
+  {
+    "name": "Flower | Grocery | RS11",
+    "img": "https://images.dutchie.com/flower-stock-13-v1.jpg?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
+    "brand": "Grocery",
+    "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=flower-grocery-rs11",
+    "price": "$160.00"
   }
 ]
