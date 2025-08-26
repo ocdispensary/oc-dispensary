@@ -1,1 +1,51 @@
-[]
+[
+  {
+    "name": "Flower | Smoke - Ounce Packs | Bubble Gum",
+    "img": "https://images.dutchie.com/flower-stock-2-v1.jpg?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
+    "brand": "Smoke",
+    "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=flower-smoke-ounce-packs-bubble-gum",
+    "price": "$250.00"
+  },
+  {
+    "name": "Flower | Wavy | King Louis",
+    "img": "https://images.dutchie.com/8031877ae7b87fb665d1381caa39d2b7?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
+    "brand": "Wavy",
+    "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=flower-wavy-king-louis",
+    "price": "$25.00"
+  },
+  {
+    "name": "Afternoon Delight #4 Mini Show Dogs 5-pack | 2.25g",
+    "img": "https://dutchie-images.s3.us-west-2.amazonaws.com/6c54b8a34e7a36819b4a1ca44bfc4e6a?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
+    "brand": "Dogwalkers",
+    "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=afternoon-delight-4-mini-show-dogs-5-pack-2-25g-70318",
+    "price": "$40.00"
+  },
+  {
+    "name": "Flower | Jenny Loves Me | Barnyard Jet Fuel - Preground",
+    "img": "https://images.dutchie.com/1c7ded16ec389a20b7e3c065fd9c7d6d?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
+    "brand": "Jenny Loves Me",
+    "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=flower-jenny-loves-me-barnyard-jet-fuel-preground",
+    "price": "$38.00"
+  },
+  {
+    "name": "Ayrloom | Mood Focus | AIO | 1g | THC : THCV",
+    "img": "https://images.dutchie.com/3d01f30c99e9ebdf1a801cb0badc0c88?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
+    "brand": "ayrloom",
+    "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=ayrloom-mood-focus-aio-1g-thc-thcv-71184",
+    "price": "$50.00"
+  },
+  {
+    "name": "1g Cherry Kush Cart",
+    "img": "https://images.dutchie.com/1f4de0504b1d32b34a6aefb8a990c86b?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
+    "brand": "Hudson Cannabis",
+    "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=1g-cherry-kush-cart-69352",
+    "price": "$44.00"
+  },
+  {
+    "name": "Flower | Rythm | Sour Diesel",
+    "img": "https://images.dutchie.com/f0db80af4a083fcfc87f30aae4ae599b?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
+    "brand": "RYTHM",
+    "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=flower-rythm-sour-diesel",
+    "price": "$50.00"
+  }
+]
