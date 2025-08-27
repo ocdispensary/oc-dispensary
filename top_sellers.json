@@ -1,10 +1,31 @@
 [
   {
-    "name": "Flower | Smoke - Ounce Packs | Bubble Gum",
-    "img": "https://images.dutchie.com/flower-stock-2-v1.jpg?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
-    "brand": "Smoke",
-    "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=flower-smoke-ounce-packs-bubble-gum",
-    "price": "$250.00"
+    "name": "Afternoon Delight #4 Mini Show Dogs 5-pack | 2.25g",
+    "img": "https://dutchie-images.s3.us-west-2.amazonaws.com/6c54b8a34e7a36819b4a1ca44bfc4e6a?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
+    "brand": "Dogwalkers",
+    "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=afternoon-delight-4-mini-show-dogs-5-pack-2-25g-70318",
+    "price": "$40.00"
+  },
+  {
+    "name": "DURBAN POISON",
+    "img": "https://images.dutchie.com/174c5fdc79ab395fd1bd14041f3e3da9?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
+    "brand": "Dank By Definition.",
+    "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=durban-poison-49581",
+    "price": "$53.00"
+  },
+  {
+    "name": "Flower | Rythm | Sour Diesel",
+    "img": "https://images.dutchie.com/f0db80af4a083fcfc87f30aae4ae599b?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
+    "brand": "RYTHM",
+    "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=flower-rythm-sour-diesel",
+    "price": "$50.00"
+  },
+  {
+    "name": "Infused Flower | Revert | Hawaiian Haze - Preground",
+    "img": "https://images.dutchie.com/27f0de31c0f07251ca365d9986d663ea?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
+    "brand": "Revert",
+    "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=infused-flower-revert-hawaiian-haze-preground",
+    "price": "$70.00"
   },
   {
     "name": "Flower | Wavy | King Louis",
@@ -14,38 +35,17 @@
     "price": "$25.00"
   },
   {
-    "name": "Afternoon Delight #4 Mini Show Dogs 5-pack | 2.25g",
-    "img": "https://dutchie-images.s3.us-west-2.amazonaws.com/6c54b8a34e7a36819b4a1ca44bfc4e6a?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
-    "brand": "Dogwalkers",
-    "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=afternoon-delight-4-mini-show-dogs-5-pack-2-25g-70318",
-    "price": "$40.00"
+    "name": "Vape AIO | Select | Cheesecake Briq",
+    "img": "https://images.dutchie.com/399b41842f8c791ebe3c78701c4620e4?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
+    "brand": "Select",
+    "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=vape-aio-select-cheesecake-briq",
+    "price": "$90.00"
   },
   {
-    "name": "Flower | Jenny Loves Me | Barnyard Jet Fuel - Preground",
-    "img": "https://images.dutchie.com/1c7ded16ec389a20b7e3c065fd9c7d6d?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
-    "brand": "Jenny Loves Me",
-    "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=flower-jenny-loves-me-barnyard-jet-fuel-preground",
-    "price": "$38.00"
-  },
-  {
-    "name": "Ayrloom | Mood Focus | AIO | 1g | THC : THCV",
-    "img": "https://images.dutchie.com/3d01f30c99e9ebdf1a801cb0badc0c88?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
+    "name": "Infused Pre Rolls | Ayrloom | Key Lime- 5pk",
+    "img": "https://images.dutchie.com/a1deea5e729f6d9bba2f473eb8a80959?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
     "brand": "ayrloom",
-    "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=ayrloom-mood-focus-aio-1g-thc-thcv-71184",
-    "price": "$50.00"
-  },
-  {
-    "name": "1g Cherry Kush Cart",
-    "img": "https://images.dutchie.com/1f4de0504b1d32b34a6aefb8a990c86b?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
-    "brand": "Hudson Cannabis",
-    "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=1g-cherry-kush-cart-69352",
-    "price": "$44.00"
-  },
-  {
-    "name": "Flower | Rythm | Sour Diesel",
-    "img": "https://images.dutchie.com/f0db80af4a083fcfc87f30aae4ae599b?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
-    "brand": "RYTHM",
-    "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=flower-rythm-sour-diesel",
-    "price": "$50.00"
+    "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=infused-pre-rolls-ayrloom-key-lime-5pk",
+    "price": "$40.00"
   }
 ]
