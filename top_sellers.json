@@ -1,17 +1,10 @@
 [
   {
-    "name": "Afternoon Delight #4 Mini Show Dogs 5-pack | 2.25g",
-    "img": "https://dutchie-images.s3.us-west-2.amazonaws.com/6c54b8a34e7a36819b4a1ca44bfc4e6a?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
-    "brand": "Dogwalkers",
-    "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=afternoon-delight-4-mini-show-dogs-5-pack-2-25g-70318",
-    "price": "$40.00"
-  },
-  {
-    "name": "DURBAN POISON",
-    "img": "https://images.dutchie.com/174c5fdc79ab395fd1bd14041f3e3da9?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
-    "brand": "Dank By Definition.",
-    "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=durban-poison-49581",
-    "price": "$53.00"
+    "name": "Infused Flower | Revert | Hawaiian Haze - Preground",
+    "img": "https://images.dutchie.com/27f0de31c0f07251ca365d9986d663ea?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
+    "brand": "Revert",
+    "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=infused-flower-revert-hawaiian-haze-preground",
+    "price": "$70.00"
   },
   {
     "name": "Flower | Rythm | Sour Diesel",
@@ -21,11 +14,18 @@
     "price": "$50.00"
   },
   {
-    "name": "Infused Flower | Revert | Hawaiian Haze - Preground",
-    "img": "https://images.dutchie.com/27f0de31c0f07251ca365d9986d663ea?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
-    "brand": "Revert",
-    "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=infused-flower-revert-hawaiian-haze-preground",
-    "price": "$70.00"
+    "name": "DURBAN POISON",
+    "img": "https://images.dutchie.com/174c5fdc79ab395fd1bd14041f3e3da9?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
+    "brand": "Dank By Definition.",
+    "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=durban-poison-49581",
+    "price": "$53.00"
+  },
+  {
+    "name": "Infused Pre Rolls | Ayrloom | Key Lime- 5pk",
+    "img": "https://images.dutchie.com/a1deea5e729f6d9bba2f473eb8a80959?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
+    "brand": "ayrloom",
+    "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=infused-pre-rolls-ayrloom-key-lime-5pk",
+    "price": "$40.00"
   },
   {
     "name": "Flower | Wavy | King Louis",
@@ -42,10 +42,10 @@
     "price": "$90.00"
   },
   {
-    "name": "Infused Pre Rolls | Ayrloom | Key Lime- 5pk",
-    "img": "https://images.dutchie.com/a1deea5e729f6d9bba2f473eb8a80959?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
-    "brand": "ayrloom",
-    "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=infused-pre-rolls-ayrloom-key-lime-5pk",
-    "price": "$40.00"
+    "name": "Infused Flower | Stone Road | NY Sour Apple",
+    "img": "https://images.dutchie.com/74781ff6b36a0fb8b7f7ca94e34b2546?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
+    "brand": "Stone Road",
+    "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=infused-flower-stone-road-ny-sour-apple",
+    "price": "$160.00"
   }
 ]
