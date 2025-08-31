@@ -1,1 +1,51 @@
-[]
+[
+  {
+    "name": "Infused Pre Rolls | Ayrloom | Key Lime- 5pk",
+    "img": "https://images.dutchie.com/a1deea5e729f6d9bba2f473eb8a80959?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
+    "brand": "ayrloom",
+    "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=infused-pre-rolls-ayrloom-key-lime-5pk",
+    "price": "$40.00"
+  },
+  {
+    "name": "DURBAN POISON",
+    "img": "https://images.dutchie.com/174c5fdc79ab395fd1bd14041f3e3da9?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
+    "brand": "Dank By Definition.",
+    "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=durban-poison-49581",
+    "price": "$53.00"
+  },
+  {
+    "name": "Infused Flower | Revert | Hawaiian Haze - Preground",
+    "img": "https://images.dutchie.com/27f0de31c0f07251ca365d9986d663ea?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
+    "brand": "Revert",
+    "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=infused-flower-revert-hawaiian-haze-preground",
+    "price": "$70.00"
+  },
+  {
+    "name": "Tincture | MFNY | Turbo Blueberry",
+    "img": "https://images.dutchie.com/2a91e18fbebab6d3eae1348db8051b6f?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
+    "brand": "MFNY",
+    "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=tincture-mfny-turbo-blueberry",
+    "price": "$48.00"
+  },
+  {
+    "name": "Alien OG | AIO Palm | 1.5g",
+    "img": "https://images.dutchie.com/73b56517389dad1f39b2e3315554b66e?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
+    "brand": "Jaunty",
+    "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=alien-og-aio-palm-1-5g",
+    "price": "$60.00"
+  },
+  {
+    "name": "1g Cherry Kush Cart",
+    "img": "https://images.dutchie.com/1f4de0504b1d32b34a6aefb8a990c86b?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
+    "brand": "Hudson Cannabis",
+    "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=1g-cherry-kush-cart-69352",
+    "price": "$44.00"
+  },
+  {
+    "name": "Flower | Wavy | King Louis",
+    "img": "https://images.dutchie.com/8031877ae7b87fb665d1381caa39d2b7?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
+    "brand": "Wavy",
+    "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=flower-wavy-king-louis",
+    "price": "$25.00"
+  }
+]
