@@ -1,1 +1,44 @@
-[]
+[
+  {
+    "name": "Flower | Friends with Flowers | Blueberry",
+    "img": "https://images.dutchie.com/0105590388bd10c535a053be9c01b4e1?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
+    "brand": "Friends with Flowers",
+    "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=flower-friends-with-flowers-blueberry",
+    "price": "$180.00"
+  },
+  {
+    "name": "Infused Pre Rolls | Ayrloom | Key Lime- 5pk",
+    "img": "https://images.dutchie.com/a1deea5e729f6d9bba2f473eb8a80959?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
+    "brand": "ayrloom",
+    "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=infused-pre-rolls-ayrloom-key-lime-5pk",
+    "price": "$40.00"
+  },
+  {
+    "name": "Flower | Nanticoke | Ready 2 Roll Pre-Ground Flower - Hybrid",
+    "img": "https://images.dutchie.com/0d27e5bc29931a27c347691f9b4d8a1f?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
+    "brand": "Ready 2 Roll",
+    "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=flower-nanticoke-ready-2-roll-pre-ground-flower-hybrid",
+    "price": "$40.00"
+  },
+  {
+    "name": "Alien OG | AIO Palm | 1.5g",
+    "img": "https://images.dutchie.com/73b56517389dad1f39b2e3315554b66e?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
+    "brand": "Jaunty",
+    "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=alien-og-aio-palm-1-5g",
+    "price": "$60.00"
+  },
+  {
+    "name": "Infused Flower | Revert | NYC Diesel - Preground",
+    "img": "https://images.dutchie.com/59dc4c7c970346c9529a6a27102ffd90?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
+    "brand": "Revert",
+    "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=infused-flower-revert-nyc-diesel-preground",
+    "price": "$70.00"
+  },
+  {
+    "name": "Flower | Friends with Flowers | Blue Dream",
+    "img": "https://images.dutchie.com/f7e7f0b9493d2eede6f0b11902b3e72f?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
+    "brand": "Friends with Flowers",
+    "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=flower-friends-with-flowers-blue-dream",
+    "price": "$100.00"
+  }
+]
