@@ -21,13 +21,6 @@
     "price": "$40.00"
   },
   {
-    "name": "Alien OG | AIO Palm | 1.5g",
-    "img": "https://images.dutchie.com/73b56517389dad1f39b2e3315554b66e?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
-    "brand": "Jaunty",
-    "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=alien-og-aio-palm-1-5g",
-    "price": "$60.00"
-  },
-  {
     "name": "Infused Flower | Revert | NYC Diesel - Preground",
     "img": "https://images.dutchie.com/59dc4c7c970346c9529a6a27102ffd90?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
     "brand": "Revert",
@@ -35,10 +28,24 @@
     "price": "$70.00"
   },
   {
-    "name": "Flower | Friends with Flowers | Blue Dream",
-    "img": "https://images.dutchie.com/f7e7f0b9493d2eede6f0b11902b3e72f?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
-    "brand": "Friends with Flowers",
-    "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=flower-friends-with-flowers-blue-dream",
-    "price": "$100.00"
+    "name": "Cyber Beast - Live Resin Disposable - 1g",
+    "img": "https://images.dutchie.com/688b6d530a00a11a55d47133f4b30d1b?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
+    "brand": "To The Moon",
+    "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=cyber-beast-live-resin-disposable-1g-5525",
+    "price": "$64.00"
+  },
+  {
+    "name": "Blue Dream | AIO Palm | 1.5g",
+    "img": "https://images.dutchie.com/11a49f35e20d3ee6ba176423b055fae7?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
+    "brand": "Jaunty",
+    "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=blue-dream-aio-palm-1-5g-81003",
+    "price": "$60.00"
+  },
+  {
+    "name": "Flower | Dolla Treez | Permanent Marker x Biscotti",
+    "img": "https://images.dutchie.com/4b1720b7b837c2a2304f8157a5fd18c8?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
+    "brand": "Dolla Treez",
+    "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=flower-dolla-treez-permanent-marker-x-biscotti",
+    "price": "$25.00"
   }
 ]
