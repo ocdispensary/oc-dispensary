@@ -21,18 +21,11 @@
     "price": "$82.00"
   },
   {
-    "name": "Flower | Nanticoke | Ready 2 Roll Pre-Ground Flower - Hybrid",
-    "img": "https://images.dutchie.com/0d27e5bc29931a27c347691f9b4d8a1f?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
-    "brand": "Ready 2 Roll",
-    "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=flower-nanticoke-ready-2-roll-pre-ground-flower-hybrid",
-    "price": "$40.00"
-  },
-  {
-    "name": "Infused Flower | Revert | NYC Diesel - Preground",
-    "img": "https://images.dutchie.com/59dc4c7c970346c9529a6a27102ffd90?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
-    "brand": "Revert",
-    "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=infused-flower-revert-nyc-diesel-preground",
-    "price": "$70.00"
+    "name": "Ayrloom | Mood Focus | AIO | 1g | THC : THCV",
+    "img": "https://images.dutchie.com/3d01f30c99e9ebdf1a801cb0badc0c88?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
+    "brand": "ayrloom",
+    "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=ayrloom-mood-focus-aio-1g-thc-thcv-71184",
+    "price": "$50.00"
   },
   {
     "name": "Flower | Dolla Treez | Permanent Marker x Biscotti",
@@ -47,5 +40,12 @@
     "brand": "To The Moon",
     "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=cyber-beast-live-resin-disposable-1g-5525",
     "price": "$64.00"
+  },
+  {
+    "name": "Flower | Dank | Tropic Thunder",
+    "img": "https://images.dutchie.com/20ee65d67fd112a5d68b87e2cfe86f45?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
+    "brand": "Dank By Definition.",
+    "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=flower-dank-tropic-thunder",
+    "price": "$190.00"
   }
 ]
