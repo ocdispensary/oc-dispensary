@@ -1,10 +1,17 @@
 [
   {
-    "name": "Cyber Beast - Live Resin Disposable - 1g",
-    "img": "https://images.dutchie.com/688b6d530a00a11a55d47133f4b30d1b?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
-    "brand": "To The Moon",
-    "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=cyber-beast-live-resin-disposable-1g-5525",
-    "price": "$64.00"
+    "name": "Fruit Punch | Melted Diamond Live Resin Vaporizer | 1.0g (Reload)",
+    "img": "https://images.dutchie.com/72539c533e985a5861c95450715bc226?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
+    "brand": "Rove",
+    "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=fruit-punch-melted-diamond-live-resin-vaporizer-1-0g-reload",
+    "price": "$82.00"
+  },
+  {
+    "name": "Flower | Dolla Treez | Permanent Marker x Biscotti",
+    "img": "https://images.dutchie.com/4b1720b7b837c2a2304f8157a5fd18c8?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
+    "brand": "Dolla Treez",
+    "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=flower-dolla-treez-permanent-marker-x-biscotti",
+    "price": "$25.00"
   },
   {
     "name": "Pre Rolls | Ruby Farms | | Ghost Train Haze #2- 7pk",
@@ -14,25 +21,18 @@
     "price": "$50.00"
   },
   {
-    "name": "Infused Flower | Revert | NYC Diesel - Preground",
-    "img": "https://images.dutchie.com/59dc4c7c970346c9529a6a27102ffd90?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
-    "brand": "Revert",
-    "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=infused-flower-revert-nyc-diesel-preground",
-    "price": "$70.00"
+    "name": "Afternoon Delight #4 | Premium Flower | Hybrid | 3.5g",
+    "img": "https://images.dutchie.com/bd52994f3be009ef5a7822fcc89e298f?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
+    "brand": "RYTHM",
+    "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=afternoon-delight-4-premium-flower-hybrid-3-5g-60133",
+    "price": "$50.00"
   },
   {
-    "name": "Flower | Smoke - Ounce Packs | London Pie",
-    "img": "https://images.dutchie.com/7e887a839801c47612e26aa36e288771?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
+    "name": "Flower | Smoke - Ounce Packs | Gary Payton",
+    "img": "https://images.dutchie.com/flower-stock-9-v1.jpg?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
     "brand": "Smoke",
-    "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=flower-smoke-ounce-packs-london-pie",
+    "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=flower-smoke-ounce-packs-gary-payton",
     "price": "$250.00"
-  },
-  {
-    "name": "Fruit Punch | Melted Diamond Live Resin Vaporizer | 1.0g (Reload)",
-    "img": "https://images.dutchie.com/72539c533e985a5861c95450715bc226?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
-    "brand": "Rove",
-    "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=fruit-punch-melted-diamond-live-resin-vaporizer-1-0g-reload",
-    "price": "$82.00"
   },
   {
     "name": "VAPE AIO | Ghost | Strawberry Shortcake",
@@ -42,10 +42,10 @@
     "price": "$100.00"
   },
   {
-    "name": "Flower | Nanticoke | Ready 2 Roll Pre-Ground Flower - Hybrid",
-    "img": "https://images.dutchie.com/0d27e5bc29931a27c347691f9b4d8a1f?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
-    "brand": "Ready 2 Roll",
-    "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=flower-nanticoke-ready-2-roll-pre-ground-flower-hybrid",
-    "price": "$40.00"
+    "name": "Cyber Beast - Live Resin Disposable - 1g",
+    "img": "https://images.dutchie.com/688b6d530a00a11a55d47133f4b30d1b?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
+    "brand": "To The Moon",
+    "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=cyber-beast-live-resin-disposable-1g-5525",
+    "price": "$64.00"
   }
 ]
