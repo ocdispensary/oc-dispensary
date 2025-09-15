@@ -7,6 +7,13 @@
     "price": "$100.00"
   },
   {
+    "name": "Afternoon Delight #4 | Premium Flower | Hybrid | 3.5g",
+    "img": "https://images.dutchie.com/bd52994f3be009ef5a7822fcc89e298f?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
+    "brand": "RYTHM",
+    "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=afternoon-delight-4-premium-flower-hybrid-3-5g-60133",
+    "price": "$50.00"
+  },
+  {
     "name": "Flower | Smoke - Ounce Packs | Gary Payton",
     "img": "https://images.dutchie.com/flower-stock-9-v1.jpg?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
     "brand": "Smoke",
@@ -28,17 +35,17 @@
     "price": "$80.00"
   },
   {
-    "name": "Flower | Dolla Treez | Permanent Marker x Biscotti",
-    "img": "https://images.dutchie.com/4b1720b7b837c2a2304f8157a5fd18c8?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
-    "brand": "Dolla Treez",
-    "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=flower-dolla-treez-permanent-marker-x-biscotti",
-    "price": "$25.00"
+    "name": "1g Super Lemon Haze Cart",
+    "img": "https://images.dutchie.com/6143038995582bf21de4aaed5d484916?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
+    "brand": "Hudson Cannabis",
+    "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=1g-super-lemon-haze-cart-62497",
+    "price": "$44.00"
   },
   {
-    "name": "Pre Rolls | Ruby Farms | | Ghost Train Haze #2- 7pk",
-    "img": "https://images.dutchie.com/7b24b8b99bd3215ed4ed7e3300a88806?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
-    "brand": "Ruby Farms",
-    "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=pre-rolls-ruby-farms-ghost-train-haze-2-7pk",
-    "price": "$50.00"
+    "name": "Flower | Zizzle | Sour Diesel",
+    "img": "https://images.dutchie.com/00cc6e39779ed313b5e64b97d71a2db0?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
+    "brand": "Zizzle",
+    "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=flower-zizzle-sour-diesel",
+    "price": "$54.00"
   }
 ]
