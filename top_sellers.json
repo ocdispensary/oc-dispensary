@@ -1,1 +1,51 @@
-[]
+[
+  {
+    "name": "Infused Pre Rolls | Ruby Farms | Black Haze- 10pk",
+    "img": "https://images.dutchie.com/4443583ffaa1b738342ca2e65499f8d3?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
+    "brand": "Ruby Farms",
+    "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=infused-pre-rolls-ruby-farms-black-haze-10pk",
+    "price": "$65.00"
+  },
+  {
+    "name": "VAPE AIO | Ghost | Strawberry Shortcake",
+    "img": "https://images.dutchie.com/762ec7c757d41e57d34a2b3991fad1f3?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
+    "brand": "ghost.",
+    "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=vape-aio-ghost-strawberry-shortcake",
+    "price": "$100.00"
+  },
+  {
+    "name": "Strawnana | AIO Palm | 1.5g",
+    "img": "https://images.dutchie.com/af8773099707682c430891ef04b99ad4?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
+    "brand": "Jaunty",
+    "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=strawnana-aio-palm-1-5g",
+    "price": "$60.00"
+  },
+  {
+    "name": "Vape AIO | Bonanza  | Blue Kush",
+    "img": "https://images.dutchie.com/475034fc3ae46bc2cff63fe55bc02a70?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
+    "brand": "Bonanza Cannabis",
+    "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=vape-aio-bonanza-blue-kush",
+    "price": "$72.00"
+  },
+  {
+    "name": "Vape AIO | Ghost | White Fire OG",
+    "img": "https://images.dutchie.com/e0a881ac1b6ba23bedac5cc76a97ab9b?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
+    "brand": "ghost.",
+    "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=vape-aio-ghost-white-fire-og",
+    "price": "$100.00"
+  },
+  {
+    "name": "Flower | Dank | Tropic Thunder",
+    "img": "https://images.dutchie.com/20ee65d67fd112a5d68b87e2cfe86f45?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
+    "brand": "Dank By Definition.",
+    "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=flower-dank-tropic-thunder",
+    "price": "$190.00"
+  },
+  {
+    "name": "1g Super Lemon Haze Cart",
+    "img": "https://images.dutchie.com/6143038995582bf21de4aaed5d484916?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
+    "brand": "Hudson Cannabis",
+    "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=1g-super-lemon-haze-cart-62497",
+    "price": "$44.00"
+  }
+]
