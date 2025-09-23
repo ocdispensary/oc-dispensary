@@ -1,1 +1,51 @@
-[]
+[
+  {
+    "name": "VAPE AIO | Ghost | Strawberry Shortcake",
+    "img": "https://images.dutchie.com/762ec7c757d41e57d34a2b3991fad1f3?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
+    "brand": "ghost.",
+    "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=vape-aio-ghost-strawberry-shortcake",
+    "price": "$100.00"
+  },
+  {
+    "name": "Strawnana | AIO Palm | 1.5g",
+    "img": "https://images.dutchie.com/af8773099707682c430891ef04b99ad4?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
+    "brand": "Jaunty",
+    "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=strawnana-aio-palm-1-5g",
+    "price": "$60.00"
+  },
+  {
+    "name": "Flower | Doobie Labs | Blue Lobster",
+    "img": "https://images.dutchie.com/bf16c97ef556d7fa9b480691c4104e39?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
+    "brand": "Doobies",
+    "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=flower-doobie-labs-blue-lobster",
+    "price": "$52.00"
+  },
+  {
+    "name": "Vape AIO | Fernway | White Widow",
+    "img": "https://images.dutchie.com/c7042ad02b3b465e7e06f1944cb93aa4?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
+    "brand": "Fernway",
+    "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=vape-aio-fernway-white-widow",
+    "price": "$90.00"
+  },
+  {
+    "name": "Flower | Wavy | Gorilla Glue #4",
+    "img": "https://images.dutchie.com/e67fd116b03812bcf153e96a8e9a90bc?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
+    "brand": "Wavy",
+    "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=flower-wavy-gorilla-glue-4",
+    "price": "$25.00"
+  },
+  {
+    "name": "Flower | Nanticoke | Ready 2 Roll Pre-Ground Flower - Sativa",
+    "img": "https://images.dutchie.com/0d27e5bc29931a27c347691f9b4d8a1f?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
+    "brand": "Ready 2 Roll",
+    "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=flower-nanticoke-ready-2-roll-pre-ground-flower-sativa",
+    "price": "$40.00"
+  },
+  {
+    "name": "Vape AIO | Nanticoke Nitro | Tropic Surge",
+    "img": "https://images.dutchie.com/0858a94b04a23dba934e0470fa379d68?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
+    "brand": "Nanticoke",
+    "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=vape-aio-nanticoke-nitro-tropic-surge",
+    "price": "$80.00"
+  }
+]
