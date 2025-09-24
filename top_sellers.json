@@ -21,6 +21,20 @@
     "price": "$52.00"
   },
   {
+    "name": "Flower | FLAV | Pineapple Dream x Tropical Trainwreck - Duo",
+    "img": "https://images.dutchie.com/a45ec7a061d46ab95afa907f3a914980?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
+    "brand": "To The Moon",
+    "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=flower-flav-pineapple-dream-x-tropical-trainwreck-duo",
+    "price": "$100.00"
+  },
+  {
+    "name": "Flower | Revert | Strawberry Amnesia",
+    "img": "https://images.dutchie.com/3e968eed2f0ef75abc6411c70047596d?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
+    "brand": "Revert",
+    "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=flower-revert-strawberry-amnesia",
+    "price": "$30.00"
+  },
+  {
     "name": "Vape AIO | Fernway | White Widow",
     "img": "https://images.dutchie.com/c7042ad02b3b465e7e06f1944cb93aa4?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
     "brand": "Fernway",
@@ -28,24 +42,10 @@
     "price": "$90.00"
   },
   {
-    "name": "Flower | Wavy | Gorilla Glue #4",
-    "img": "https://images.dutchie.com/e67fd116b03812bcf153e96a8e9a90bc?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
-    "brand": "Wavy",
-    "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=flower-wavy-gorilla-glue-4",
-    "price": "$25.00"
-  },
-  {
-    "name": "Flower | Nanticoke | Ready 2 Roll Pre-Ground Flower - Sativa",
-    "img": "https://images.dutchie.com/0d27e5bc29931a27c347691f9b4d8a1f?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
-    "brand": "Ready 2 Roll",
-    "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=flower-nanticoke-ready-2-roll-pre-ground-flower-sativa",
-    "price": "$40.00"
-  },
-  {
-    "name": "Vape AIO | Nanticoke Nitro | Tropic Surge",
-    "img": "https://images.dutchie.com/0858a94b04a23dba934e0470fa379d68?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
-    "brand": "Nanticoke",
-    "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=vape-aio-nanticoke-nitro-tropic-surge",
-    "price": "$80.00"
+    "name": "Infused Flower | Stone Road | NY Sour Apple",
+    "img": "https://images.dutchie.com/74781ff6b36a0fb8b7f7ca94e34b2546?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
+    "brand": "Stone Road",
+    "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=infused-flower-stone-road-ny-sour-apple",
+    "price": "$160.00"
   }
 ]
