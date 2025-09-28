@@ -14,18 +14,11 @@
     "price": "$135.00"
   },
   {
-    "name": "Animal Face | Premium Flower | Indica | 3.5g",
-    "img": "https://images.dutchie.com/bf058cd9b59f210bb234f5c275199f00?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
-    "brand": "RYTHM",
-    "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=animal-face-premium-flower-indica-3-5g-56358",
-    "price": "$50.00"
-  },
-  {
-    "name": "Jack's Delight | Premium Flower | Sativa | 7g",
-    "img": "https://images.dutchie.com/23e40cca8e3d28fe5da079265dd26138?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
-    "brand": "RYTHM",
-    "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=jack-s-delight-premium-flower-sativa-7g-13367",
-    "price": "$80.00"
+    "name": "Flower | Doobie Labs | Blue Lobster",
+    "img": "https://images.dutchie.com/bf16c97ef556d7fa9b480691c4104e39?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
+    "brand": "Doobies",
+    "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=flower-doobie-labs-blue-lobster",
+    "price": "$52.00"
   },
   {
     "name": "Flower | Revert | Strawberry Amnesia",
@@ -35,6 +28,13 @@
     "price": "$30.00"
   },
   {
+    "name": "Jack's Delight | Premium Flower | Sativa | 7g",
+    "img": "https://images.dutchie.com/23e40cca8e3d28fe5da079265dd26138?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
+    "brand": "RYTHM",
+    "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=jack-s-delight-premium-flower-sativa-7g-13367",
+    "price": "$80.00"
+  },
+  {
     "name": "Infused Flower | Revert | Master Kush - Preground",
     "img": "https://images.dutchie.com/flower-stock-3-v1.jpg?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
     "brand": "Revert",
@@ -42,10 +42,10 @@
     "price": "$70.00"
   },
   {
-    "name": "Flower | Doobie Labs | Blue Lobster",
-    "img": "https://images.dutchie.com/bf16c97ef556d7fa9b480691c4104e39?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
-    "brand": "Doobies",
-    "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=flower-doobie-labs-blue-lobster",
-    "price": "$52.00"
+    "name": "Ayrloom | Bomb Popz | AIO | 1g",
+    "img": "https://images.dutchie.com/5a2b965c3dfb60f8cf92b097cb09e9e2?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
+    "brand": "ayrloom",
+    "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=ayrloom-bomb-popz-aio-1g",
+    "price": "$50.00"
   }
 ]
