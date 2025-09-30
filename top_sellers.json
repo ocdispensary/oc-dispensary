@@ -7,18 +7,11 @@
     "price": "$60.00"
   },
   {
-    "name": "HIPPIE CRASHER (14 GRAMS)",
-    "img": "https://images.dutchie.com/d342065448445c72d2878c33e8df944d?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
-    "brand": "Dank By Definition.",
-    "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=hippie-crasher-14-grams",
-    "price": "$135.00"
-  },
-  {
-    "name": "Flower | Doobie Labs | Blue Lobster",
-    "img": "https://images.dutchie.com/bf16c97ef556d7fa9b480691c4104e39?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
-    "brand": "Doobies",
-    "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=flower-doobie-labs-blue-lobster",
-    "price": "$52.00"
+    "name": "Infused Pre-Rolls | Ayrloom | Cereal Milk - 5pk",
+    "img": "https://images.dutchie.com/626005be2ffca52d395c956306b82dee?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
+    "brand": "ayrloom",
+    "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=infused-pre-rolls-ayrloom-cereal-milk-5pk",
+    "price": "$40.00"
   },
   {
     "name": "Flower | Revert | Strawberry Amnesia",
@@ -35,17 +28,17 @@
     "price": "$80.00"
   },
   {
+    "name": "Infused Pre Roll | Ruby Farms | Blueberry Dj Cut- 10 pk",
+    "img": "https://images.dutchie.com/4443583ffaa1b738342ca2e65499f8d3?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
+    "brand": "Ruby Farms",
+    "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=infused-pre-roll-ruby-farms-blueberry-dj-cut-10-pk",
+    "price": "$58.00"
+  },
+  {
     "name": "Infused Flower | Revert | Master Kush - Preground",
     "img": "https://images.dutchie.com/flower-stock-3-v1.jpg?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
     "brand": "Revert",
     "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=infused-flower-revert-master-kush-preground",
     "price": "$70.00"
-  },
-  {
-    "name": "Ayrloom | Bomb Popz | AIO | 1g",
-    "img": "https://images.dutchie.com/5a2b965c3dfb60f8cf92b097cb09e9e2?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
-    "brand": "ayrloom",
-    "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=ayrloom-bomb-popz-aio-1g",
-    "price": "$50.00"
   }
 ]
