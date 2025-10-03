@@ -1,1 +1,51 @@
-[]
+[
+  {
+    "name": "Ayrloom | Lime Haze | AIO | 1g",
+    "img": "https://images.dutchie.com/fda2a085181de6afbff9ccd355552e9b?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
+    "brand": "ayrloom",
+    "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=ayrloom-lime-haze-aio-1g-77917",
+    "price": "$50.00"
+  },
+  {
+    "name": "Ayrloom | Cereal Milk Infused Pre-Roll | 5 Pack",
+    "img": "https://images.dutchie.com/85b3f86458fc679a5a998b449ffe094d?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
+    "brand": "ayrloom",
+    "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=ayrloom-cereal-milk-infused-pre-roll-5-pack-49460",
+    "price": "$40.00"
+  },
+  {
+    "name": "Infused Pre Roll | Ruby Farms | Blueberry Dj Cut- 10 pk",
+    "img": "https://images.dutchie.com/4443583ffaa1b738342ca2e65499f8d3?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
+    "brand": "Ruby Farms",
+    "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=infused-pre-roll-ruby-farms-blueberry-dj-cut-10-pk",
+    "price": "$58.00"
+  },
+  {
+    "name": "Infused Flower | Revert | Sour Amnesia - Preground",
+    "img": "https://images.dutchie.com/d8e347a94732086b9a69149dd884a5c9?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
+    "brand": "Revert",
+    "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=infused-flower-revert-sour-amnesia-preground",
+    "price": "$70.00"
+  },
+  {
+    "name": "Infused Flower | Revert | Hawaiian Haze - Preground",
+    "img": "https://images.dutchie.com/27f0de31c0f07251ca365d9986d663ea?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
+    "brand": "Revert",
+    "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=infused-flower-revert-hawaiian-haze-preground",
+    "price": "$70.00"
+  },
+  {
+    "name": "Flower | 1937 | Detroit Purps",
+    "img": "https://images.dutchie.com/flower-stock-9-v1.jpg?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
+    "brand": "1937",
+    "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=flower-1937-detroit-purps",
+    "price": "$35.00"
+  },
+  {
+    "name": "Flower | Doobie Labs | Blue Lobster",
+    "img": "https://images.dutchie.com/bf16c97ef556d7fa9b480691c4104e39?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
+    "brand": "Doobies",
+    "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=flower-doobie-labs-blue-lobster",
+    "price": "$52.00"
+  }
+]
