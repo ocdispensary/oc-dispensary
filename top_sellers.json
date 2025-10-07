@@ -1,1 +1,51 @@
-[]
+[
+  {
+    "name": "HIPPIE CRASHER (14 GRAMS)",
+    "img": "https://images.dutchie.com/d342065448445c72d2878c33e8df944d?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
+    "brand": "Dank By Definition.",
+    "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=hippie-crasher-14-grams",
+    "price": "$135.00"
+  },
+  {
+    "name": "Infused Pre Roll | Ruby Farms | Blueberry Dj Cut- 10 pk",
+    "img": "https://images.dutchie.com/4443583ffaa1b738342ca2e65499f8d3?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
+    "brand": "Ruby Farms",
+    "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=infused-pre-roll-ruby-farms-blueberry-dj-cut-10-pk",
+    "price": "$58.00"
+  },
+  {
+    "name": "Ayrloom | Lychee Dream | AIO | 0.5g",
+    "img": "https://images.dutchie.com/153ae5493323b01cf4aae8eeccd706d1?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
+    "brand": "ayrloom",
+    "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=ayrloom-lychee-dream-aio-0-5g-32631",
+    "price": "$30.00"
+  },
+  {
+    "name": "Flower | 1937 | Detroit Purps",
+    "img": "https://images.dutchie.com/flower-stock-9-v1.jpg?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
+    "brand": "1937",
+    "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=flower-1937-detroit-purps",
+    "price": "$35.00"
+  },
+  {
+    "name": "Vape AIO | Ghost | Apple Jacks",
+    "img": "https://images.dutchie.com/f1b76babf232339970bbadffae4111b2?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
+    "brand": "ghost.",
+    "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=vape-aio-ghost-apple-jacks",
+    "price": "$100.00"
+  },
+  {
+    "name": "Flower | 1937 | Chem x Chocolate",
+    "img": "https://images.dutchie.com/e72c326b0573e21bd97f0d41715e24c3?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
+    "brand": "1937",
+    "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=flower-1937-chem-x-chocolate",
+    "price": "$35.00"
+  },
+  {
+    "name": "SlapZ | Premium Flower | Hybrid | 3.5g",
+    "img": "https://images.dutchie.com/ba9d95b0fe568e91116c47e97c30d12c?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
+    "brand": "RYTHM",
+    "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=slapz-premium-flower-hybrid-3-5g-46218",
+    "price": "$50.00"
+  }
+]
