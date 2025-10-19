@@ -1,1 +1,51 @@
-[]
+[
+  {
+    "name": "Pre Roll | Dank | Alaskan Thunderfuck - 14pk",
+    "img": "https://images.dutchie.com/db1dc62ce4a5150bde81e370f0b672b2?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
+    "brand": "Dank By Definition.",
+    "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=pre-roll-dank-alaskan-thunderfuck-14pk",
+    "price": "$125.00"
+  },
+  {
+    "name": "Flower | Grocery | Trainwreck",
+    "img": "https://images.dutchie.com/flower-stock-5-v1.jpg?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
+    "brand": "Grocery",
+    "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=flower-grocery-trainwreck",
+    "price": "$160.00"
+  },
+  {
+    "name": "Flower | Nanticoke | Ready 2 Roll Pre-Ground Flower - Hybrid",
+    "img": "https://images.dutchie.com/0d27e5bc29931a27c347691f9b4d8a1f?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
+    "brand": "Ready 2 Roll",
+    "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=flower-nanticoke-ready-2-roll-pre-ground-flower-hybrid",
+    "price": "$40.00"
+  },
+  {
+    "name": "Ghost Train | AIO Palm | 1.5g",
+    "img": "https://images.dutchie.com/38e09657648eede6cedb0d1a0478a089?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
+    "brand": "Jaunty",
+    "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=ghost-train-aio-palm-1-5g-15536",
+    "price": "$60.00"
+  },
+  {
+    "name": "Ayrloom | Key Lime Infused Pre-Roll | 5 Pack",
+    "img": "https://images.dutchie.com/c45b8b690dfad5e99aeb50fdcc767590?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
+    "brand": "ayrloom",
+    "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=ayrloom-key-lime-infused-pre-roll-5-pack-75447",
+    "price": "$40.00"
+  },
+  {
+    "name": "Animal Face | Premium Flower | Indica | 3.5g",
+    "img": "https://images.dutchie.com/bf058cd9b59f210bb234f5c275199f00?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
+    "brand": "RYTHM",
+    "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=animal-face-premium-flower-indica-3-5g-56358",
+    "price": "$50.00"
+  },
+  {
+    "name": "Flower | Rythm | Sour Diesel",
+    "img": "https://images.dutchie.com/f0db80af4a083fcfc87f30aae4ae599b?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
+    "brand": "RYTHM",
+    "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=flower-rythm-sour-diesel",
+    "price": "$50.00"
+  }
+]
