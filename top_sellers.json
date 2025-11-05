@@ -1,1 +1,51 @@
-[]
+[
+  {
+    "name": "Flower | Untitled | Strawberry Cough",
+    "img": "https://images.dutchie.com/flower-stock-13-v1.jpg?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
+    "brand": "Untitled",
+    "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=flower-untitled-strawberry-cough",
+    "price": "$144.00"
+  },
+  {
+    "name": "Alien OG | AIO Palm | 1.5g",
+    "img": "https://images.dutchie.com/73b56517389dad1f39b2e3315554b66e?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
+    "brand": "Jaunty",
+    "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=alien-og-aio-palm-1-5g",
+    "price": "$60.00"
+  },
+  {
+    "name": "Animal Face | Premium Flower | Indica | 3.5g",
+    "img": "https://images.dutchie.com/bf058cd9b59f210bb234f5c275199f00?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
+    "brand": "RYTHM",
+    "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=animal-face-premium-flower-indica-3-5g-56358",
+    "price": "$50.00"
+  },
+  {
+    "name": "Sour Unicorn Hash Infused Pre-Roll 7-Pack | 3.5g",
+    "img": "https://images.dutchie.com/c1e1d3427f02a19b3a27473d8f29f611?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
+    "brand": "Hudson Cannabis",
+    "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=sour-unicorn-hash-infused-pre-roll-7-pack-3-5g",
+    "price": "$52.00"
+  },
+  {
+    "name": "Vape AIO | Ghost | Strawberry Shortcake",
+    "img": "https://images.dutchie.com/762ec7c757d41e57d34a2b3991fad1f3?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
+    "brand": "ghost.",
+    "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=vape-aio-ghost-strawberry-shortcake",
+    "price": "$100.00"
+  },
+  {
+    "name": "Ayrloom | Mood Bliss | AIO | 1g  | THC : CBC",
+    "img": "https://images.dutchie.com/33f375ac8c3f930ed4e41d430b904554?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
+    "brand": "ayrloom",
+    "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=ayrloom-mood-bliss-aio-1g-thc-cbc-45471",
+    "price": "$50.00"
+  },
+  {
+    "name": "Ghost Train | AIO Palm | 1.5g",
+    "img": "https://images.dutchie.com/38e09657648eede6cedb0d1a0478a089?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
+    "brand": "Jaunty",
+    "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=ghost-train-aio-palm-1-5g-15536",
+    "price": "$60.00"
+  }
+]
