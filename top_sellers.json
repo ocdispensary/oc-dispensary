@@ -1,38 +1,10 @@
 [
   {
-    "name": "Vape AIO | Ghost | Apple Jacks",
-    "img": "https://images.dutchie.com/f1b76babf232339970bbadffae4111b2?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
-    "brand": "ghost.",
-    "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=vape-aio-ghost-apple-jacks",
-    "price": "$100.00"
-  },
-  {
-    "name": "Ayrloom | Mood Bliss | AIO | 1g  | THC : CBC",
-    "img": "https://images.dutchie.com/33f375ac8c3f930ed4e41d430b904554?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
-    "brand": "ayrloom",
-    "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=ayrloom-mood-bliss-aio-1g-thc-cbc-45471",
-    "price": "$50.00"
-  },
-  {
-    "name": "Infused Pre-Rolls | Hudson Cannabis | Blue Diesel - 7pk",
-    "img": "https://images.dutchie.com/df588c98c77baa102a708e188e6db49a?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
-    "brand": "Hudson Cannabis",
-    "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=infused-pre-rolls-hudson-cannabis-blue-diesel-7pk",
-    "price": "$50.00"
-  },
-  {
     "name": "Flower | Nanticoke | Ready 2 Roll Pre-Ground Flower - Sativa",
     "img": "https://images.dutchie.com/0d27e5bc29931a27c347691f9b4d8a1f?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
     "brand": "Ready 2 Roll",
     "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=flower-nanticoke-ready-2-roll-pre-ground-flower-sativa",
     "price": "$40.00"
-  },
-  {
-    "name": "Vape AIO | Ayrloom | Alaskan Thunderfuck",
-    "img": "https://images.dutchie.com/16a0c92f39e78d259fdd8f6420ad1fd8?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
-    "brand": "ayrloom",
-    "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=vape-aio-ayrloom-alaskan-thunderfuck",
-    "price": "$30.00"
   },
   {
     "name": "Flower | Nanticoke | Ready 2 Roll Pre-Ground Flower - Hybrid",
@@ -42,10 +14,38 @@
     "price": "$40.00"
   },
   {
-    "name": "Flower | Rythm | Sour Diesel",
-    "img": "https://images.dutchie.com/f0db80af4a083fcfc87f30aae4ae599b?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
-    "brand": "RYTHM",
-    "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=flower-rythm-sour-diesel",
+    "name": "Ayrloom | Mood Bliss | AIO | 1g  | THC : CBC",
+    "img": "https://images.dutchie.com/33f375ac8c3f930ed4e41d430b904554?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
+    "brand": "ayrloom",
+    "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=ayrloom-mood-bliss-aio-1g-thc-cbc-45471",
     "price": "$50.00"
+  },
+  {
+    "name": "Alien OG | AIO Palm | 1.5g",
+    "img": "https://images.dutchie.com/73b56517389dad1f39b2e3315554b66e?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
+    "brand": "Jaunty",
+    "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=alien-og-aio-palm-1-5g",
+    "price": "$60.00"
+  },
+  {
+    "name": "Flower | Preferred Gardens | Honey Dew",
+    "img": "https://images.dutchie.com/1d6e21c1ce2f24f0cc0b4f4009e82f4d?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
+    "brand": "Preferred Gardens",
+    "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=flower-preferred-gardens-honey-dew",
+    "price": "$45.00"
+  },
+  {
+    "name": "Flower | Revert | Super Diesel",
+    "img": "https://images.dutchie.com/flower-stock-7-v1.jpg?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
+    "brand": "Revert",
+    "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=flower-revert-super-diesel",
+    "price": "$90.00"
+  },
+  {
+    "name": "Flower | Matter | Orange Cookies",
+    "img": "https://images.dutchie.com/0e4f6b45873d616c5e43bc9a6f974f9a?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
+    "brand": "matter.",
+    "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=flower-matter-orange-cookies-86353",
+    "price": "$170.00"
   }
 ]
