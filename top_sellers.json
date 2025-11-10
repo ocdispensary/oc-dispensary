@@ -1,5 +1,19 @@
 [
   {
+    "name": "Flower | Munch Kins | Gelonade",
+    "img": "https://images.dutchie.com/flower-stock-11-v1.jpg?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
+    "brand": "Munchkins",
+    "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=flower-munch-kins-gelonade",
+    "price": "$120.00"
+  },
+  {
+    "name": "Flower | Munch Kins | Headbanger",
+    "img": "https://images.dutchie.com/flower-stock-14-v1.jpg?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
+    "brand": "Munchkins",
+    "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=flower-munch-kins-headbanger",
+    "price": "$120.00"
+  },
+  {
     "name": "Flower | Nanticoke | Ready 2 Roll Pre-Ground Flower - Sativa",
     "img": "https://images.dutchie.com/0d27e5bc29931a27c347691f9b4d8a1f?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
     "brand": "Ready 2 Roll",
@@ -7,25 +21,11 @@
     "price": "$40.00"
   },
   {
-    "name": "Flower | Nanticoke | Ready 2 Roll Pre-Ground Flower - Hybrid",
-    "img": "https://images.dutchie.com/0d27e5bc29931a27c347691f9b4d8a1f?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
-    "brand": "Ready 2 Roll",
-    "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=flower-nanticoke-ready-2-roll-pre-ground-flower-hybrid",
-    "price": "$40.00"
-  },
-  {
-    "name": "Ayrloom | Mood Bliss | AIO | 1g  | THC : CBC",
-    "img": "https://images.dutchie.com/33f375ac8c3f930ed4e41d430b904554?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
-    "brand": "ayrloom",
-    "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=ayrloom-mood-bliss-aio-1g-thc-cbc-45471",
+    "name": "Animal Face | Premium Flower | Indica | 3.5g",
+    "img": "https://images.dutchie.com/bf058cd9b59f210bb234f5c275199f00?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
+    "brand": "RYTHM",
+    "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=animal-face-premium-flower-indica-3-5g-56358",
     "price": "$50.00"
-  },
-  {
-    "name": "Alien OG | AIO Palm | 1.5g",
-    "img": "https://images.dutchie.com/73b56517389dad1f39b2e3315554b66e?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
-    "brand": "Jaunty",
-    "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=alien-og-aio-palm-1-5g",
-    "price": "$60.00"
   },
   {
     "name": "Flower | Preferred Gardens | Honey Dew",
@@ -35,17 +35,17 @@
     "price": "$45.00"
   },
   {
-    "name": "Flower | Revert | Super Diesel",
-    "img": "https://images.dutchie.com/flower-stock-7-v1.jpg?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
-    "brand": "Revert",
-    "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=flower-revert-super-diesel",
-    "price": "$90.00"
-  },
-  {
     "name": "Flower | Matter | Orange Cookies",
     "img": "https://images.dutchie.com/0e4f6b45873d616c5e43bc9a6f974f9a?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
     "brand": "matter.",
     "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=flower-matter-orange-cookies-86353",
     "price": "$170.00"
+  },
+  {
+    "name": "Raspberry Sativa Enhanced Gummies",
+    "img": "https://images.dutchie.com/2a2475a7e6d80138cf436164f76d7545?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
+    "brand": "Wyld",
+    "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=raspberry-sativa-enhanced-gummies-65440",
+    "price": "$24.00"
   }
 ]
