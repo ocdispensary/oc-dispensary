@@ -21,11 +21,11 @@
     "price": "$120.00"
   },
   {
-    "name": "Vape AIO | Ghost | Apple Jacks",
-    "img": "https://images.dutchie.com/f1b76babf232339970bbadffae4111b2?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
-    "brand": "ghost.",
-    "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=vape-aio-ghost-apple-jacks",
-    "price": "$100.00"
+    "name": "Flower | Strain Gang | Puday Haze",
+    "img": "https://images.dutchie.com/flower-stock-2-v1.jpg?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
+    "brand": "Strain Gang",
+    "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=flower-strain-gang-puday-haze",
+    "price": "$55.00"
   },
   {
     "name": "Brownie Scout | Premium Flower | Indica | 3.5g",
@@ -33,6 +33,13 @@
     "brand": "RYTHM",
     "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=brownie-scout-premium-flower-indica-3-5g-84902",
     "price": "$50.00"
+  },
+  {
+    "name": "Infused Pre Rolls | Ruby Farms | Black Haze- 10pk",
+    "img": "https://images.dutchie.com/4443583ffaa1b738342ca2e65499f8d3?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
+    "brand": "Ruby Farms",
+    "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=infused-pre-rolls-ruby-farms-black-haze-10pk",
+    "price": "$65.00"
   },
   {
     "name": "Animal Face | Premium Flower | Indica | 3.5g",
