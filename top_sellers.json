@@ -1,19 +1,5 @@
 [
   {
-    "name": "Flower | Revert | Strawberry Amnesia",
-    "img": "https://images.dutchie.com/3e968eed2f0ef75abc6411c70047596d?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
-    "brand": "Revert",
-    "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=flower-revert-strawberry-amnesia",
-    "price": "$25.00"
-  },
-  {
-    "name": "Flower | Matter | Grape Gas",
-    "img": "https://images.dutchie.com/54b6357bfe15efe93156fe7ffed84efd?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
-    "brand": "matter.",
-    "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=flower-matter-grape-gas",
-    "price": "$120.00"
-  },
-  {
     "name": "Pre-Rolls | Dank | Clockwork Orange",
     "img": "https://images.dutchie.com/96ed9eda565e1811bceaa2ce0a8fa5b8?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
     "brand": "Dank By Definition.",
@@ -21,18 +7,18 @@
     "price": "$14.00"
   },
   {
-    "name": "Pushing Pluto - Premium Flower - 3.5g",
-    "img": "https://images.dutchie.com/d05e518f242bf7311dfe44974b592ffc?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
-    "brand": "To The Moon",
-    "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=pushing-pluto-premium-flower-3-5g",
-    "price": "$50.00"
+    "name": "Flower | Revert | Strawberry Amnesia",
+    "img": "https://images.dutchie.com/3e968eed2f0ef75abc6411c70047596d?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
+    "brand": "Revert",
+    "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=flower-revert-strawberry-amnesia",
+    "price": "$25.00"
   },
   {
-    "name": "Blue Dream | AIO Palm | 1.5g",
-    "img": "https://images.dutchie.com/11a49f35e20d3ee6ba176423b055fae7?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
-    "brand": "Jaunty",
-    "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=blue-dream-aio-palm-1-5g-81003",
-    "price": "$60.00"
+    "name": "Flower | Rythm | Sour Diesel",
+    "img": "https://images.dutchie.com/f0db80af4a083fcfc87f30aae4ae599b?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
+    "brand": "RYTHM",
+    "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=flower-rythm-sour-diesel",
+    "price": "$50.00"
   },
   {
     "name": "Alien OG | AIO Palm | 1.5g",
@@ -42,10 +28,24 @@
     "price": "$60.00"
   },
   {
-    "name": "Flower | Munch Kins | Gelonade",
-    "img": "https://images.dutchie.com/flower-stock-11-v1.jpg?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
-    "brand": "Munchkins",
-    "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=flower-munch-kins-gelonade",
-    "price": "$120.00"
+    "name": "Pushing Pluto - Premium Flower - 3.5g",
+    "img": "https://images.dutchie.com/d05e518f242bf7311dfe44974b592ffc?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
+    "brand": "To The Moon",
+    "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=pushing-pluto-premium-flower-3-5g",
+    "price": "$50.00"
+  },
+  {
+    "name": "Ayrloom | Pink Rozay Infused Pre-Roll | 5 Pack",
+    "img": "https://images.dutchie.com/7cdc982d7c2b3e56c6a8d5ecbe5a5c7e?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
+    "brand": "ayrloom",
+    "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=ayrloom-pink-rozay-infused-pre-roll-5-pack-38766",
+    "price": "$40.00"
+  },
+  {
+    "name": "Blue Dream | AIO Palm | 1.5g",
+    "img": "https://images.dutchie.com/11a49f35e20d3ee6ba176423b055fae7?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
+    "brand": "Jaunty",
+    "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=blue-dream-aio-palm-1-5g-81003",
+    "price": "$60.00"
   }
 ]
