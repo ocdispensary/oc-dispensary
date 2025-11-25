@@ -1,1 +1,51 @@
-[]
+[
+  {
+    "name": "Alien OG | AIO Palm | 1.5g",
+    "img": "https://images.dutchie.com/73b56517389dad1f39b2e3315554b66e?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
+    "brand": "Jaunty",
+    "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=alien-og-aio-palm-1-5g",
+    "price": "$60.00"
+  },
+  {
+    "name": "Flower | Bouket | Ethanol #33",
+    "img": "https://images.dutchie.com/709a5e35671cfcda2df06e9bd817054d?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
+    "brand": "Bouket",
+    "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=flower-bouket-ethanol-33-1445",
+    "price": "$52.00"
+  },
+  {
+    "name": "Animal Face | Premium Flower | Indica | 3.5g",
+    "img": "https://images.dutchie.com/bf058cd9b59f210bb234f5c275199f00?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
+    "brand": "RYTHM",
+    "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=animal-face-premium-flower-indica-3-5g-56358",
+    "price": "$50.00"
+  },
+  {
+    "name": "Flower | Nanticoke | Durban Poison",
+    "img": "https://images.dutchie.com/da0ec44e8512912c5150e67b0ba11e87?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
+    "brand": "Nanticoke",
+    "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=flower-nanticoke-durban-poison-61059",
+    "price": "$44.00"
+  },
+  {
+    "name": "Flower | Smoke - Ounce Packs | London Pie",
+    "img": "https://images.dutchie.com/7e887a839801c47612e26aa36e288771?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
+    "brand": "Smoke",
+    "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=flower-smoke-ounce-packs-london-pie",
+    "price": "$250.00"
+  },
+  {
+    "name": "Flower | Munch Kins | Headbanger",
+    "img": "https://images.dutchie.com/flower-stock-14-v1.jpg?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
+    "brand": "Munchkins",
+    "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=flower-munch-kins-headbanger",
+    "price": "$120.00"
+  },
+  {
+    "name": "Flower | Nanticoke | Coconut Cream",
+    "img": "https://images.dutchie.com/0858a94b04a23dba934e0470fa379d68?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
+    "brand": "Nanticoke",
+    "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=flower-nanticoke-coconut-cream",
+    "price": "$44.00"
+  }
+]
