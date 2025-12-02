@@ -35,17 +35,17 @@
     "price": "$50.00"
   },
   {
+    "name": "Grape Gas Flower | 3.5g",
+    "img": "https://images.dutchie.com/0e7a9f72232042fb79538b6a0b542b50?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
+    "brand": "matter.",
+    "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=grape-gas-flower-3-5g-70117",
+    "price": "$35.40"
+  },
+  {
     "name": "Flower | Cheevo | Gelato Sunset",
     "img": "https://images.dutchie.com/flower-stock-2-v1.jpg?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
     "brand": "Cheevo",
     "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=flower-cheevo-gelato-sunset-58544",
     "price": "$120.00"
-  },
-  {
-    "name": "Flower | FLAV | Sunset Sherbet x Butterscotch Biscotti - DUO",
-    "img": "https://images.dutchie.com/7e37963419afcd89b5868e8935dfb46a?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
-    "brand": "Flav",
-    "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=flower-flav-sunset-sherbet-x-butterscotch-biscotti-duo",
-    "price": "$100.00"
   }
 ]
