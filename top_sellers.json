@@ -7,10 +7,31 @@
     "price": "$220.00"
   },
   {
+    "name": "Grape Gas Flower | 3.5g",
+    "img": "https://images.dutchie.com/0e7a9f72232042fb79538b6a0b542b50?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
+    "brand": "matter.",
+    "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=grape-gas-flower-3-5g-70117",
+    "price": "$35.40"
+  },
+  {
+    "name": "Alien OG | AIO Palm | 1.5g",
+    "img": "https://images.dutchie.com/73b56517389dad1f39b2e3315554b66e?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
+    "brand": "Jaunty",
+    "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=alien-og-aio-palm-1-5g",
+    "price": "$60.00"
+  },
+  {
     "name": "Flower | Grocery | Iced Lemonade",
     "img": "https://images.dutchie.com/flower-stock-2-v1.jpg?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
     "brand": "Grocery",
     "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=flower-grocery-iced-lemonade",
+    "price": "$160.00"
+  },
+  {
+    "name": "Flower | Dank | Peaches n Cream",
+    "img": "https://images.dutchie.com/96ed9eda565e1811bceaa2ce0a8fa5b8?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
+    "brand": "Dank By Definition.",
+    "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=flower-dank-peaches-n-cream",
     "price": "$160.00"
   },
   {
@@ -19,33 +40,5 @@
     "brand": "Rove",
     "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=fruit-punch-melted-diamond-live-resin-vaporizer-1-0g-reload",
     "price": "$82.00"
-  },
-  {
-    "name": "Ayrloom | Cereal Milk Infused Pre-Roll | 5 Pack",
-    "img": "https://images.dutchie.com/85b3f86458fc679a5a998b449ffe094d?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
-    "brand": "ayrloom",
-    "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=ayrloom-cereal-milk-infused-pre-roll-5-pack-49460",
-    "price": "$40.00"
-  },
-  {
-    "name": "Flower | Munch Kins | Headbanger",
-    "img": "https://images.dutchie.com/flower-stock-14-v1.jpg?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
-    "brand": "Munchkins",
-    "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=flower-munch-kins-headbanger",
-    "price": "$120.00"
-  },
-  {
-    "name": "Flower | Nanticoke | Durban Poison",
-    "img": "https://images.dutchie.com/da0ec44e8512912c5150e67b0ba11e87?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
-    "brand": "Nanticoke",
-    "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=flower-nanticoke-durban-poison-61059",
-    "price": "$44.00"
-  },
-  {
-    "name": "Flower | Strain Gang | Puday Haze",
-    "img": "https://images.dutchie.com/flower-stock-2-v1.jpg?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
-    "brand": "Strain Gang",
-    "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=flower-strain-gang-puday-haze",
-    "price": "$55.00"
   }
 ]
