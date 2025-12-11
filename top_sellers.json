@@ -1,12 +1,5 @@
 [
   {
-    "name": "Alien OG | AIO Palm | 1.5g",
-    "img": "https://images.dutchie.com/73b56517389dad1f39b2e3315554b66e?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
-    "brand": "Jaunty",
-    "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=alien-og-aio-palm-1-5g",
-    "price": "$60.00"
-  },
-  {
     "name": "Sour Joker - Premium Flower - 3.5g",
     "img": "https://images.dutchie.com/d4490da1a82fddac2c4571281c6c4060?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
     "brand": "To The Moon",
@@ -14,32 +7,32 @@
     "price": "$50.00"
   },
   {
-    "name": "Scotties Cake Flower",
-    "img": "https://images.dutchie.com/0e7a9f72232042fb79538b6a0b542b50?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
+    "name": "Flower | Matter | Jelly Cake",
+    "img": "https://images.dutchie.com/0e4f6b45873d616c5e43bc9a6f974f9a?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
     "brand": "matter.",
-    "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=scotties-cake-flower-25223",
-    "price": "$120.00"
+    "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=flower-matter-jelly-cake",
+    "price": "$35.40"
   },
   {
-    "name": "Flower | Dank | Peaches n Cream",
-    "img": "https://images.dutchie.com/96ed9eda565e1811bceaa2ce0a8fa5b8?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
-    "brand": "Dank By Definition.",
-    "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=flower-dank-peaches-n-cream",
+    "name": "Flower | Grocery | Blue Zkittles",
+    "img": "https://images.dutchie.com/flower-stock-7-v1.jpg?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
+    "brand": "Grocery",
+    "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=flower-grocery-blue-zkittles",
     "price": "$160.00"
   },
   {
-    "name": "Ayrloom | Cereal Milk Infused Pre-Roll | 5 Pack",
-    "img": "https://images.dutchie.com/85b3f86458fc679a5a998b449ffe094d?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
-    "brand": "ayrloom",
-    "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=ayrloom-cereal-milk-infused-pre-roll-5-pack-49460",
-    "price": "$40.00"
+    "name": "Alien OG | AIO Palm | 1.5g",
+    "img": "https://images.dutchie.com/73b56517389dad1f39b2e3315554b66e?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
+    "brand": "Jaunty",
+    "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=alien-og-aio-palm-1-5g",
+    "price": "$60.00"
   },
   {
-    "name": "Flower | Dumbo Electric | Pre-Ground - Kiwi Lemon Cherry Gelato + Rolling Papers",
-    "img": "https://images.dutchie.com/flower-stock-4-v1.jpg?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
-    "brand": "Dumbo Electric",
-    "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=flower-dumbo-electric-pre-ground-kiwi-lemon-cherry-gelato-rolling-papers",
-    "price": "$60.00"
+    "name": "Flower | Magoogi | Biscotti",
+    "img": "https://images.dutchie.com/73b901c3e72671b7a713936ffcb80888?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
+    "brand": "Magoogi",
+    "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=flower-magoogi-biscotti",
+    "price": "$30.00"
   },
   {
     "name": "Flower | Find. | Delta Diamond X Runtz",
@@ -47,5 +40,12 @@
     "brand": "Find.",
     "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=flower-find-delta-diamond-x-runtz",
     "price": "$110.00"
+  },
+  {
+    "name": "Ayrloom | Cereal Milk Infused Pre-Roll | 5 Pack",
+    "img": "https://images.dutchie.com/85b3f86458fc679a5a998b449ffe094d?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
+    "brand": "ayrloom",
+    "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=ayrloom-cereal-milk-infused-pre-roll-5-pack-49460",
+    "price": "$40.00"
   }
 ]
