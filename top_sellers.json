@@ -1,1 +1,51 @@
-[]
+[
+  {
+    "name": "Flower | Matter | Jelly Cake",
+    "img": "https://images.dutchie.com/Flower-NoType-stock.jpg?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
+    "brand": "matter.",
+    "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=flower-matter-jelly-cake",
+    "price": "$35.40"
+  },
+  {
+    "name": "Apple Fritter | AIO Palm | 1.5g",
+    "img": "https://images.dutchie.com/d9dd304175ffccfb98a2fa3e9fc7017b?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
+    "brand": "Jaunty",
+    "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=apple-fritter-aio-palm-1-5g",
+    "price": "$60.00"
+  },
+  {
+    "name": "Flower | Nanticoke | Durban Poison",
+    "img": "https://images.dutchie.com/da0ec44e8512912c5150e67b0ba11e87?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
+    "brand": "Nanticoke",
+    "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=flower-nanticoke-durban-poison-61059",
+    "price": "$44.00"
+  },
+  {
+    "name": "Ayrloom | Cereal Milk Infused Pre-Roll | 5 Pack",
+    "img": "https://images.dutchie.com/85b3f86458fc679a5a998b449ffe094d?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
+    "brand": "ayrloom",
+    "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=ayrloom-cereal-milk-infused-pre-roll-5-pack-49460",
+    "price": "$40.00"
+  },
+  {
+    "name": "TONY MONTANA (14 GRAMS)",
+    "img": "https://images.dutchie.com/1f8dc6a1cab98fffa332232c53e8a4c1?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
+    "brand": "Dank By Definition.",
+    "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=tony-montana-14-grams",
+    "price": "$120.00"
+  },
+  {
+    "name": "Flower | Dumbo Electric | Pre-Ground - Kiwi Lemon Cherry Gelato + Rolling Papers",
+    "img": "https://images.dutchie.com/Flower-NoType-stock.jpg?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
+    "brand": "Dumbo Electric",
+    "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=flower-dumbo-electric-pre-ground-kiwi-lemon-cherry-gelato-rolling-papers",
+    "price": "$60.00"
+  },
+  {
+    "name": "Amnesia Haze | 510 | CDT",
+    "img": "https://images.dutchie.com/a13eac57b372109f127719ed7edb5f2e?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
+    "brand": "Jaunty",
+    "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=amnesia-haze-510-cdt",
+    "price": "$45.00"
+  }
+]
