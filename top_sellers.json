@@ -1,1 +1,51 @@
-[]
+[
+  {
+    "name": "Apple Fritter | AIO Palm | 1.5g",
+    "img": "https://images.dutchie.com/d9dd304175ffccfb98a2fa3e9fc7017b?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
+    "brand": "Jaunty",
+    "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=apple-fritter-aio-palm-1-5g",
+    "price": "$60.00"
+  },
+  {
+    "name": "Flower | Knack | NY Cheddar",
+    "img": "https://images.dutchie.com/ba9a6065ef91a236d2258c3e4de0cdcc?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
+    "brand": "Knack",
+    "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=flower-knack-ny-cheddar",
+    "price": "$165.00"
+  },
+  {
+    "name": "Sour Diesel | Premium Flower | Sativa | 7g",
+    "img": "https://images.dutchie.com/b7bb2602d48a55b3d775c3682f38f00e?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
+    "brand": "RYTHM",
+    "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=sour-diesel-premium-flower-sativa-7g-48178",
+    "price": "$80.00"
+  },
+  {
+    "name": "Blue Dream | AIO Palm | 1.5g",
+    "img": "https://images.dutchie.com/11a49f35e20d3ee6ba176423b055fae7?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
+    "brand": "Jaunty",
+    "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=blue-dream-aio-palm-1-5g-81003",
+    "price": "$60.00"
+  },
+  {
+    "name": "Flower | Nanticoke | Durban Poison",
+    "img": "https://images.dutchie.com/da0ec44e8512912c5150e67b0ba11e87?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
+    "brand": "Nanticoke",
+    "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=flower-nanticoke-durban-poison-61059",
+    "price": "$44.00"
+  },
+  {
+    "name": "Flower | Nanticoke | Lilac Diesel",
+    "img": "https://images.dutchie.com/5fdca1ad880925cdad1e09c79e1271b5?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
+    "brand": "Nanticoke",
+    "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=flower-nanticoke-lilac-diesel",
+    "price": "$40.00"
+  },
+  {
+    "name": "Edible Gummies | Wyld | Pear 2:1 (THC:CBG) | 100MG",
+    "img": "https://images.dutchie.com/e240635cf0182946382a5ce55c79319b?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
+    "brand": "Wyld",
+    "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=edible-gummies-wyld-pear-2-1-thc-cbg-100mg",
+    "price": "$28.00"
+  }
+]
