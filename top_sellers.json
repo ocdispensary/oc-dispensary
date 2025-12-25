@@ -1,12 +1,5 @@
 [
   {
-    "name": "Flower | Nanticoke | Durban Poison",
-    "img": "https://images.dutchie.com/da0ec44e8512912c5150e67b0ba11e87?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
-    "brand": "Nanticoke",
-    "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=flower-nanticoke-durban-poison-61059",
-    "price": "$44.00"
-  },
-  {
     "name": "Vape AIO | Fernway | Mandarin Orange - Pro Traveler",
     "img": "https://images.dutchie.com/4a97fe89d4987cb1be5df7bd05191d87?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
     "brand": "Fernway",
@@ -14,32 +7,11 @@
     "price": "$83.00"
   },
   {
-    "name": "Sour Diesel | Premium Flower | Sativa | 7g",
-    "img": "https://images.dutchie.com/b7bb2602d48a55b3d775c3682f38f00e?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
-    "brand": "RYTHM",
-    "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=sour-diesel-premium-flower-sativa-7g-48178",
-    "price": "$80.00"
-  },
-  {
-    "name": "Flower | Nanticoke | Lilac Diesel",
-    "img": "https://images.dutchie.com/5fdca1ad880925cdad1e09c79e1271b5?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
+    "name": "Flower | Nanticoke | Durban Poison",
+    "img": "https://images.dutchie.com/da0ec44e8512912c5150e67b0ba11e87?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
     "brand": "Nanticoke",
-    "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=flower-nanticoke-lilac-diesel",
-    "price": "$40.00"
-  },
-  {
-    "name": "Flower | Find. | Agent Z",
-    "img": "https://images.dutchie.com/Flower-NoType-stock.jpg?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
-    "brand": "Find.",
-    "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=flower-find-agent-z-74890",
-    "price": "$186.00"
-  },
-  {
-    "name": "Flower | Magoogi | Kit Cloudkicker",
-    "img": "https://images.dutchie.com/1093664874ed25e7028d92151cab4002?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
-    "brand": "Magoogi",
-    "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=flower-magoogi-kit-cloudkicker",
-    "price": "$30.00"
+    "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=flower-nanticoke-durban-poison-61059",
+    "price": "$44.00"
   },
   {
     "name": "Vape AIO | Bonanza | Pink Mango",
@@ -47,5 +19,26 @@
     "brand": "Bonanza Cannabis",
     "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=vape-aio-bonanza-pink-mango",
     "price": "$60.00"
+  },
+  {
+    "name": "Ayrloom | Key Lime Infused Pre-Roll | 5 Pack",
+    "img": "https://images.dutchie.com/c45b8b690dfad5e99aeb50fdcc767590?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
+    "brand": "ayrloom",
+    "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=ayrloom-key-lime-infused-pre-roll-5-pack-75447",
+    "price": "$40.00"
+  },
+  {
+    "name": "Flower | Rythm | Permanent Marker",
+    "img": "https://images.dutchie.com/9ee70d0bcb760e0be8e9ac757a3771ca?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
+    "brand": "RYTHM",
+    "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=flower-rythm-permanent-marker",
+    "price": "$50.00"
+  },
+  {
+    "name": "Vape Cart | Rythm | Animal Face - Live Resin",
+    "img": "https://images.dutchie.com/vaporizer.jpg?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
+    "brand": "RYTHM",
+    "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=vape-cart-rythm-animal-face-live-resin",
+    "price": "$65.00"
   }
 ]
