@@ -1,1 +1,51 @@
-[]
+[
+  {
+    "name": "Ayrloom | Key Lime Infused Pre-Roll | 5 Pack",
+    "img": "https://images.dutchie.com/c45b8b690dfad5e99aeb50fdcc767590?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
+    "brand": "ayrloom",
+    "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=ayrloom-key-lime-infused-pre-roll-5-pack-75447",
+    "price": "$40.00"
+  },
+  {
+    "name": "Vape AIO | Fernway | Mandarin Orange - Pro Traveler",
+    "img": "https://images.dutchie.com/4a97fe89d4987cb1be5df7bd05191d87?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
+    "brand": "Fernway",
+    "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=vape-aio-fernway-mandarin-orange-pro-traveler",
+    "price": "$83.00"
+  },
+  {
+    "name": "Flower | Nanticoke | Ready 2 Roll Pre-Ground Flower - Hybrid",
+    "img": "https://images.dutchie.com/0d27e5bc29931a27c347691f9b4d8a1f?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
+    "brand": "Ready 2 Roll",
+    "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=flower-nanticoke-ready-2-roll-pre-ground-flower-hybrid",
+    "price": "$40.00"
+  },
+  {
+    "name": "Flower | Nanticoke | Durban Poison",
+    "img": "https://images.dutchie.com/da0ec44e8512912c5150e67b0ba11e87?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
+    "brand": "Nanticoke",
+    "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=flower-nanticoke-durban-poison-61059",
+    "price": "$44.00"
+  },
+  {
+    "name": "Ayrloom | Cereal Milk Infused Pre-Roll | 5 Pack",
+    "img": "https://images.dutchie.com/85b3f86458fc679a5a998b449ffe094d?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
+    "brand": "ayrloom",
+    "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=ayrloom-cereal-milk-infused-pre-roll-5-pack-49460",
+    "price": "$40.00"
+  },
+  {
+    "name": "Vape AIO | Bonanza | Pink Mango",
+    "img": "https://images.dutchie.com/1267e322c7301a2f87b414d120a39377?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
+    "brand": "Bonanza Cannabis",
+    "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=vape-aio-bonanza-pink-mango",
+    "price": "$60.00"
+  },
+  {
+    "name": "Flower | Rythm | Permanent Marker",
+    "img": "https://images.dutchie.com/9ee70d0bcb760e0be8e9ac757a3771ca?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
+    "brand": "RYTHM",
+    "link": "https://ocdispensary.github.io/oc-dispensary/menu?dtche%5Bproduct%5D=flower-rythm-permanent-marker",
+    "price": "$50.00"
+  }
+]
